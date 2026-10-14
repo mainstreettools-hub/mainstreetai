@@ -4,9 +4,9 @@ module.exports = {
   SITE_NAME: "MainStreetAI",
   CONTACT_EMAIL: "mainstreettools@gmail.com", // TODO
   STRIPE: { // TODO: paste real Stripe Payment Links (https://buy.stripe.com/...)
-    featuredSpot: "https://buy.stripe.com/REPLACE_FEATURED_SPOT_299_MO",
-    newsletterBanner: "https://buy.stripe.com/REPLACE_NEWSLETTER_BANNER_450_WK",
-    fastTrack: "https://buy.stripe.com/REPLACE_FAST_TRACK_49"
+    featuredSpot: "https://buy.stripe.com/8x27sKab6g050NJ52UgA800",
+    newsletterBanner: "https://buy.stripe.com/bJe00i3MI6pvaoj7b2gA801",
+    fastTrack: "https://buy.stripe.com/6oU6oG0AwbJP2VR3YQgA802"
   },
   FEATURED: [ // two Featured Partner slots; set name/url/blurb when sold
     { name: null, url: null, blurb: null },
