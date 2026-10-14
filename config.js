@@ -1,6 +1,6 @@
 // MainStreetAI site config — edit this ONE file before deploying.
 module.exports = {
-  BASE_URL: "https://mainstreetai.vercel.app", // TODO: swap for your Vercel/custom domain
+  BASE_URL: "https://mainstreetai-drab.vercel.app", // TODO: swap for your Vercel/custom domain
   SITE_NAME: "MainStreetAI",
   CONTACT_EMAIL: "mainstreettools@gmail.com", // TODO
   STRIPE: { // TODO: paste real Stripe Payment Links (https://buy.stripe.com/...)

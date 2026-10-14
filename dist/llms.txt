@@ -2,74 +2,74 @@
 
 > A plain-English directory of 40 vetted AI tools for local service and small businesses (contractors, plumbers, HVAC, clinics, law offices, realtors, solo operators). Each listing gives published pricing (checked Oct 2026), setup effort, best-fit trades, pros and cons.
 
-Full text of every listing: https://mainstreetai.vercel.app/llms-full.txt
+Full text of every listing: https://mainstreetai-drab.vercel.app/llms-full.txt
 
 ## 24/7 AI Phone Receptionists
 
-- [24/7 AI Phone Receptionists overview](https://mainstreetai.vercel.app/category/phone-receptionists): Never miss a call again. These tools answer your phone day and night, take messages, book jobs and send you summaries.
-- [Smith.ai](https://mainstreetai.vercel.app/tools/smith-ai): An AI receptionist answers, qualifies and books your calls 24/7, with the option of live human receptionists behind it.
-- [Ruby](https://mainstreetai.vercel.app/tools/ruby): Trained human virtual receptionists (with AI assist) answer your calls live, so every caller hears a real person.
-- [Dialzara](https://mainstreetai.vercel.app/tools/dialzara): AI receptionist that answers calls, takes messages, transfers urgent calls and books appointments.
-- [My AI Front Desk](https://mainstreetai.vercel.app/tools/my-ai-front-desk): AI receptionist bundled with web chat, two-way texting and a simple CRM.
-- [Rosie](https://mainstreetai.vercel.app/tools/rosie): Low-cost AI answering service for home-service and local businesses that captures leads and texts you summaries.
-- [Goodcall](https://mainstreetai.vercel.app/tools/goodcall): AI phone agent with unlimited minutes, priced by how many unique callers you get.
-- [Upfirst](https://mainstreetai.vercel.app/tools/upfirst): Simple AI answering service for small businesses that answers, screens and takes messages.
-- [NextPhone](https://mainstreetai.vercel.app/tools/nextphone): AI receptionist with unlimited calls aimed at service businesses that never want to miss a job.
-- [Quo (formerly OpenPhone)](https://mainstreetai.vercel.app/tools/quo-formerly-openphone): Business phone system with an AI agent that answers when your team can't.
-- [Abby Connect](https://mainstreetai.vercel.app/tools/abby-connect): Human receptionist team with AI tools, assigned to your business for a personal feel.
+- [24/7 AI Phone Receptionists overview](https://mainstreetai-drab.vercel.app/category/phone-receptionists): Never miss a call again. These tools answer your phone day and night, take messages, book jobs and send you summaries.
+- [Smith.ai](https://mainstreetai-drab.vercel.app/tools/smith-ai): An AI receptionist answers, qualifies and books your calls 24/7, with the option of live human receptionists behind it.
+- [Ruby](https://mainstreetai-drab.vercel.app/tools/ruby): Trained human virtual receptionists (with AI assist) answer your calls live, so every caller hears a real person.
+- [Dialzara](https://mainstreetai-drab.vercel.app/tools/dialzara): AI receptionist that answers calls, takes messages, transfers urgent calls and books appointments.
+- [My AI Front Desk](https://mainstreetai-drab.vercel.app/tools/my-ai-front-desk): AI receptionist bundled with web chat, two-way texting and a simple CRM.
+- [Rosie](https://mainstreetai-drab.vercel.app/tools/rosie): Low-cost AI answering service for home-service and local businesses that captures leads and texts you summaries.
+- [Goodcall](https://mainstreetai-drab.vercel.app/tools/goodcall): AI phone agent with unlimited minutes, priced by how many unique callers you get.
+- [Upfirst](https://mainstreetai-drab.vercel.app/tools/upfirst): Simple AI answering service for small businesses that answers, screens and takes messages.
+- [NextPhone](https://mainstreetai-drab.vercel.app/tools/nextphone): AI receptionist with unlimited calls aimed at service businesses that never want to miss a job.
+- [Quo (formerly OpenPhone)](https://mainstreetai-drab.vercel.app/tools/quo-formerly-openphone): Business phone system with an AI agent that answers when your team can't.
+- [Abby Connect](https://mainstreetai-drab.vercel.app/tools/abby-connect): Human receptionist team with AI tools, assigned to your business for a personal feel.
 
 ## Field Service & Scheduling
 
-- [Field Service & Scheduling overview](https://mainstreetai.vercel.app/category/field-service-scheduling): Quote, schedule, dispatch and get paid from one app built for crews in the field.
-- [Jobber](https://mainstreetai.vercel.app/tools/jobber): All-in-one app for quoting, scheduling, dispatching, invoicing and getting paid for home-service jobs.
-- [Housecall Pro](https://mainstreetai.vercel.app/tools/housecall-pro): Scheduling, dispatch, invoicing and marketing for home-service pros, with built-in AI tools.
-- [ServiceTitan](https://mainstreetai.vercel.app/tools/servicetitan): Enterprise-grade platform for larger trades shops: dispatch, pricebooks, memberships, reporting.
-- [Workiz](https://mainstreetai.vercel.app/tools/workiz): Field service software with built-in phone, AI answering and payments for small trade teams.
-- [FieldPulse](https://mainstreetai.vercel.app/tools/fieldpulse): Scheduling, estimates, invoicing and job tracking for growing trade contractors.
-- [Service Fusion](https://mainstreetai.vercel.app/tools/service-fusion): Field service management with unlimited users, aimed at growing contractors.
-- [FieldEdge](https://mainstreetai.vercel.app/tools/fieldedge): Dispatch and service management for HVAC, plumbing and electrical, with QuickBooks sync.
-- [ServiceM8](https://mainstreetai.vercel.app/tools/servicem8): iPhone-first job management app for small trade teams: quotes, scheduling, invoices.
-- [Kickserv](https://mainstreetai.vercel.app/tools/kickserv): Affordable job scheduling, estimates and invoicing for small service companies.
-- [Square Appointments](https://mainstreetai.vercel.app/tools/square-appointments): Online booking, reminders and payments for appointment-based businesses.
+- [Field Service & Scheduling overview](https://mainstreetai-drab.vercel.app/category/field-service-scheduling): Quote, schedule, dispatch and get paid from one app built for crews in the field.
+- [Jobber](https://mainstreetai-drab.vercel.app/tools/jobber): All-in-one app for quoting, scheduling, dispatching, invoicing and getting paid for home-service jobs.
+- [Housecall Pro](https://mainstreetai-drab.vercel.app/tools/housecall-pro): Scheduling, dispatch, invoicing and marketing for home-service pros, with built-in AI tools.
+- [ServiceTitan](https://mainstreetai-drab.vercel.app/tools/servicetitan): Enterprise-grade platform for larger trades shops: dispatch, pricebooks, memberships, reporting.
+- [Workiz](https://mainstreetai-drab.vercel.app/tools/workiz): Field service software with built-in phone, AI answering and payments for small trade teams.
+- [FieldPulse](https://mainstreetai-drab.vercel.app/tools/fieldpulse): Scheduling, estimates, invoicing and job tracking for growing trade contractors.
+- [Service Fusion](https://mainstreetai-drab.vercel.app/tools/service-fusion): Field service management with unlimited users, aimed at growing contractors.
+- [FieldEdge](https://mainstreetai-drab.vercel.app/tools/fieldedge): Dispatch and service management for HVAC, plumbing and electrical, with QuickBooks sync.
+- [ServiceM8](https://mainstreetai-drab.vercel.app/tools/servicem8): iPhone-first job management app for small trade teams: quotes, scheduling, invoices.
+- [Kickserv](https://mainstreetai-drab.vercel.app/tools/kickserv): Affordable job scheduling, estimates and invoicing for small service companies.
+- [Square Appointments](https://mainstreetai-drab.vercel.app/tools/square-appointments): Online booking, reminders and payments for appointment-based businesses.
 
 ## AI Bookkeeping & Invoicing
 
-- [AI Bookkeeping & Invoicing overview](https://mainstreetai.vercel.app/category/bookkeeping-invoicing): Let software categorize expenses, chase invoices and keep your books tax-ready.
-- [QuickBooks Online](https://mainstreetai.vercel.app/tools/quickbooks-online): The most common small-business accounting software, with AI-assisted categorizing, invoicing and payroll add-ons.
-- [Xero](https://mainstreetai.vercel.app/tools/xero): Cloud accounting with unlimited users, automatic bank reconciliation and invoicing.
-- [FreshBooks](https://mainstreetai.vercel.app/tools/freshbooks): Invoicing-first accounting for service businesses that bill clients for time and projects.
-- [Wave](https://mainstreetai.vercel.app/tools/wave): Free accounting and invoicing for very small businesses, with a low-cost Pro tier.
-- [Zoho Books](https://mainstreetai.vercel.app/tools/zoho-books): Full accounting with a free plan for small businesses and strong automation.
-- [Digits](https://mainstreetai.vercel.app/tools/digits): AI-native bookkeeping that auto-categorizes transactions and keeps books up to date.
-- [Booke AI](https://mainstreetai.vercel.app/tools/booke-ai): AI assistant that cleans up and reconciles books inside QuickBooks or Xero.
-- [Docyt](https://mainstreetai.vercel.app/tools/docyt): AI bookkeeping automation for multi-location businesses, with receipt capture and reconciliation.
-- [Puzzle](https://mainstreetai.vercel.app/tools/puzzle): AI accounting software that automates categorization and monthly close.
-- [Invoice Simple](https://mainstreetai.vercel.app/tools/invoice-simple): Phone-friendly app to send estimates and invoices and get paid fast.
+- [AI Bookkeeping & Invoicing overview](https://mainstreetai-drab.vercel.app/category/bookkeeping-invoicing): Let software categorize expenses, chase invoices and keep your books tax-ready.
+- [QuickBooks Online](https://mainstreetai-drab.vercel.app/tools/quickbooks-online): The most common small-business accounting software, with AI-assisted categorizing, invoicing and payroll add-ons.
+- [Xero](https://mainstreetai-drab.vercel.app/tools/xero): Cloud accounting with unlimited users, automatic bank reconciliation and invoicing.
+- [FreshBooks](https://mainstreetai-drab.vercel.app/tools/freshbooks): Invoicing-first accounting for service businesses that bill clients for time and projects.
+- [Wave](https://mainstreetai-drab.vercel.app/tools/wave): Free accounting and invoicing for very small businesses, with a low-cost Pro tier.
+- [Zoho Books](https://mainstreetai-drab.vercel.app/tools/zoho-books): Full accounting with a free plan for small businesses and strong automation.
+- [Digits](https://mainstreetai-drab.vercel.app/tools/digits): AI-native bookkeeping that auto-categorizes transactions and keeps books up to date.
+- [Booke AI](https://mainstreetai-drab.vercel.app/tools/booke-ai): AI assistant that cleans up and reconciles books inside QuickBooks or Xero.
+- [Docyt](https://mainstreetai-drab.vercel.app/tools/docyt): AI bookkeeping automation for multi-location businesses, with receipt capture and reconciliation.
+- [Puzzle](https://mainstreetai-drab.vercel.app/tools/puzzle): AI accounting software that automates categorization and monthly close.
+- [Invoice Simple](https://mainstreetai-drab.vercel.app/tools/invoice-simple): Phone-friendly app to send estimates and invoices and get paid fast.
 
 ## Website Chat & Workflows
 
-- [Website Chat & Workflows overview](https://mainstreetai.vercel.app/category/website-chat-workflows): Answer website visitors instantly and automate the busywork between your apps.
-- [Tidio](https://mainstreetai.vercel.app/tools/tidio): Live chat plus Lyro AI agent that answers common customer questions on your website.
-- [Intercom (Fin AI Agent)](https://mainstreetai.vercel.app/tools/intercom-fin-ai-agent): Support platform whose Fin AI agent resolves customer questions automatically.
-- [Chatbase](https://mainstreetai.vercel.app/tools/chatbase): Train a chatbot on your website and documents in minutes and embed it on your site.
-- [Botpress](https://mainstreetai.vercel.app/tools/botpress): Build custom AI chat agents with workflows and integrations; more flexible, more technical.
-- [Podium](https://mainstreetai.vercel.app/tools/podium): Text-based customer messaging, reviews and payments with an AI employee for local businesses.
-- [Birdeye](https://mainstreetai.vercel.app/tools/birdeye): Reputation and messaging platform: reviews, web chat and AI replies across locations.
-- [HubSpot (free CRM + chat)](https://mainstreetai.vercel.app/tools/hubspot-free-crm-chat): Free CRM with website chat, forms and AI assistant; upgrade for automation.
-- [Zapier](https://mainstreetai.vercel.app/tools/zapier): Connects your apps so leads, bookings and invoices flow automatically, with AI steps and agents.
-- [Make](https://mainstreetai.vercel.app/tools/make): Visual automation builder for multi-step workflows between your business tools.
-- [Crisp](https://mainstreetai.vercel.app/tools/crisp): Shared inbox with website chat, AI answers and a knowledge base.
+- [Website Chat & Workflows overview](https://mainstreetai-drab.vercel.app/category/website-chat-workflows): Answer website visitors instantly and automate the busywork between your apps.
+- [Tidio](https://mainstreetai-drab.vercel.app/tools/tidio): Live chat plus Lyro AI agent that answers common customer questions on your website.
+- [Intercom (Fin AI Agent)](https://mainstreetai-drab.vercel.app/tools/intercom-fin-ai-agent): Support platform whose Fin AI agent resolves customer questions automatically.
+- [Chatbase](https://mainstreetai-drab.vercel.app/tools/chatbase): Train a chatbot on your website and documents in minutes and embed it on your site.
+- [Botpress](https://mainstreetai-drab.vercel.app/tools/botpress): Build custom AI chat agents with workflows and integrations; more flexible, more technical.
+- [Podium](https://mainstreetai-drab.vercel.app/tools/podium): Text-based customer messaging, reviews and payments with an AI employee for local businesses.
+- [Birdeye](https://mainstreetai-drab.vercel.app/tools/birdeye): Reputation and messaging platform: reviews, web chat and AI replies across locations.
+- [HubSpot (free CRM + chat)](https://mainstreetai-drab.vercel.app/tools/hubspot-free-crm-chat): Free CRM with website chat, forms and AI assistant; upgrade for automation.
+- [Zapier](https://mainstreetai-drab.vercel.app/tools/zapier): Connects your apps so leads, bookings and invoices flow automatically, with AI steps and agents.
+- [Make](https://mainstreetai-drab.vercel.app/tools/make): Visual automation builder for multi-step workflows between your business tools.
+- [Crisp](https://mainstreetai-drab.vercel.app/tools/crisp): Shared inbox with website chat, AI answers and a knowledge base.
 
 ## Comparisons
 
-- [Top 10 AI Phone Receptionists Compared (2026)](https://mainstreetai.vercel.app/compare/ai-phone-receptionists-compared): Side-by-side pricing, setup and best fit for every AI answering service in our directory.
-- [Best AI Tools for Plumbers (2026)](https://mainstreetai.vercel.app/compare/best-ai-tools-for-plumbers): Answer emergency calls at 2am, dispatch faster and invoice from the truck.
-- [Best AI Tools for HVAC Companies (2026)](https://mainstreetai.vercel.app/compare/best-ai-tools-for-hvac): Seasonal call spikes, maintenance agreements and fast quoting — the tools that help.
-- [Best AI Tools for Law Offices (2026)](https://mainstreetai.vercel.app/compare/best-ai-tools-for-law-offices): Intake every caller, bill clients cleanly and answer website questions after hours.
-- [Best AI Tools for Clinics & Practices (2026)](https://mainstreetai.vercel.app/compare/best-ai-tools-for-clinics): Booking, reminders and front-desk relief for clinics.
-- [Jobber vs Housecall Pro (2026)](https://mainstreetai.vercel.app/compare/jobber-vs-housecall-pro): The two most popular field-service apps with published pricing, compared.
-- [QuickBooks vs Xero vs Wave (2026)](https://mainstreetai.vercel.app/compare/quickbooks-vs-xero-vs-wave): Which bookkeeping software fits a small service business?
+- [Top 10 AI Phone Receptionists Compared (2026)](https://mainstreetai-drab.vercel.app/compare/ai-phone-receptionists-compared): Side-by-side pricing, setup and best fit for every AI answering service in our directory.
+- [Best AI Tools for Plumbers (2026)](https://mainstreetai-drab.vercel.app/compare/best-ai-tools-for-plumbers): Answer emergency calls at 2am, dispatch faster and invoice from the truck.
+- [Best AI Tools for HVAC Companies (2026)](https://mainstreetai-drab.vercel.app/compare/best-ai-tools-for-hvac): Seasonal call spikes, maintenance agreements and fast quoting — the tools that help.
+- [Best AI Tools for Law Offices (2026)](https://mainstreetai-drab.vercel.app/compare/best-ai-tools-for-law-offices): Intake every caller, bill clients cleanly and answer website questions after hours.
+- [Best AI Tools for Clinics & Practices (2026)](https://mainstreetai-drab.vercel.app/compare/best-ai-tools-for-clinics): Booking, reminders and front-desk relief for clinics.
+- [Jobber vs Housecall Pro (2026)](https://mainstreetai-drab.vercel.app/compare/jobber-vs-housecall-pro): The two most popular field-service apps with published pricing, compared.
+- [QuickBooks vs Xero vs Wave (2026)](https://mainstreetai-drab.vercel.app/compare/quickbooks-vs-xero-vs-wave): Which bookkeeping software fits a small service business?
 
 ## Optional
 
-- [Sponsor / advertise](https://mainstreetai.vercel.app/sponsor)
+- [Sponsor / advertise](https://mainstreetai-drab.vercel.app/sponsor)
