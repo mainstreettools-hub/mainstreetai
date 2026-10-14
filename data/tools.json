@@ -1,0 +1,943 @@
+[
+  {
+    "slug": "smith-ai",
+    "category": "phone-receptionists",
+    "name": "Smith.ai",
+    "url": "https://smith.ai",
+    "summary": "An AI receptionist answers, qualifies and books your calls 24/7, with the option of live human receptionists behind it.",
+    "pricing": "Free: 25 calls/mo ($3/call after). Pro from $150/mo for 75 calls. Enterprise from $500/mo.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "easy",
+    "setup_time": "1\u20132 hours",
+    "best_trades": [
+      "Law offices",
+      "Contractors",
+      "Clinics"
+    ],
+    "pros": [
+      "Free tier to test",
+      "Human backup available",
+      "Strong lead intake"
+    ],
+    "cons": [
+      "Per-call pricing adds up on busy lines"
+    ]
+  },
+  {
+    "slug": "ruby",
+    "category": "phone-receptionists",
+    "name": "Ruby",
+    "url": "https://www.ruby.com",
+    "summary": "Trained human virtual receptionists (with AI assist) answer your calls live, so every caller hears a real person.",
+    "pricing": "From $250/mo for 50 minutes.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "easy",
+    "setup_time": "1 day",
+    "best_trades": [
+      "Law offices",
+      "Realtors",
+      "Clinics"
+    ],
+    "pros": [
+      "Real people on every call",
+      "Polished, professional tone"
+    ],
+    "cons": [
+      "Much pricier than pure AI",
+      "Minute-based billing"
+    ]
+  },
+  {
+    "slug": "dialzara",
+    "category": "phone-receptionists",
+    "name": "Dialzara",
+    "url": "https://dialzara.com",
+    "summary": "AI receptionist that answers calls, takes messages, transfers urgent calls and books appointments.",
+    "pricing": "From $29/mo (60 minutes); higher tiers from $99/mo. 7-day free trial.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "easy",
+    "setup_time": "15\u201330 minutes",
+    "best_trades": [
+      "Solo operators",
+      "Plumbers",
+      "Cleaners"
+    ],
+    "pros": [
+      "Very low entry price",
+      "No contract"
+    ],
+    "cons": [
+      "Low minute cap on entry plan"
+    ]
+  },
+  {
+    "slug": "my-ai-front-desk",
+    "category": "phone-receptionists",
+    "name": "My AI Front Desk",
+    "url": "https://www.myaifrontdesk.com",
+    "summary": "AI receptionist bundled with web chat, two-way texting and a simple CRM.",
+    "pricing": "Business-in-a-Box $99/mo ($79/mo billed annually) incl. 200 voice minutes; overage about $0.25/min.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "easy",
+    "setup_time": "30\u201360 minutes",
+    "best_trades": [
+      "HVAC",
+      "Plumbers",
+      "Salons",
+      "Clinics"
+    ],
+    "pros": [
+      "Calls + chat + SMS in one",
+      "Simple setup"
+    ],
+    "cons": [
+      "Busy shops need custom plan"
+    ]
+  },
+  {
+    "slug": "rosie",
+    "category": "phone-receptionists",
+    "name": "Rosie",
+    "url": "https://heyrosie.com",
+    "summary": "Low-cost AI answering service for home-service and local businesses that captures leads and texts you summaries.",
+    "pricing": "From $49/mo for 250 minutes; next tier $149/mo for 1,000 minutes.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "easy",
+    "setup_time": "10\u201320 minutes",
+    "best_trades": [
+      "Contractors",
+      "Landscapers",
+      "Solo operators"
+    ],
+    "pros": [
+      "Generous minutes for price",
+      "Built for home services"
+    ],
+    "cons": [
+      "Jumps to next plan rather than overage"
+    ]
+  },
+  {
+    "slug": "goodcall",
+    "category": "phone-receptionists",
+    "name": "Goodcall",
+    "url": "https://www.goodcall.com",
+    "summary": "AI phone agent with unlimited minutes, priced by how many unique callers you get.",
+    "pricing": "Starter $79/mo per agent ($66 billed annually): unlimited minutes, 100 unique callers, then $0.50 per extra caller.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "easy",
+    "setup_time": "30 minutes",
+    "best_trades": [
+      "Restaurants",
+      "Auto shops",
+      "Repeat-customer businesses"
+    ],
+    "pros": [
+      "Unlimited minutes",
+      "Good for long calls"
+    ],
+    "cons": [
+      "Costs rise with many new callers"
+    ]
+  },
+  {
+    "slug": "upfirst",
+    "category": "phone-receptionists",
+    "name": "Upfirst",
+    "url": "https://upfirst.ai",
+    "summary": "Simple AI answering service for small businesses that answers, screens and takes messages.",
+    "pricing": "From $24.95/mo for 30 calls (third-party report, Sep 2026).",
+    "pricing_verified": false,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "easy",
+    "setup_time": "15 minutes",
+    "best_trades": [
+      "Solo operators",
+      "Handymen"
+    ],
+    "pros": [
+      "Cheap to start"
+    ],
+    "cons": [
+      "Small call allowance"
+    ]
+  },
+  {
+    "slug": "nextphone",
+    "category": "phone-receptionists",
+    "name": "NextPhone",
+    "url": "https://www.getnextphone.com",
+    "summary": "AI receptionist with unlimited calls aimed at service businesses that never want to miss a job.",
+    "pricing": "From $199/mo with unlimited calls (third-party report, Sep 2026).",
+    "pricing_verified": false,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "easy",
+    "setup_time": "1 hour",
+    "best_trades": [
+      "HVAC",
+      "Roofers",
+      "Plumbers"
+    ],
+    "pros": [
+      "Unlimited calls",
+      "Predictable bill"
+    ],
+    "cons": [
+      "Higher entry price"
+    ]
+  },
+  {
+    "slug": "quo-formerly-openphone",
+    "category": "phone-receptionists",
+    "name": "Quo (formerly OpenPhone)",
+    "url": "https://www.quo.com",
+    "summary": "Business phone system with an AI agent that answers when your team can't.",
+    "pricing": "From $15/user/mo billed annually, with limited AI call credits (third-party report, Sep 2026).",
+    "pricing_verified": false,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "easy",
+    "setup_time": "30 minutes",
+    "best_trades": [
+      "Realtors",
+      "Small teams",
+      "Solo operators"
+    ],
+    "pros": [
+      "Full business phone line",
+      "Shared team inbox"
+    ],
+    "cons": [
+      "AI calls billed via credits"
+    ]
+  },
+  {
+    "slug": "abby-connect",
+    "category": "phone-receptionists",
+    "name": "Abby Connect",
+    "url": "https://www.abby.com",
+    "summary": "Human receptionist team with AI tools, assigned to your business for a personal feel.",
+    "pricing": "From $165/mo for 50 minutes (third-party report, Sep 2026).",
+    "pricing_verified": false,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "easy",
+    "setup_time": "1\u20132 days",
+    "best_trades": [
+      "Law offices",
+      "Clinics",
+      "Financial advisors"
+    ],
+    "pros": [
+      "Dedicated human team"
+    ],
+    "cons": [
+      "Minute-based, costly at volume"
+    ]
+  },
+  {
+    "slug": "jobber",
+    "category": "field-service-scheduling",
+    "name": "Jobber",
+    "url": "https://www.getjobber.com",
+    "summary": "All-in-one app for quoting, scheduling, dispatching, invoicing and getting paid for home-service jobs.",
+    "pricing": "Core $29/mo billed annually ($49 monthly), Connect $99 ($139), Grow $149 ($199) for 1 user; extra users $29/mo; card fees 2.9% + 30\u00a2.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "medium",
+    "setup_time": "1\u20133 days",
+    "best_trades": [
+      "Landscapers",
+      "Cleaners",
+      "Plumbers",
+      "HVAC"
+    ],
+    "pros": [
+      "Published pricing",
+      "Easy for crews",
+      "Free trial"
+    ],
+    "cons": [
+      "Add-ons (e.g. AI receptionist) cost extra"
+    ]
+  },
+  {
+    "slug": "housecall-pro",
+    "category": "field-service-scheduling",
+    "name": "Housecall Pro",
+    "url": "https://www.housecallpro.com",
+    "summary": "Scheduling, dispatch, invoicing and marketing for home-service pros, with built-in AI tools.",
+    "pricing": "Basic $59/mo annually ($79 monthly, 1 user); Essentials $149 ($189, 5 users); MAX from $299 ($329, 8 users).",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "medium",
+    "setup_time": "2\u20135 days",
+    "best_trades": [
+      "HVAC",
+      "Plumbers",
+      "Electricians"
+    ],
+    "pros": [
+      "Strong mobile app",
+      "Good marketing tools"
+    ],
+    "cons": [
+      "Price increases in 2026"
+    ]
+  },
+  {
+    "slug": "servicetitan",
+    "category": "field-service-scheduling",
+    "name": "ServiceTitan",
+    "url": "https://www.servicetitan.com",
+    "summary": "Enterprise-grade platform for larger trades shops: dispatch, pricebooks, memberships, reporting.",
+    "pricing": "Contact for pricing (quote per technician).",
+    "pricing_verified": false,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "hard",
+    "setup_time": "4\u201312 weeks",
+    "best_trades": [
+      "HVAC",
+      "Plumbing",
+      "Electrical (10+ techs)"
+    ],
+    "pros": [
+      "Very deep features",
+      "Great reporting"
+    ],
+    "cons": [
+      "Expensive, long onboarding"
+    ]
+  },
+  {
+    "slug": "workiz",
+    "category": "field-service-scheduling",
+    "name": "Workiz",
+    "url": "https://www.workiz.com",
+    "summary": "Field service software with built-in phone, AI answering and payments for small trade teams.",
+    "pricing": "Contact for pricing (Standard/Pro/Ultimate all 'Request pricing'; 5 users included).",
+    "pricing_verified": false,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "medium",
+    "setup_time": "1\u20132 weeks",
+    "best_trades": [
+      "Locksmiths",
+      "Garage door",
+      "Appliance repair"
+    ],
+    "pros": [
+      "Built-in phone system",
+      "AI answering add-on"
+    ],
+    "cons": [
+      "No public pricing"
+    ]
+  },
+  {
+    "slug": "fieldpulse",
+    "category": "field-service-scheduling",
+    "name": "FieldPulse",
+    "url": "https://www.fieldpulse.com",
+    "summary": "Scheduling, estimates, invoicing and job tracking for growing trade contractors.",
+    "pricing": "Contact for pricing.",
+    "pricing_verified": false,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "medium",
+    "setup_time": "1\u20132 weeks",
+    "best_trades": [
+      "Electricians",
+      "HVAC",
+      "Plumbers"
+    ],
+    "pros": [
+      "Flexible forms",
+      "Good support"
+    ],
+    "cons": [
+      "No public pricing"
+    ]
+  },
+  {
+    "slug": "service-fusion",
+    "category": "field-service-scheduling",
+    "name": "Service Fusion",
+    "url": "https://www.servicefusion.com",
+    "summary": "Field service management with unlimited users, aimed at growing contractors.",
+    "pricing": "Contact for pricing (not verified Oct 2026).",
+    "pricing_verified": false,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "medium",
+    "setup_time": "1\u20133 weeks",
+    "best_trades": [
+      "HVAC",
+      "Plumbing",
+      "Pest control"
+    ],
+    "pros": [
+      "Unlimited users on plans"
+    ],
+    "cons": [
+      "Dated interface for some"
+    ]
+  },
+  {
+    "slug": "fieldedge",
+    "category": "field-service-scheduling",
+    "name": "FieldEdge",
+    "url": "https://fieldedge.com",
+    "summary": "Dispatch and service management for HVAC, plumbing and electrical, with QuickBooks sync.",
+    "pricing": "Contact for pricing (demo-led).",
+    "pricing_verified": false,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "hard",
+    "setup_time": "2\u20136 weeks",
+    "best_trades": [
+      "HVAC",
+      "Plumbers",
+      "Electricians"
+    ],
+    "pros": [
+      "Deep QuickBooks sync",
+      "Service agreements"
+    ],
+    "cons": [
+      "Demo required to price"
+    ]
+  },
+  {
+    "slug": "servicem8",
+    "category": "field-service-scheduling",
+    "name": "ServiceM8",
+    "url": "https://www.servicem8.com",
+    "summary": "iPhone-first job management app for small trade teams: quotes, scheduling, invoices.",
+    "pricing": "Free tier and job-based paid plans; vendor page not verified Oct 2026 \u2014 confirm on site.",
+    "pricing_verified": false,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "easy",
+    "setup_time": "1 day",
+    "best_trades": [
+      "Electricians",
+      "Handymen",
+      "Solo operators"
+    ],
+    "pros": [
+      "Great iPhone app",
+      "Pay by job volume"
+    ],
+    "cons": [
+      "Best on Apple devices"
+    ]
+  },
+  {
+    "slug": "kickserv",
+    "category": "field-service-scheduling",
+    "name": "Kickserv",
+    "url": "https://www.kickserv.com",
+    "summary": "Affordable job scheduling, estimates and invoicing for small service companies.",
+    "pricing": "Tiered monthly plans; vendor page not verified Oct 2026 \u2014 confirm on site.",
+    "pricing_verified": false,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "easy",
+    "setup_time": "1\u20132 days",
+    "best_trades": [
+      "Carpet cleaners",
+      "Pest control",
+      "Small crews"
+    ],
+    "pros": [
+      "Affordable",
+      "Simple"
+    ],
+    "cons": [
+      "Fewer integrations"
+    ]
+  },
+  {
+    "slug": "square-appointments",
+    "category": "field-service-scheduling",
+    "name": "Square Appointments",
+    "url": "https://squareup.com/us/en/appointments",
+    "summary": "Online booking, reminders and payments for appointment-based businesses.",
+    "pricing": "Free plan for individuals; paid plans per location; vendor page not verified Oct 2026 \u2014 confirm on site.",
+    "pricing_verified": false,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "easy",
+    "setup_time": "1\u20132 hours",
+    "best_trades": [
+      "Clinics",
+      "Salons",
+      "Solo practitioners"
+    ],
+    "pros": [
+      "Free to start",
+      "Built-in payments"
+    ],
+    "cons": [
+      "Not built for dispatching crews"
+    ]
+  },
+  {
+    "slug": "quickbooks-online",
+    "category": "bookkeeping-invoicing",
+    "name": "QuickBooks Online",
+    "url": "https://quickbooks.intuit.com",
+    "summary": "The most common small-business accounting software, with AI-assisted categorizing, invoicing and payroll add-ons.",
+    "pricing": "Simple Start $38/mo, Essentials $85, Plus $140, Advanced $340 (list prices; renewals rose Aug 2026 on higher tiers).",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "medium",
+    "setup_time": "1\u20133 days",
+    "best_trades": [
+      "Contractors",
+      "Law offices",
+      "Most small businesses"
+    ],
+    "pros": [
+      "Every accountant knows it",
+      "Huge app ecosystem"
+    ],
+    "cons": [
+      "Price increases",
+      "User caps per tier"
+    ]
+  },
+  {
+    "slug": "xero",
+    "category": "bookkeeping-invoicing",
+    "name": "Xero",
+    "url": "https://www.xero.com/us/",
+    "summary": "Cloud accounting with unlimited users, automatic bank reconciliation and invoicing.",
+    "pricing": "Early $27/mo, Growing $59, Established $97 (US, from Oct 1 2026); intro discounts often offered.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "medium",
+    "setup_time": "1\u20132 days",
+    "best_trades": [
+      "Contractors",
+      "Clinics",
+      "Multi-person teams"
+    ],
+    "pros": [
+      "Unlimited users",
+      "Clean interface"
+    ],
+    "cons": [
+      "Early plan limits invoices to 20/mo"
+    ]
+  },
+  {
+    "slug": "freshbooks",
+    "category": "bookkeeping-invoicing",
+    "name": "FreshBooks",
+    "url": "https://www.freshbooks.com",
+    "summary": "Invoicing-first accounting for service businesses that bill clients for time and projects.",
+    "pricing": "Lite $23/mo (5 clients), Plus $43 (50 clients), Premium $70 (unlimited); team members $11/mo each.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "easy",
+    "setup_time": "2\u20134 hours",
+    "best_trades": [
+      "Solo operators",
+      "Consultants",
+      "Law offices"
+    ],
+    "pros": [
+      "Very easy invoicing",
+      "Time tracking"
+    ],
+    "cons": [
+      "Client caps on lower plans"
+    ]
+  },
+  {
+    "slug": "wave",
+    "category": "bookkeeping-invoicing",
+    "name": "Wave",
+    "url": "https://www.waveapps.com",
+    "summary": "Free accounting and invoicing for very small businesses, with a low-cost Pro tier.",
+    "pricing": "Starter $0; Pro $19/mo (or $190/yr). Payment processing fees extra.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "easy",
+    "setup_time": "1\u20132 hours",
+    "best_trades": [
+      "Solo operators",
+      "Handymen",
+      "Freelancers"
+    ],
+    "pros": [
+      "Free core plan",
+      "No revenue cap"
+    ],
+    "cons": [
+      "Limited support on free plan"
+    ]
+  },
+  {
+    "slug": "zoho-books",
+    "category": "bookkeeping-invoicing",
+    "name": "Zoho Books",
+    "url": "https://www.zoho.com/us/books/",
+    "summary": "Full accounting with a free plan for small businesses and strong automation.",
+    "pricing": "Free under $50K revenue; Standard $20/mo ($15/mo annually, 3 users); higher tiers available.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "medium",
+    "setup_time": "1\u20132 days",
+    "best_trades": [
+      "Small teams",
+      "Clinics",
+      "Retail-service"
+    ],
+    "pros": [
+      "Free plan",
+      "Works with Zoho apps"
+    ],
+    "cons": [
+      "Many tiers to choose from"
+    ]
+  },
+  {
+    "slug": "digits",
+    "category": "bookkeeping-invoicing",
+    "name": "Digits",
+    "url": "https://digits.com",
+    "summary": "AI-native bookkeeping that auto-categorizes transactions and keeps books up to date.",
+    "pricing": "Contact / see site for pricing (vendor page not verified Oct 2026 \u2014 confirm on site).",
+    "pricing_verified": false,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "easy",
+    "setup_time": "1\u20132 hours",
+    "best_trades": [
+      "Startups",
+      "Solo operators"
+    ],
+    "pros": [
+      "Highly automated",
+      "Real-time dashboards"
+    ],
+    "cons": [
+      "Newer, smaller accountant network"
+    ]
+  },
+  {
+    "slug": "booke-ai",
+    "category": "bookkeeping-invoicing",
+    "name": "Booke AI",
+    "url": "https://booke.ai",
+    "summary": "AI assistant that cleans up and reconciles books inside QuickBooks or Xero.",
+    "pricing": "See site for pricing (vendor page not verified Oct 2026 \u2014 confirm on site).",
+    "pricing_verified": false,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "medium",
+    "setup_time": "Half day",
+    "best_trades": [
+      "Bookkeepers",
+      "Firms with QBO/Xero"
+    ],
+    "pros": [
+      "Speeds reconciliation"
+    ],
+    "cons": [
+      "Add-on, needs QBO or Xero"
+    ]
+  },
+  {
+    "slug": "docyt",
+    "category": "bookkeeping-invoicing",
+    "name": "Docyt",
+    "url": "https://docyt.com",
+    "summary": "AI bookkeeping automation for multi-location businesses, with receipt capture and reconciliation.",
+    "pricing": "Contact for pricing.",
+    "pricing_verified": false,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "medium",
+    "setup_time": "1\u20132 weeks",
+    "best_trades": [
+      "Multi-location clinics",
+      "Franchises"
+    ],
+    "pros": [
+      "Multi-entity support"
+    ],
+    "cons": [
+      "Overkill for solo shops"
+    ]
+  },
+  {
+    "slug": "puzzle",
+    "category": "bookkeeping-invoicing",
+    "name": "Puzzle",
+    "url": "https://puzzle.io",
+    "summary": "AI accounting software that automates categorization and monthly close.",
+    "pricing": "Free and paid tiers (vendor page not verified Oct 2026 \u2014 confirm on site).",
+    "pricing_verified": false,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "easy",
+    "setup_time": "1\u20132 hours",
+    "best_trades": [
+      "Solo operators",
+      "Small teams"
+    ],
+    "pros": [
+      "Modern, automated"
+    ],
+    "cons": [
+      "Fewer trade-specific features"
+    ]
+  },
+  {
+    "slug": "invoice-simple",
+    "category": "bookkeeping-invoicing",
+    "name": "Invoice Simple",
+    "url": "https://www.invoicesimple.com",
+    "summary": "Phone-friendly app to send estimates and invoices and get paid fast.",
+    "pricing": "Paid plans after trial (vendor page not verified Oct 2026 \u2014 confirm on site).",
+    "pricing_verified": false,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "easy",
+    "setup_time": "15 minutes",
+    "best_trades": [
+      "Handymen",
+      "Cleaners",
+      "Solo operators"
+    ],
+    "pros": [
+      "Fast invoices from phone"
+    ],
+    "cons": [
+      "Not full accounting"
+    ]
+  },
+  {
+    "slug": "tidio",
+    "category": "website-chat-workflows",
+    "name": "Tidio",
+    "url": "https://www.tidio.com",
+    "summary": "Live chat plus Lyro AI agent that answers common customer questions on your website.",
+    "pricing": "Free plan (50 conversations); Starter $24.17/mo billed annually (100 conversations); Growth from $49.17; Lyro AI from $32.50/mo.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "easy",
+    "setup_time": "30\u201360 minutes",
+    "best_trades": [
+      "Clinics",
+      "Contractors",
+      "Online booking businesses"
+    ],
+    "pros": [
+      "Free plan",
+      "Quick to install"
+    ],
+    "cons": [
+      "AI quota sold separately"
+    ]
+  },
+  {
+    "slug": "intercom-fin-ai-agent",
+    "category": "website-chat-workflows",
+    "name": "Intercom (Fin AI Agent)",
+    "url": "https://www.intercom.com",
+    "summary": "Support platform whose Fin AI agent resolves customer questions automatically.",
+    "pricing": "Essential $29/seat/mo, Advanced $85, Expert $132, plus $0.99 per Fin outcome (min. ~50 outcomes for standalone). 14-day trial.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "medium",
+    "setup_time": "1\u20133 days",
+    "best_trades": [
+      "Growing teams",
+      "Multi-location practices"
+    ],
+    "pros": [
+      "Very capable AI",
+      "Pay per resolution"
+    ],
+    "cons": [
+      "Costs can climb with volume"
+    ]
+  },
+  {
+    "slug": "chatbase",
+    "category": "website-chat-workflows",
+    "name": "Chatbase",
+    "url": "https://www.chatbase.co",
+    "summary": "Train a chatbot on your website and documents in minutes and embed it on your site.",
+    "pricing": "Hobby $40/mo ($32 annually); Standard $150/mo ($120 annually); free tier available.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "easy",
+    "setup_time": "30 minutes",
+    "best_trades": [
+      "Law offices",
+      "Clinics",
+      "Realtors"
+    ],
+    "pros": [
+      "Very fast setup",
+      "Trains on your own content"
+    ],
+    "cons": [
+      "Credit-based billing can confuse"
+    ]
+  },
+  {
+    "slug": "botpress",
+    "category": "website-chat-workflows",
+    "name": "Botpress",
+    "url": "https://botpress.com",
+    "summary": "Build custom AI chat agents with workflows and integrations; more flexible, more technical.",
+    "pricing": "Free tier; Plus from $150/mo billed annually (third-party report Oct 2026).",
+    "pricing_verified": false,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "hard",
+    "setup_time": "1\u20132 weeks",
+    "best_trades": [
+      "Agencies",
+      "Tech-savvy owners"
+    ],
+    "pros": [
+      "Very customizable"
+    ],
+    "cons": [
+      "Steeper learning curve"
+    ]
+  },
+  {
+    "slug": "podium",
+    "category": "website-chat-workflows",
+    "name": "Podium",
+    "url": "https://www.podium.com",
+    "summary": "Text-based customer messaging, reviews and payments with an AI employee for local businesses.",
+    "pricing": "Contact for pricing.",
+    "pricing_verified": false,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "medium",
+    "setup_time": "1 week",
+    "best_trades": [
+      "HVAC",
+      "Auto shops",
+      "Dental and med clinics"
+    ],
+    "pros": [
+      "Reviews + texting in one"
+    ],
+    "cons": [
+      "Contract-based, no public pricing"
+    ]
+  },
+  {
+    "slug": "birdeye",
+    "category": "website-chat-workflows",
+    "name": "Birdeye",
+    "url": "https://birdeye.com",
+    "summary": "Reputation and messaging platform: reviews, web chat and AI replies across locations.",
+    "pricing": "Contact for pricing.",
+    "pricing_verified": false,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "medium",
+    "setup_time": "1\u20132 weeks",
+    "best_trades": [
+      "Multi-location clinics",
+      "Home services"
+    ],
+    "pros": [
+      "Strong reviews tools"
+    ],
+    "cons": [
+      "Pricey for solo shops"
+    ]
+  },
+  {
+    "slug": "hubspot-free-crm-chat",
+    "category": "website-chat-workflows",
+    "name": "HubSpot (free CRM + chat)",
+    "url": "https://www.hubspot.com",
+    "summary": "Free CRM with website chat, forms and AI assistant; upgrade for automation.",
+    "pricing": "Free CRM tools; paid Starter tiers (vendor page not verified Oct 2026 \u2014 confirm on site).",
+    "pricing_verified": false,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "medium",
+    "setup_time": "1\u20132 days",
+    "best_trades": [
+      "Realtors",
+      "Law offices",
+      "Agencies"
+    ],
+    "pros": [
+      "Generous free plan"
+    ],
+    "cons": [
+      "Gets expensive at higher tiers"
+    ]
+  },
+  {
+    "slug": "zapier",
+    "category": "website-chat-workflows",
+    "name": "Zapier",
+    "url": "https://zapier.com",
+    "summary": "Connects your apps so leads, bookings and invoices flow automatically, with AI steps and agents.",
+    "pricing": "Free plan; paid plans by task volume (vendor page not verified Oct 2026 \u2014 confirm on site).",
+    "pricing_verified": false,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "medium",
+    "setup_time": "1\u20134 hours per workflow",
+    "best_trades": [
+      "Any business",
+      "Solo operators"
+    ],
+    "pros": [
+      "Connects 7,000+ apps"
+    ],
+    "cons": [
+      "Task-based costs grow"
+    ]
+  },
+  {
+    "slug": "make",
+    "category": "website-chat-workflows",
+    "name": "Make",
+    "url": "https://www.make.com",
+    "summary": "Visual automation builder for multi-step workflows between your business tools.",
+    "pricing": "Free plan; paid plans by operations (vendor page not verified Oct 2026 \u2014 confirm on site).",
+    "pricing_verified": false,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "medium",
+    "setup_time": "2\u20136 hours per workflow",
+    "best_trades": [
+      "Tech-savvy owners",
+      "Agencies"
+    ],
+    "pros": [
+      "Cheaper at volume than Zapier"
+    ],
+    "cons": [
+      "Visual builder takes learning"
+    ]
+  },
+  {
+    "slug": "crisp",
+    "category": "website-chat-workflows",
+    "name": "Crisp",
+    "url": "https://crisp.chat",
+    "summary": "Shared inbox with website chat, AI answers and a knowledge base.",
+    "pricing": "Free plan; paid workspace plans (vendor page not verified Oct 2026 \u2014 confirm on site).",
+    "pricing_verified": false,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "easy",
+    "setup_time": "1 hour",
+    "best_trades": [
+      "Small teams",
+      "Solo operators"
+    ],
+    "pros": [
+      "Flat per-workspace pricing"
+    ],
+    "cons": [
+      "AI features on higher plans"
+    ]
+  }
+]

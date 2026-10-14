@@ -1,0 +1,443 @@
+# MainStreetAI — full directory
+
+Pricing as published by vendors, checked Oct 2026. "Not verified" means we could not confirm it on the vendor's own page.
+
+## Smith.ai
+Category: 24/7 AI Phone Receptionists
+URL: https://smith.ai
+Page: https://mainstreetai.vercel.app/tools/smith-ai
+Summary: An AI receptionist answers, qualifies and books your calls 24/7, with the option of live human receptionists behind it.
+Pricing: Free: 25 calls/mo ($3/call after). Pro from $150/mo for 75 calls. Enterprise from $500/mo.
+Setup: easy, 1–2 hours
+Best for: Law offices, Contractors, Clinics
+Pros: Free tier to test; Human backup available; Strong lead intake
+Cons: Per-call pricing adds up on busy lines
+
+## Ruby
+Category: 24/7 AI Phone Receptionists
+URL: https://www.ruby.com
+Page: https://mainstreetai.vercel.app/tools/ruby
+Summary: Trained human virtual receptionists (with AI assist) answer your calls live, so every caller hears a real person.
+Pricing: From $250/mo for 50 minutes.
+Setup: easy, 1 day
+Best for: Law offices, Realtors, Clinics
+Pros: Real people on every call; Polished, professional tone
+Cons: Much pricier than pure AI; Minute-based billing
+
+## Dialzara
+Category: 24/7 AI Phone Receptionists
+URL: https://dialzara.com
+Page: https://mainstreetai.vercel.app/tools/dialzara
+Summary: AI receptionist that answers calls, takes messages, transfers urgent calls and books appointments.
+Pricing: From $29/mo (60 minutes); higher tiers from $99/mo. 7-day free trial.
+Setup: easy, 15–30 minutes
+Best for: Solo operators, Plumbers, Cleaners
+Pros: Very low entry price; No contract
+Cons: Low minute cap on entry plan
+
+## My AI Front Desk
+Category: 24/7 AI Phone Receptionists
+URL: https://www.myaifrontdesk.com
+Page: https://mainstreetai.vercel.app/tools/my-ai-front-desk
+Summary: AI receptionist bundled with web chat, two-way texting and a simple CRM.
+Pricing: Business-in-a-Box $99/mo ($79/mo billed annually) incl. 200 voice minutes; overage about $0.25/min.
+Setup: easy, 30–60 minutes
+Best for: HVAC, Plumbers, Salons, Clinics
+Pros: Calls + chat + SMS in one; Simple setup
+Cons: Busy shops need custom plan
+
+## Rosie
+Category: 24/7 AI Phone Receptionists
+URL: https://heyrosie.com
+Page: https://mainstreetai.vercel.app/tools/rosie
+Summary: Low-cost AI answering service for home-service and local businesses that captures leads and texts you summaries.
+Pricing: From $49/mo for 250 minutes; next tier $149/mo for 1,000 minutes.
+Setup: easy, 10–20 minutes
+Best for: Contractors, Landscapers, Solo operators
+Pros: Generous minutes for price; Built for home services
+Cons: Jumps to next plan rather than overage
+
+## Goodcall
+Category: 24/7 AI Phone Receptionists
+URL: https://www.goodcall.com
+Page: https://mainstreetai.vercel.app/tools/goodcall
+Summary: AI phone agent with unlimited minutes, priced by how many unique callers you get.
+Pricing: Starter $79/mo per agent ($66 billed annually): unlimited minutes, 100 unique callers, then $0.50 per extra caller.
+Setup: easy, 30 minutes
+Best for: Restaurants, Auto shops, Repeat-customer businesses
+Pros: Unlimited minutes; Good for long calls
+Cons: Costs rise with many new callers
+
+## Upfirst
+Category: 24/7 AI Phone Receptionists
+URL: https://upfirst.ai
+Page: https://mainstreetai.vercel.app/tools/upfirst
+Summary: Simple AI answering service for small businesses that answers, screens and takes messages.
+Pricing: From $24.95/mo for 30 calls (third-party report, Sep 2026). (not verified on vendor page)
+Setup: easy, 15 minutes
+Best for: Solo operators, Handymen
+Pros: Cheap to start
+Cons: Small call allowance
+
+## NextPhone
+Category: 24/7 AI Phone Receptionists
+URL: https://www.getnextphone.com
+Page: https://mainstreetai.vercel.app/tools/nextphone
+Summary: AI receptionist with unlimited calls aimed at service businesses that never want to miss a job.
+Pricing: From $199/mo with unlimited calls (third-party report, Sep 2026). (not verified on vendor page)
+Setup: easy, 1 hour
+Best for: HVAC, Roofers, Plumbers
+Pros: Unlimited calls; Predictable bill
+Cons: Higher entry price
+
+## Quo (formerly OpenPhone)
+Category: 24/7 AI Phone Receptionists
+URL: https://www.quo.com
+Page: https://mainstreetai.vercel.app/tools/quo-formerly-openphone
+Summary: Business phone system with an AI agent that answers when your team can't.
+Pricing: From $15/user/mo billed annually, with limited AI call credits (third-party report, Sep 2026). (not verified on vendor page)
+Setup: easy, 30 minutes
+Best for: Realtors, Small teams, Solo operators
+Pros: Full business phone line; Shared team inbox
+Cons: AI calls billed via credits
+
+## Abby Connect
+Category: 24/7 AI Phone Receptionists
+URL: https://www.abby.com
+Page: https://mainstreetai.vercel.app/tools/abby-connect
+Summary: Human receptionist team with AI tools, assigned to your business for a personal feel.
+Pricing: From $165/mo for 50 minutes (third-party report, Sep 2026). (not verified on vendor page)
+Setup: easy, 1–2 days
+Best for: Law offices, Clinics, Financial advisors
+Pros: Dedicated human team
+Cons: Minute-based, costly at volume
+
+## Jobber
+Category: Field Service & Scheduling
+URL: https://www.getjobber.com
+Page: https://mainstreetai.vercel.app/tools/jobber
+Summary: All-in-one app for quoting, scheduling, dispatching, invoicing and getting paid for home-service jobs.
+Pricing: Core $29/mo billed annually ($49 monthly), Connect $99 ($139), Grow $149 ($199) for 1 user; extra users $29/mo; card fees 2.9% + 30¢.
+Setup: medium, 1–3 days
+Best for: Landscapers, Cleaners, Plumbers, HVAC
+Pros: Published pricing; Easy for crews; Free trial
+Cons: Add-ons (e.g. AI receptionist) cost extra
+
+## Housecall Pro
+Category: Field Service & Scheduling
+URL: https://www.housecallpro.com
+Page: https://mainstreetai.vercel.app/tools/housecall-pro
+Summary: Scheduling, dispatch, invoicing and marketing for home-service pros, with built-in AI tools.
+Pricing: Basic $59/mo annually ($79 monthly, 1 user); Essentials $149 ($189, 5 users); MAX from $299 ($329, 8 users).
+Setup: medium, 2–5 days
+Best for: HVAC, Plumbers, Electricians
+Pros: Strong mobile app; Good marketing tools
+Cons: Price increases in 2026
+
+## ServiceTitan
+Category: Field Service & Scheduling
+URL: https://www.servicetitan.com
+Page: https://mainstreetai.vercel.app/tools/servicetitan
+Summary: Enterprise-grade platform for larger trades shops: dispatch, pricebooks, memberships, reporting.
+Pricing: Contact for pricing (quote per technician). (not verified on vendor page)
+Setup: hard, 4–12 weeks
+Best for: HVAC, Plumbing, Electrical (10+ techs)
+Pros: Very deep features; Great reporting
+Cons: Expensive, long onboarding
+
+## Workiz
+Category: Field Service & Scheduling
+URL: https://www.workiz.com
+Page: https://mainstreetai.vercel.app/tools/workiz
+Summary: Field service software with built-in phone, AI answering and payments for small trade teams.
+Pricing: Contact for pricing (Standard/Pro/Ultimate all 'Request pricing'; 5 users included). (not verified on vendor page)
+Setup: medium, 1–2 weeks
+Best for: Locksmiths, Garage door, Appliance repair
+Pros: Built-in phone system; AI answering add-on
+Cons: No public pricing
+
+## FieldPulse
+Category: Field Service & Scheduling
+URL: https://www.fieldpulse.com
+Page: https://mainstreetai.vercel.app/tools/fieldpulse
+Summary: Scheduling, estimates, invoicing and job tracking for growing trade contractors.
+Pricing: Contact for pricing. (not verified on vendor page)
+Setup: medium, 1–2 weeks
+Best for: Electricians, HVAC, Plumbers
+Pros: Flexible forms; Good support
+Cons: No public pricing
+
+## Service Fusion
+Category: Field Service & Scheduling
+URL: https://www.servicefusion.com
+Page: https://mainstreetai.vercel.app/tools/service-fusion
+Summary: Field service management with unlimited users, aimed at growing contractors.
+Pricing: Contact for pricing (not verified Oct 2026). (not verified on vendor page)
+Setup: medium, 1–3 weeks
+Best for: HVAC, Plumbing, Pest control
+Pros: Unlimited users on plans
+Cons: Dated interface for some
+
+## FieldEdge
+Category: Field Service & Scheduling
+URL: https://fieldedge.com
+Page: https://mainstreetai.vercel.app/tools/fieldedge
+Summary: Dispatch and service management for HVAC, plumbing and electrical, with QuickBooks sync.
+Pricing: Contact for pricing (demo-led). (not verified on vendor page)
+Setup: hard, 2–6 weeks
+Best for: HVAC, Plumbers, Electricians
+Pros: Deep QuickBooks sync; Service agreements
+Cons: Demo required to price
+
+## ServiceM8
+Category: Field Service & Scheduling
+URL: https://www.servicem8.com
+Page: https://mainstreetai.vercel.app/tools/servicem8
+Summary: iPhone-first job management app for small trade teams: quotes, scheduling, invoices.
+Pricing: Free tier and job-based paid plans; vendor page not verified Oct 2026 — confirm on site. (not verified on vendor page)
+Setup: easy, 1 day
+Best for: Electricians, Handymen, Solo operators
+Pros: Great iPhone app; Pay by job volume
+Cons: Best on Apple devices
+
+## Kickserv
+Category: Field Service & Scheduling
+URL: https://www.kickserv.com
+Page: https://mainstreetai.vercel.app/tools/kickserv
+Summary: Affordable job scheduling, estimates and invoicing for small service companies.
+Pricing: Tiered monthly plans; vendor page not verified Oct 2026 — confirm on site. (not verified on vendor page)
+Setup: easy, 1–2 days
+Best for: Carpet cleaners, Pest control, Small crews
+Pros: Affordable; Simple
+Cons: Fewer integrations
+
+## Square Appointments
+Category: Field Service & Scheduling
+URL: https://squareup.com/us/en/appointments
+Page: https://mainstreetai.vercel.app/tools/square-appointments
+Summary: Online booking, reminders and payments for appointment-based businesses.
+Pricing: Free plan for individuals; paid plans per location; vendor page not verified Oct 2026 — confirm on site. (not verified on vendor page)
+Setup: easy, 1–2 hours
+Best for: Clinics, Salons, Solo practitioners
+Pros: Free to start; Built-in payments
+Cons: Not built for dispatching crews
+
+## QuickBooks Online
+Category: AI Bookkeeping & Invoicing
+URL: https://quickbooks.intuit.com
+Page: https://mainstreetai.vercel.app/tools/quickbooks-online
+Summary: The most common small-business accounting software, with AI-assisted categorizing, invoicing and payroll add-ons.
+Pricing: Simple Start $38/mo, Essentials $85, Plus $140, Advanced $340 (list prices; renewals rose Aug 2026 on higher tiers).
+Setup: medium, 1–3 days
+Best for: Contractors, Law offices, Most small businesses
+Pros: Every accountant knows it; Huge app ecosystem
+Cons: Price increases; User caps per tier
+
+## Xero
+Category: AI Bookkeeping & Invoicing
+URL: https://www.xero.com/us/
+Page: https://mainstreetai.vercel.app/tools/xero
+Summary: Cloud accounting with unlimited users, automatic bank reconciliation and invoicing.
+Pricing: Early $27/mo, Growing $59, Established $97 (US, from Oct 1 2026); intro discounts often offered.
+Setup: medium, 1–2 days
+Best for: Contractors, Clinics, Multi-person teams
+Pros: Unlimited users; Clean interface
+Cons: Early plan limits invoices to 20/mo
+
+## FreshBooks
+Category: AI Bookkeeping & Invoicing
+URL: https://www.freshbooks.com
+Page: https://mainstreetai.vercel.app/tools/freshbooks
+Summary: Invoicing-first accounting for service businesses that bill clients for time and projects.
+Pricing: Lite $23/mo (5 clients), Plus $43 (50 clients), Premium $70 (unlimited); team members $11/mo each.
+Setup: easy, 2–4 hours
+Best for: Solo operators, Consultants, Law offices
+Pros: Very easy invoicing; Time tracking
+Cons: Client caps on lower plans
+
+## Wave
+Category: AI Bookkeeping & Invoicing
+URL: https://www.waveapps.com
+Page: https://mainstreetai.vercel.app/tools/wave
+Summary: Free accounting and invoicing for very small businesses, with a low-cost Pro tier.
+Pricing: Starter $0; Pro $19/mo (or $190/yr). Payment processing fees extra.
+Setup: easy, 1–2 hours
+Best for: Solo operators, Handymen, Freelancers
+Pros: Free core plan; No revenue cap
+Cons: Limited support on free plan
+
+## Zoho Books
+Category: AI Bookkeeping & Invoicing
+URL: https://www.zoho.com/us/books/
+Page: https://mainstreetai.vercel.app/tools/zoho-books
+Summary: Full accounting with a free plan for small businesses and strong automation.
+Pricing: Free under $50K revenue; Standard $20/mo ($15/mo annually, 3 users); higher tiers available.
+Setup: medium, 1–2 days
+Best for: Small teams, Clinics, Retail-service
+Pros: Free plan; Works with Zoho apps
+Cons: Many tiers to choose from
+
+## Digits
+Category: AI Bookkeeping & Invoicing
+URL: https://digits.com
+Page: https://mainstreetai.vercel.app/tools/digits
+Summary: AI-native bookkeeping that auto-categorizes transactions and keeps books up to date.
+Pricing: Contact / see site for pricing (vendor page not verified Oct 2026 — confirm on site). (not verified on vendor page)
+Setup: easy, 1–2 hours
+Best for: Startups, Solo operators
+Pros: Highly automated; Real-time dashboards
+Cons: Newer, smaller accountant network
+
+## Booke AI
+Category: AI Bookkeeping & Invoicing
+URL: https://booke.ai
+Page: https://mainstreetai.vercel.app/tools/booke-ai
+Summary: AI assistant that cleans up and reconciles books inside QuickBooks or Xero.
+Pricing: See site for pricing (vendor page not verified Oct 2026 — confirm on site). (not verified on vendor page)
+Setup: medium, Half day
+Best for: Bookkeepers, Firms with QBO/Xero
+Pros: Speeds reconciliation
+Cons: Add-on, needs QBO or Xero
+
+## Docyt
+Category: AI Bookkeeping & Invoicing
+URL: https://docyt.com
+Page: https://mainstreetai.vercel.app/tools/docyt
+Summary: AI bookkeeping automation for multi-location businesses, with receipt capture and reconciliation.
+Pricing: Contact for pricing. (not verified on vendor page)
+Setup: medium, 1–2 weeks
+Best for: Multi-location clinics, Franchises
+Pros: Multi-entity support
+Cons: Overkill for solo shops
+
+## Puzzle
+Category: AI Bookkeeping & Invoicing
+URL: https://puzzle.io
+Page: https://mainstreetai.vercel.app/tools/puzzle
+Summary: AI accounting software that automates categorization and monthly close.
+Pricing: Free and paid tiers (vendor page not verified Oct 2026 — confirm on site). (not verified on vendor page)
+Setup: easy, 1–2 hours
+Best for: Solo operators, Small teams
+Pros: Modern, automated
+Cons: Fewer trade-specific features
+
+## Invoice Simple
+Category: AI Bookkeeping & Invoicing
+URL: https://www.invoicesimple.com
+Page: https://mainstreetai.vercel.app/tools/invoice-simple
+Summary: Phone-friendly app to send estimates and invoices and get paid fast.
+Pricing: Paid plans after trial (vendor page not verified Oct 2026 — confirm on site). (not verified on vendor page)
+Setup: easy, 15 minutes
+Best for: Handymen, Cleaners, Solo operators
+Pros: Fast invoices from phone
+Cons: Not full accounting
+
+## Tidio
+Category: Website Chat & Workflows
+URL: https://www.tidio.com
+Page: https://mainstreetai.vercel.app/tools/tidio
+Summary: Live chat plus Lyro AI agent that answers common customer questions on your website.
+Pricing: Free plan (50 conversations); Starter $24.17/mo billed annually (100 conversations); Growth from $49.17; Lyro AI from $32.50/mo.
+Setup: easy, 30–60 minutes
+Best for: Clinics, Contractors, Online booking businesses
+Pros: Free plan; Quick to install
+Cons: AI quota sold separately
+
+## Intercom (Fin AI Agent)
+Category: Website Chat & Workflows
+URL: https://www.intercom.com
+Page: https://mainstreetai.vercel.app/tools/intercom-fin-ai-agent
+Summary: Support platform whose Fin AI agent resolves customer questions automatically.
+Pricing: Essential $29/seat/mo, Advanced $85, Expert $132, plus $0.99 per Fin outcome (min. ~50 outcomes for standalone). 14-day trial.
+Setup: medium, 1–3 days
+Best for: Growing teams, Multi-location practices
+Pros: Very capable AI; Pay per resolution
+Cons: Costs can climb with volume
+
+## Chatbase
+Category: Website Chat & Workflows
+URL: https://www.chatbase.co
+Page: https://mainstreetai.vercel.app/tools/chatbase
+Summary: Train a chatbot on your website and documents in minutes and embed it on your site.
+Pricing: Hobby $40/mo ($32 annually); Standard $150/mo ($120 annually); free tier available.
+Setup: easy, 30 minutes
+Best for: Law offices, Clinics, Realtors
+Pros: Very fast setup; Trains on your own content
+Cons: Credit-based billing can confuse
+
+## Botpress
+Category: Website Chat & Workflows
+URL: https://botpress.com
+Page: https://mainstreetai.vercel.app/tools/botpress
+Summary: Build custom AI chat agents with workflows and integrations; more flexible, more technical.
+Pricing: Free tier; Plus from $150/mo billed annually (third-party report Oct 2026). (not verified on vendor page)
+Setup: hard, 1–2 weeks
+Best for: Agencies, Tech-savvy owners
+Pros: Very customizable
+Cons: Steeper learning curve
+
+## Podium
+Category: Website Chat & Workflows
+URL: https://www.podium.com
+Page: https://mainstreetai.vercel.app/tools/podium
+Summary: Text-based customer messaging, reviews and payments with an AI employee for local businesses.
+Pricing: Contact for pricing. (not verified on vendor page)
+Setup: medium, 1 week
+Best for: HVAC, Auto shops, Dental and med clinics
+Pros: Reviews + texting in one
+Cons: Contract-based, no public pricing
+
+## Birdeye
+Category: Website Chat & Workflows
+URL: https://birdeye.com
+Page: https://mainstreetai.vercel.app/tools/birdeye
+Summary: Reputation and messaging platform: reviews, web chat and AI replies across locations.
+Pricing: Contact for pricing. (not verified on vendor page)
+Setup: medium, 1–2 weeks
+Best for: Multi-location clinics, Home services
+Pros: Strong reviews tools
+Cons: Pricey for solo shops
+
+## HubSpot (free CRM + chat)
+Category: Website Chat & Workflows
+URL: https://www.hubspot.com
+Page: https://mainstreetai.vercel.app/tools/hubspot-free-crm-chat
+Summary: Free CRM with website chat, forms and AI assistant; upgrade for automation.
+Pricing: Free CRM tools; paid Starter tiers (vendor page not verified Oct 2026 — confirm on site). (not verified on vendor page)
+Setup: medium, 1–2 days
+Best for: Realtors, Law offices, Agencies
+Pros: Generous free plan
+Cons: Gets expensive at higher tiers
+
+## Zapier
+Category: Website Chat & Workflows
+URL: https://zapier.com
+Page: https://mainstreetai.vercel.app/tools/zapier
+Summary: Connects your apps so leads, bookings and invoices flow automatically, with AI steps and agents.
+Pricing: Free plan; paid plans by task volume (vendor page not verified Oct 2026 — confirm on site). (not verified on vendor page)
+Setup: medium, 1–4 hours per workflow
+Best for: Any business, Solo operators
+Pros: Connects 7,000+ apps
+Cons: Task-based costs grow
+
+## Make
+Category: Website Chat & Workflows
+URL: https://www.make.com
+Page: https://mainstreetai.vercel.app/tools/make
+Summary: Visual automation builder for multi-step workflows between your business tools.
+Pricing: Free plan; paid plans by operations (vendor page not verified Oct 2026 — confirm on site). (not verified on vendor page)
+Setup: medium, 2–6 hours per workflow
+Best for: Tech-savvy owners, Agencies
+Pros: Cheaper at volume than Zapier
+Cons: Visual builder takes learning
+
+## Crisp
+Category: Website Chat & Workflows
+URL: https://crisp.chat
+Page: https://mainstreetai.vercel.app/tools/crisp
+Summary: Shared inbox with website chat, AI answers and a knowledge base.
+Pricing: Free plan; paid workspace plans (vendor page not verified Oct 2026 — confirm on site). (not verified on vendor page)
+Setup: easy, 1 hour
+Best for: Small teams, Solo operators
+Pros: Flat per-workspace pricing
+Cons: AI features on higher plans

@@ -1,0 +1,5 @@
+(function(){var q=document.getElementById('q'),chips=document.querySelectorAll('.chip'),cards=document.querySelectorAll('[data-tool]'),cat='all';
+function f(){var s=(q&&q.value||'').toLowerCase();cards.forEach(function(c){var ok=(cat==='all'||c.dataset.cat===cat)&&c.dataset.text.indexOf(s)>-1;c.style.display=ok?'':'none'});}
+if(q)q.addEventListener('input',f);chips.forEach(function(b){b.addEventListener('click',function(){chips.forEach(function(x){x.classList.remove('on')});b.classList.add('on');cat=b.dataset.cat;f()})});
+document.querySelectorAll('form.subscribe').forEach(function(fm){fm.addEventListener('submit',function(e){e.preventDefault();var m=fm.querySelector('.msg'),em=fm.querySelector('input').value;m.textContent='Subscribing…';
+fetch('/api/subscribe',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:em})}).then(function(r){return r.json().then(function(j){m.textContent=j.message||(r.ok?'Thanks! You are subscribed.':'Something went wrong.')})}).catch(function(){m.textContent='Signup is not live yet — check back soon.'})})});})();
