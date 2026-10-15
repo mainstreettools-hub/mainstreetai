@@ -4,9 +4,9 @@
 
 Full text of every listing: https://mainstreetai.tools/llms-full.txt
 
-## 24/7 AI Phone Receptionists
+## 24/7 Phone Receptionists
 
-- [24/7 AI Phone Receptionists overview](https://mainstreetai.tools/category/phone-receptionists): Never miss a call again. These tools answer your phone day and night, take messages, book jobs and send you summaries.
+- [24/7 Phone Receptionists overview](https://mainstreetai.tools/category/phone-receptionists): Answer every call, day or night. Take the job details and book it — so you are not chasing voicemails in the morning.
 - [Smith.ai](https://mainstreetai.tools/tools/smith-ai): An AI receptionist answers, qualifies and books your calls 24/7, with the option of live human receptionists behind it.
 - [Ruby](https://mainstreetai.tools/tools/ruby): Trained human virtual receptionists (with AI assist) answer your calls live, so every caller hears a real person.
 - [Dialzara](https://mainstreetai.tools/tools/dialzara): AI receptionist that answers calls, takes messages, transfers urgent calls and books appointments.
@@ -21,7 +21,7 @@ Full text of every listing: https://mainstreetai.tools/llms-full.txt
 
 ## Field Service & Scheduling
 
-- [Field Service & Scheduling overview](https://mainstreetai.tools/category/field-service-scheduling): Quote, schedule, dispatch and get paid from one app built for crews in the field.
+- [Field Service & Scheduling overview](https://mainstreetai.tools/category/field-service-scheduling): Quote, schedule, dispatch and get paid from one app built for crews on the truck.
 - [Jobber](https://mainstreetai.tools/tools/jobber): All-in-one app for quoting, scheduling, dispatching, invoicing and getting paid for home-service jobs.
 - [Housecall Pro](https://mainstreetai.tools/tools/housecall-pro): Scheduling, dispatch, invoicing and marketing for home-service pros, with built-in AI tools.
 - [ServiceTitan](https://mainstreetai.tools/tools/servicetitan): Enterprise-grade platform for larger trades shops: dispatch, pricebooks, memberships, reporting.
@@ -33,9 +33,9 @@ Full text of every listing: https://mainstreetai.tools/llms-full.txt
 - [Kickserv](https://mainstreetai.tools/tools/kickserv): Affordable job scheduling, estimates and invoicing for small service companies.
 - [Square Appointments](https://mainstreetai.tools/tools/square-appointments): Online booking, reminders and payments for appointment-based businesses.
 
-## AI Bookkeeping & Invoicing
+## Bookkeeping & Invoicing
 
-- [AI Bookkeeping & Invoicing overview](https://mainstreetai.tools/category/bookkeeping-invoicing): Let software categorize expenses, chase invoices and keep your books tax-ready.
+- [Bookkeeping & Invoicing overview](https://mainstreetai.tools/category/bookkeeping-invoicing): Send invoices fast, track job costs and hand clean books to your accountant at tax time.
 - [QuickBooks Online](https://mainstreetai.tools/tools/quickbooks-online): The most common small-business accounting software, with AI-assisted categorizing, invoicing and payroll add-ons.
 - [Xero](https://mainstreetai.tools/tools/xero): Cloud accounting with unlimited users, automatic bank reconciliation and invoicing.
 - [FreshBooks](https://mainstreetai.tools/tools/freshbooks): Invoicing-first accounting for service businesses that bill clients for time and projects.
@@ -49,7 +49,7 @@ Full text of every listing: https://mainstreetai.tools/llms-full.txt
 
 ## Website Chat & Workflows
 
-- [Website Chat & Workflows overview](https://mainstreetai.tools/category/website-chat-workflows): Answer website visitors instantly and automate the busywork between your apps.
+- [Website Chat & Workflows overview](https://mainstreetai.tools/category/website-chat-workflows): Answer website visitors right away and cut the busywork between your apps.
 - [Tidio](https://mainstreetai.tools/tools/tidio): Live chat plus Lyro AI agent that answers common customer questions on your website.
 - [Intercom (Fin AI Agent)](https://mainstreetai.tools/tools/intercom-fin-ai-agent): Support platform whose Fin AI agent resolves customer questions automatically.
 - [Chatbase](https://mainstreetai.tools/tools/chatbase): Train a chatbot on your website and documents in minutes and embed it on your site.
@@ -93,8 +93,16 @@ Full text of every listing: https://mainstreetai.tools/llms-full.txt
 - [Best Scheduling Software for Small HVAC Companies (2026)](https://mainstreetai.tools/guides/best-ai-scheduling-software-for-small-hvac-companies): Field service and dispatch software for 1–10 tech HVAC shops: Housecall Pro, Jobber, FieldEdge, FieldPulse and more, with real pricing.
 - [Best Bookkeeping & Invoicing Software for Contractors (2026)](https://mainstreetai.tools/guides/ai-bookkeeping-for-contractors): Bookkeeping and invoicing apps for contractors and trades: QuickBooks, Xero, Wave, FreshBooks and more, with October 2026 pricing.
 - [Best Apps for Handymen & Solo Operators (2026)](https://mainstreetai.tools/guides/best-invoicing-app-for-handymen): Cheap, fast tools for one-person service businesses: invoicing, scheduling and call answering that set up in an afternoon.
+- [Best Tools for Roofing Companies (2026)](https://mainstreetai.tools/guides/best-tools-for-roofers): Phone answering, scheduling and books for roofers who lose storm leads to voicemail. Real prices checked Oct 2026.
+- [Best Tools for Septic Companies (2026)](https://mainstreetai.tools/guides/best-tools-for-septic-companies): Call answering, job scheduling and invoicing for septic pumping and repair shops. Published prices, Oct 2026.
+- [Best Tools for Basement & Foundation Waterproofing (2026)](https://mainstreetai.tools/guides/best-tools-for-basement-waterproofing): Catch wet-basement leads faster: phone coverage, estimates and scheduling for waterproofing contractors.
+- [Best Tools for Garage Floor Coating Companies (2026)](https://mainstreetai.tools/guides/best-tools-for-garage-floor-coating): Booking, call answering and invoicing for epoxy and garage-floor crews. Real published prices.
+- [Best Tools for Commercial Kitchen Hood Cleaning (2026)](https://mainstreetai.tools/guides/best-tools-for-hood-cleaning): Scheduling, call answering and invoicing for hood-cleaning and kitchen exhaust crews.
+- [Best Tools for Med Spas & Aesthetic Clinics (2026)](https://mainstreetai.tools/guides/best-tools-for-med-spas): Front-desk coverage, online booking and patient messaging for med spas. Confirm healthcare terms with each vendor.
+- [Best Tools for Tree Service Companies (2026)](https://mainstreetai.tools/guides/best-tools-for-tree-service): Call answering, job scheduling and invoicing for tree removal and trimming crews.
 
 ## Optional
 
+- [Is your website leaking jobs?](https://mainstreetai.tools/leaking-jobs): free self-audit checklist with email signup
 - [Sponsor / advertise](https://mainstreetai.tools/sponsor): free founding listing for the first 10 vendors; Featured Spot $149/mo founding; Trade Guide sponsorship $79/mo founding (reg $199); Category sponsorship $149/mo founding (reg $349, 3-mo min); Category + Featured $199/mo founding (reg $449, 3-mo min); newsletter banner opens at 500 subscribers. Founding ends Dec 31, 2026 or when each slot fills.
 - [FixStack](https://getfixstack.com): fixes for common app errors

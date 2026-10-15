@@ -3,7 +3,7 @@
 Pricing as published by vendors, checked Oct 2026. "Not verified" means we could not confirm it on the vendor's own page.
 
 ## Smith.ai
-Category: 24/7 AI Phone Receptionists
+Category: 24/7 Phone Receptionists
 URL: https://smith.ai
 Page: https://mainstreetai.tools/tools/smith-ai
 Summary: An AI receptionist answers, qualifies and books your calls 24/7, with the option of live human receptionists behind it.
@@ -14,7 +14,7 @@ Pros: Free tier to test; Human backup available; Strong lead intake
 Cons: Per-call pricing adds up on busy lines
 
 ## Ruby
-Category: 24/7 AI Phone Receptionists
+Category: 24/7 Phone Receptionists
 URL: https://www.ruby.com
 Page: https://mainstreetai.tools/tools/ruby
 Summary: Trained human virtual receptionists (with AI assist) answer your calls live, so every caller hears a real person.
@@ -25,7 +25,7 @@ Pros: Real people on every call; Polished, professional tone
 Cons: Much pricier than pure AI; Minute-based billing
 
 ## Dialzara
-Category: 24/7 AI Phone Receptionists
+Category: 24/7 Phone Receptionists
 URL: https://dialzara.com
 Page: https://mainstreetai.tools/tools/dialzara
 Summary: AI receptionist that answers calls, takes messages, transfers urgent calls and books appointments.
@@ -36,7 +36,7 @@ Pros: Very low entry price; No contract
 Cons: Low minute cap on entry plan
 
 ## My AI Front Desk
-Category: 24/7 AI Phone Receptionists
+Category: 24/7 Phone Receptionists
 URL: https://www.myaifrontdesk.com
 Page: https://mainstreetai.tools/tools/my-ai-front-desk
 Summary: AI receptionist bundled with web chat, two-way texting and a simple CRM.
@@ -47,7 +47,7 @@ Pros: Calls + chat + SMS in one; Simple setup
 Cons: Busy shops need custom plan
 
 ## Rosie
-Category: 24/7 AI Phone Receptionists
+Category: 24/7 Phone Receptionists
 URL: https://heyrosie.com
 Page: https://mainstreetai.tools/tools/rosie
 Summary: Low-cost AI answering service for home-service and local businesses that captures leads and texts you summaries.
@@ -58,7 +58,7 @@ Pros: Generous minutes for price; Built for home services
 Cons: Jumps to next plan rather than overage
 
 ## Goodcall
-Category: 24/7 AI Phone Receptionists
+Category: 24/7 Phone Receptionists
 URL: https://www.goodcall.com
 Page: https://mainstreetai.tools/tools/goodcall
 Summary: AI phone agent with unlimited minutes, priced by how many unique callers you get.
@@ -69,7 +69,7 @@ Pros: Unlimited minutes; Good for long calls
 Cons: Costs rise with many new callers
 
 ## Upfirst
-Category: 24/7 AI Phone Receptionists
+Category: 24/7 Phone Receptionists
 URL: https://upfirst.ai
 Page: https://mainstreetai.tools/tools/upfirst
 Summary: Simple AI answering service for small businesses that answers, screens and takes messages.
@@ -80,7 +80,7 @@ Pros: Cheap to start
 Cons: Small call allowance
 
 ## NextPhone
-Category: 24/7 AI Phone Receptionists
+Category: 24/7 Phone Receptionists
 URL: https://www.getnextphone.com
 Page: https://mainstreetai.tools/tools/nextphone
 Summary: AI receptionist with unlimited calls aimed at service businesses that never want to miss a job.
@@ -91,7 +91,7 @@ Pros: Unlimited calls; Predictable bill
 Cons: Higher entry price
 
 ## Quo (formerly OpenPhone)
-Category: 24/7 AI Phone Receptionists
+Category: 24/7 Phone Receptionists
 URL: https://www.quo.com
 Page: https://mainstreetai.tools/tools/quo-formerly-openphone
 Summary: Business phone system with an AI agent that answers when your team can't.
@@ -102,7 +102,7 @@ Pros: Full business phone line; Shared team inbox
 Cons: AI calls billed via credits
 
 ## Abby Connect
-Category: 24/7 AI Phone Receptionists
+Category: 24/7 Phone Receptionists
 URL: https://www.abby.com
 Page: https://mainstreetai.tools/tools/abby-connect
 Summary: Human receptionist team with AI tools, assigned to your business for a personal feel.
@@ -113,7 +113,7 @@ Pros: Dedicated human team
 Cons: Minute-based, costly at volume
 
 ## ServiceAgent
-Category: 24/7 AI Phone Receptionists
+Category: 24/7 Phone Receptionists
 URL: https://serviceagent.ai
 Page: https://mainstreetai.tools/tools/serviceagent
 Summary: AI front office for home-service shops: answers calls, books jobs, invoices and runs CRM workflows on a credit-based plan.
@@ -234,7 +234,7 @@ Pros: Free to start; Built-in payments
 Cons: Not built for dispatching crews
 
 ## QuickBooks Online
-Category: AI Bookkeeping & Invoicing
+Category: Bookkeeping & Invoicing
 URL: https://quickbooks.intuit.com
 Page: https://mainstreetai.tools/tools/quickbooks-online
 Summary: The most common small-business accounting software, with AI-assisted categorizing, invoicing and payroll add-ons.
@@ -245,7 +245,7 @@ Pros: Every accountant knows it; Huge app ecosystem
 Cons: Price increases; User caps per tier
 
 ## Xero
-Category: AI Bookkeeping & Invoicing
+Category: Bookkeeping & Invoicing
 URL: https://www.xero.com/us/
 Page: https://mainstreetai.tools/tools/xero
 Summary: Cloud accounting with unlimited users, automatic bank reconciliation and invoicing.
@@ -256,7 +256,7 @@ Pros: Unlimited users; Clean interface
 Cons: Early plan limits invoices to 20/mo
 
 ## FreshBooks
-Category: AI Bookkeeping & Invoicing
+Category: Bookkeeping & Invoicing
 URL: https://www.freshbooks.com
 Page: https://mainstreetai.tools/tools/freshbooks
 Summary: Invoicing-first accounting for service businesses that bill clients for time and projects.
@@ -267,7 +267,7 @@ Pros: Very easy invoicing; Time tracking
 Cons: Client caps on lower plans
 
 ## Wave
-Category: AI Bookkeeping & Invoicing
+Category: Bookkeeping & Invoicing
 URL: https://www.waveapps.com
 Page: https://mainstreetai.tools/tools/wave
 Summary: Free accounting and invoicing for very small businesses, with a low-cost Pro tier.
@@ -278,7 +278,7 @@ Pros: Free core plan; No revenue cap
 Cons: Limited support on free plan
 
 ## Zoho Books
-Category: AI Bookkeeping & Invoicing
+Category: Bookkeeping & Invoicing
 URL: https://www.zoho.com/us/books/
 Page: https://mainstreetai.tools/tools/zoho-books
 Summary: Full accounting with a free plan for small businesses and strong automation.
@@ -289,7 +289,7 @@ Pros: Free plan; Works with Zoho apps
 Cons: Many tiers to choose from
 
 ## Digits
-Category: AI Bookkeeping & Invoicing
+Category: Bookkeeping & Invoicing
 URL: https://digits.com
 Page: https://mainstreetai.tools/tools/digits
 Summary: AI-native bookkeeping that auto-categorizes transactions and keeps books up to date.
@@ -300,7 +300,7 @@ Pros: Highly automated; Real-time dashboards
 Cons: Newer, smaller accountant network
 
 ## Booke AI
-Category: AI Bookkeeping & Invoicing
+Category: Bookkeeping & Invoicing
 URL: https://booke.ai
 Page: https://mainstreetai.tools/tools/booke-ai
 Summary: AI assistant that cleans up and reconciles books inside QuickBooks or Xero.
@@ -311,7 +311,7 @@ Pros: Speeds reconciliation
 Cons: Add-on, needs QBO or Xero
 
 ## Docyt
-Category: AI Bookkeeping & Invoicing
+Category: Bookkeeping & Invoicing
 URL: https://docyt.com
 Page: https://mainstreetai.tools/tools/docyt
 Summary: AI bookkeeping automation for multi-location businesses, with receipt capture and reconciliation.
@@ -322,7 +322,7 @@ Pros: Multi-entity support
 Cons: Overkill for solo shops
 
 ## Puzzle
-Category: AI Bookkeeping & Invoicing
+Category: Bookkeeping & Invoicing
 URL: https://puzzle.io
 Page: https://mainstreetai.tools/tools/puzzle
 Summary: AI accounting software that automates categorization and monthly close.
@@ -333,7 +333,7 @@ Pros: Modern, automated
 Cons: Fewer trade-specific features
 
 ## Invoice Simple
-Category: AI Bookkeeping & Invoicing
+Category: Bookkeeping & Invoicing
 URL: https://www.invoicesimple.com
 Page: https://mainstreetai.tools/tools/invoice-simple
 Summary: Phone-friendly app to send estimates and invoices and get paid fast.
