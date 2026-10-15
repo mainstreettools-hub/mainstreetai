@@ -73,7 +73,7 @@ Category: 24/7 AI Phone Receptionists
 URL: https://upfirst.ai
 Page: https://mainstreetai.tools/tools/upfirst
 Summary: Simple AI answering service for small businesses that answers, screens and takes messages.
-Pricing: From $24.95/mo for 30 calls (third-party report, Sep 2026). (not verified on vendor page)
+Pricing: Starter $24.95/mo for 30 calls ($1.50 per extra call); Premium $59.95 (90 calls); Pro $159.95 (300 calls). 20% off annually; 14-day trial.
 Setup: easy, 15 minutes
 Best for: Solo operators, Handymen
 Pros: Cheap to start
@@ -441,3 +441,171 @@ Setup: easy, 1 hour
 Best for: Small teams, Solo operators
 Pros: Flat per-workspace pricing
 Cons: AI features on higher plans
+
+# Solutions by field-service platform
+
+## Missed-Call Text-Back for Jobber (2026)
+Page: https://mainstreetai.tools/solutions/missed-call-text-back-for-jobber
+You're under a sink and the phone rings. If that caller hangs up, they're probably calling the next company on Google. If you already run your jobs in Jobber, you have two honest options: turn on Jobber's own Receptionist, which can text back callers who hang up, or use an AI answering service and pipe each call into Jobber through Zapier.
+Decision rules:
+- You want it inside Jobber with no extra apps: Jobber Receptionist. It's the only option here with a built-in text-back for callers who hang up.
+- You get a lot of calls and want a flat price: Rosie: $49/mo covers 250 minutes, versus Jobber's 30 conversations then $0.79 each.
+- You're on Jobber Core: Zapier connections need Connect, Grow or Plus, so stick with Jobber Receptionist or an answering service that just texts you.
+- You want a human who can step in: Smith.ai, which can book into your Jobber calendar through your online booking link.
+Options:
+- Jobber (Built in): Jobber's Receptionist answers calls and texts 24/7, books jobs from your Online Booking form and creates requests. "SMS send back" texts callers who hang up before it can talk to them. It's $29/mo for 30 conversations, then $0.79 each, and it's included on the Plus plan. It needs a Jobber dedicated phone number; you can forward your existing number to it. Source: https://help.getjobber.com/en/articles/receptionistpowered-by-jobber-ai/
+- Rosie (Via Zapier): Connects to Jobber via Zapier. There's a ready-made Zap that creates a Jobber client from each new Rosie call. Rosie also texts you the details of every call. Source: https://zapier.com/apps/rosie/integrations/jobber
+- Dialzara (Via Zapier): Connects to Jobber via Zapier. Its published Zap creates a new Jobber request for each call the AI answers. Zapier and Make are included on every Dialzara plan. Source: https://zapier.com/apps/dialzara/integrations/jobber/255621268/create-new-jobber-requests-from-new-dialzara-calls https://dialzara.com/pricing
+- Upfirst (Via Zapier): Connects to Jobber via Zapier. Upfirst's own guide uses Call Ended as the trigger and Create Client in Jobber, with an optional Create Request step. Source: https://upfirst.ai/blog/how-to-automate-phone-calls-with-ai-and-zapier
+- Smith.ai (Booking link + Zapier): Smith.ai lists Jobber as an integration: its receptionists book into your calendar through your Jobber online booking link, and a Zapier option creates a Jobber client after each call. Source: https://smith.ai/integrates-with/jobber
+Note: Zapier connections to Jobber need the Connect, Grow or Plus plan.
+
+## AI Receptionist That Books Jobs into Jobber (2026)
+Page: https://mainstreetai.tools/solutions/ai-receptionist-for-jobber
+"Integrates with Jobber" can mean three different things. Some tools book the visit straight onto your schedule, some create a client or request through Zapier, and some just text you a summary. Here's what each one does, going by the vendor's own docs.
+Decision rules:
+- You want the visit on your calendar, not just a lead: Jobber Receptionist or Smith.ai. Both book through your Jobber online booking setup.
+- You're fine reviewing requests first: Dialzara's Zap creates a Jobber request you can approve and schedule.
+- Budget is the main thing: Upfirst starts at $24.95/mo for 30 calls; Dialzara at $29/mo for 60 minutes.
+Options:
+- Jobber (Built in): Books jobs straight into your schedule using your Online Booking form, and can reschedule or cancel visits when you allow it. Source: https://help.getjobber.com/en/articles/receptionistpowered-by-jobber-ai/
+- Smith.ai (Booking link): Receptionists book through your Jobber online booking link, which schedules and assigns the job in your calendar. Setup is done by emailing Smith.ai the link. Source: https://smith.ai/integrates-with/jobber
+- Dialzara (Via Zapier): Via Zapier: creates a Jobber request for each answered call. Calendar sync with Google or Outlook is on the Pro plan and up. Source: https://zapier.com/apps/dialzara/integrations/jobber/255621268/create-new-jobber-requests-from-new-dialzara-calls https://dialzara.com/pricing
+- Rosie (Via Zapier): Via Zapier: creates a Jobber client from each call, and Zapier also offers find-or-create client and create job actions. Source: https://zapier.com/apps/rosie/integrations/jobber
+- Upfirst (Via Zapier): Via Zapier: Call Ended to Create Client, then Create Request. Upfirst books natively into Google, Outlook, Calendly, Acuity, Square and Clio, not Jobber. Source: https://upfirst.ai/blog/how-to-automate-phone-calls-with-ai-and-zapier https://upfirst.ai/pricing
+Note: Zapier connections to Jobber need the Connect, Grow or Plus plan.
+
+## Automatic Quote Follow-Up for Jobber (2026)
+Page: https://mainstreetai.tools/solutions/quote-follow-up-for-jobber
+Most quotes that die just never got a second nudge. Jobber can send those nudges for you. Pair that with a receptionist that captures quote requests after hours and more of your phone calls end up as sent quotes.
+Decision rules:
+- You're on Core: Quote follow-ups need Connect or higher, so it's worth the upgrade if you send many quotes.
+- Leads come in by phone after hours: Add Jobber Receptionist (its phone menu has a "Get started on an estimate" option) or Dialzara via Zapier.
+Options:
+- Jobber (Built in): Automated quote follow-ups send up to two reminders on quotes still awaiting a response, anywhere from 1 to 90 days after you send them, by the same email or text channel. Available on Connect and higher. Source: https://help.getjobber.com/en/articles/automations/
+- Dialzara (Via Zapier): Via Zapier: creates a Jobber request from each answered call, so the quote request is waiting for you in the morning. Source: https://zapier.com/apps/dialzara/integrations/jobber/255621268/create-new-jobber-requests-from-new-dialzara-calls
+- Rosie (Via Zapier): Via Zapier: creates the Jobber client from the call so you can build the quote right away. Source: https://zapier.com/apps/rosie/integrations/jobber
+
+## AI Receptionist for Housecall Pro (2026)
+Page: https://mainstreetai.tools/solutions/ai-receptionist-for-housecall-pro
+Housecall Pro sells its own AI call answering, but it doesn't publish the price. If you'd rather know the cost up front, a few answering services connect to it. Only one in our directory has a native integration. The rest go through Zapier, and Housecall Pro's Zapier app can only create customers.
+Decision rules:
+- You want call notes logged on the customer record: Smith.ai. It has the native Housecall Pro integration.
+- You're on the Basic plan: Housecall Pro's Zapier app needs Essentials or MAX, so use Smith.ai or an answering service that texts you.
+- You want a known monthly price: Rosie ($49/mo, 250 minutes) or Dialzara ($29/mo, 60 minutes), via Zapier.
+- You'd rather keep everything in one bill: Ask Housecall Pro about CSR AI, its paid add-on.
+Options:
+- Smith.ai (Native): Native integration using your Housecall Pro API key: callers are matched to existing or new customer records, and call summaries and bookings are logged in your account. Booking goes through your Housecall Pro online booking link. Each Smith.ai plan includes one free integration. Source: https://docs.smith.ai/article/004c54yyf1-how-to-connect-housecall-pro-to-smith-ai https://docs.smith.ai/article/ybasbum9lx-how-to-connect-housecall-pro-to-smithai
+- Rosie (Via Zapier): Rosie says it connects to Housecall Pro using its Zapier integration and gives a duct-cleaning customer as an example. Source: https://heyrosie.com/blog/how-an-ai-answering-service-can-transform-your-home-services-business
+- Dialzara (Via Zapier / webhook): Dialzara says it sends service requests to Housecall Pro by email, SMS or webhook, and lists Zapier for Housecall Pro on its blog. Source: https://dialzara.com/industries/hvac
+- Housecall Pro (Built in (add-on)): Housecall Pro's CSR AI is its own AI call answering. It's a paid add-on and the price isn't published. Source: https://help.housecallpro.com/en/articles/9740104-csr-ai-overview
+Note: Housecall Pro's Zapier app has two triggers (New Scheduled Job, New Completed Job) and one action, Create Customer. That means a Zap can add the caller as a customer but can't book the job. Zapier is available on Essentials and MAX.
+
+## AI Estimate Follow-Up for Housecall Pro (2026)
+Page: https://mainstreetai.tools/solutions/ai-estimate-follow-up-for-housecall-pro
+An estimate that nobody follows up on is a job you gave away. Housecall Pro's Pipeline can resend estimates on a schedule without you lifting a finger. The rest of the job is getting callers into Housecall Pro so the estimate gets written in the first place.
+Decision rules:
+- You send a lot of estimates: Ask Housecall Pro for a Pipeline demo. Its automations resend estimates on a schedule.
+- Estimate requests come in by phone: Smith.ai logs the call on the customer record natively. Rosie can add the caller as a customer via Zapier on Essentials or MAX.
+Options:
+- Housecall Pro (Built in): Pipeline automations resend estimates and move them through first, second and third follow-up, then mark them declined after the last one. Follow-ups go by email or text, matching how the estimate was sent. You add Pipeline by booking a demo with Housecall Pro. Source: https://help.housecallpro.com/en/articles/6185346-pipeline-faqs
+- Smith.ai (Native): Native integration logs each call summary on the customer record, so the estimate request is already in Housecall Pro. Source: https://docs.smith.ai/article/004c54yyf1-how-to-connect-housecall-pro-to-smith-ai
+- Rosie (Via Zapier): Via Zapier: adds the caller as a Housecall Pro customer (the only action its Zapier app offers). Source: https://heyrosie.com/blog/how-an-ai-answering-service-can-transform-your-home-services-business https://zapier.com/apps/housecall-pro/integrations
+
+## AI Receptionist for ServiceTitan (2026)
+Page: https://mainstreetai.tools/solutions/ai-receptionist-for-servicetitan
+ServiceTitan shops usually have a CSR team during the day. The gap is nights, weekends and the Monday after a cold snap. Here's which answering services connect to ServiceTitan and what each connection really does.
+Decision rules:
+- You want new callers created as customers with notes: Smith.ai. It has a native ServiceTitan integration.
+- You're on The Works or Legacy package: You can use Zapier, so Rosie or Dialzara become options.
+- You're on another package: Zapier isn't available to you, so use Smith.ai's native integration or a service that texts or emails you the call.
+Options:
+- Smith.ai (Native): Native integration: after each call it creates the customer if needed and adds the call details and summary as notes. ServiceTitan needs an address to create a customer, so the call script has to collect one. Smith.ai's announcement also says it can schedule with Scheduling Pro. Source: https://docs.smith.ai/article/in3lbuoc32-how-to-connect-service-titan-to-smith-ai https://smith.ai/blog/ai-receptionist-now-integrates-with-servicetitan
+- Rosie (Via Zapier): Rosie says it connects to ServiceTitan using Zapier. ServiceTitan's Zapier app can create customers, leads and tasks. Source: https://heyrosie.com/blog/how-an-ai-answering-service-can-transform-your-home-services-business https://help.zapier.com/hc/en-us/articles/38844073291661-How-to-get-started-with-ServiceTitan-on-Zapier
+- Dialzara (Email / SMS / webhook): Sends service requests to ServiceTitan by email, SMS or webhook, per Dialzara's HVAC page. Source: https://dialzara.com/industries/hvac
+- ServiceTitan (Platform): No built-in AI receptionist in our directory listing; pricing is quote-only, per technician.
+Note: ServiceTitan on Zapier needs The Works or Legacy package, an admin user, a registration form and API credentials. ServiceTitan says Zapier is offered "as is" and it doesn't support Zap setup.
+
+## Estimate Follow-Up Automation for ServiceTitan (2026)
+Page: https://mainstreetai.tools/solutions/ai-estimate-follow-up-for-servicetitan
+There's no AI tool in our directory that chases ServiceTitan estimates natively. What does exist is ServiceTitan's Zapier app. It can fire when an estimate is updated, and it can create lead follow-ups and tasks. Here's how to wire that up.
+Decision rules:
+- You're on The Works or Legacy: Use Zapier: Updated Estimate trigger, then Create Task or Create Lead Follow Up.
+- You're on another package: No Zapier access. Use ServiceTitan's own follow-up tools or ask your rep.
+Options:
+- Zapier (Zapier): ServiceTitan's Zapier app has an "Updated Estimate" trigger and actions including Create Task, Create Lead Follow Up and Create Estimate. Source: https://help.zapier.com/hc/en-us/articles/38844073291661-How-to-get-started-with-ServiceTitan-on-Zapier
+- ServiceTitan (Platform): The platform itself. API (and so Zapier) access comes with The Works or Legacy package. Source: https://help.zapier.com/hc/en-us/articles/38844073291661-How-to-get-started-with-ServiceTitan-on-Zapier
+Note: ServiceTitan says Zapier is offered "as is", and it only supports API errors, not Zap setup.
+
+# Head-to-head comparisons
+
+## Jobber vs Housecall Pro (2026)
+Page: https://mainstreetai.tools/compare/jobber-vs-housecall-pro
+Both run quotes, scheduling, dispatch and invoicing for home-service crews, and both publish their prices. The differences that matter are how they charge for users, what their AI receptionists cost, and which plan you need before QuickBooks and Zapier work.
+- Entry price: Jobber: Core $29/mo billed annually ($49 monthly), 1 user | Housecall Pro: Basic $59/mo annually ($79 monthly), 1 user
+- Next tiers: Jobber: Connect $99 ($139), Grow $149 ($199), 1 user each; extra users $29/mo | Housecall Pro: Essentials $149 ($189), 5 users; MAX from $299 ($329), 8 users
+- AI call answering: Jobber: Receptionist: $29/mo for 30 conversations, $0.79 each after; included on Plus | Housecall Pro: CSR AI: paid add-on, price not published
+- Estimate / quote follow-up: Jobber: Automatic quote follow-ups (up to 2) on Connect and up | Housecall Pro: Pipeline automations (1st, 2nd, 3rd follow-up); added through a demo
+- QuickBooks Online: Jobber: Sync on Connect and up | Housecall Pro: Integration on Essentials or MAX
+- Zapier: Jobber: Connect, Grow and Plus | Housecall Pro: Essentials and MAX; one action (Create Customer)
+Decision rules:
+- 1 or 2 people, watching every dollar: Jobber Core, at $29/mo billed annually.
+- 3 to 5 people in the field: Run the numbers. Jobber Connect with 2 extra users is $157/mo billed annually, and Housecall Pro Essentials with 5 users is $149.
+- You do your books in QuickBooks Online: Jobber Connect ($99/mo annually) is the cheapest plan on either side with QBO sync. Housecall Pro needs Essentials ($149).
+- You want an AI receptionist with a known price: Jobber, since Receptionist pricing is published. Housecall Pro's CSR AI is quote-only.
+- You want to automate with Zapier: Jobber. Its Zapier app can create clients, requests, quotes and jobs. Housecall Pro's can only create customers.
+Sources: https://www.getjobber.com/pricing/ https://www.housecallpro.com/pricing/ https://help.getjobber.com/en/articles/receptionistpowered-by-jobber-ai/ https://help.housecallpro.com/en/articles/9740104-csr-ai-overview https://help.getjobber.com/en/articles/automations/ https://help.housecallpro.com/en/articles/6185346-pipeline-faqs https://help.housecallpro.com/en/articles/3006688-quickbooks-online-integration-onboarding-guide https://help.zapier.com/hc/en-us/articles/40859679162381-How-to-get-started-with-Jobber-on-Zapier https://zapier.com/apps/housecall-pro/integrations
+
+## Rosie vs Dialzara (2026)
+Page: https://mainstreetai.tools/compare/rosie-vs-dialzara
+Both are low-cost AI receptionists for small service businesses, and both connect to Jobber through Zapier. Dialzara is cheaper to start. Rosie gives you a lot more minutes once you're past the entry tier.
+- Entry plan: Rosie: $49/mo for 250 minutes | Dialzara: $29/mo for 60 minutes ($0.48/min over)
+- Next tier: Rosie: $149/mo for 1,000 minutes | Dialzara: $99/mo for 220 minutes; $199 for 500; $349 for 1,000
+- Warm transfer to your team: Rosie: Transfers to a live person when needed | Dialzara: Not on Lite; included from Pro ($99)
+- English + Spanish: Rosie: Not confirmed on vendor page | Dialzara: Pro and Plus
+- Website chat: Rosie: Included on every plan | Dialzara: Free with voice plans (100 sessions/mo), $39/mo standalone
+- Jobber: Rosie: Via Zapier (create client from call) | Dialzara: Via Zapier (create request from call)
+- Trial: Rosie: Not confirmed | Dialzara: 7-day free trial
+Decision rules:
+- Under about 60 minutes of calls a month: Dialzara Lite at $29/mo.
+- Between 60 and 250 minutes: Rosie at $49/mo. Covering 250 minutes on Dialzara means Pro at $99 plus overage.
+- Around 1,000 minutes a month: Rosie at $149 vs Dialzara Elite at $349.
+- Lots of Spanish-speaking callers: Dialzara Pro or Plus, which list bilingual English/Spanish.
+- You want chat on your website too: Either. Rosie includes it on every plan, and Dialzara bundles it free with voice plans up to 100 sessions a month.
+Sources: https://heyrosie.com/ https://dialzara.com/pricing https://zapier.com/apps/rosie/integrations/jobber https://zapier.com/apps/dialzara/integrations/jobber/255621268/create-new-jobber-requests-from-new-dialzara-calls
+
+## Rosie vs Upfirst (2026)
+Page: https://mainstreetai.tools/compare/rosie-vs-upfirst
+These two charge differently, and that decides most cases. Rosie sells minutes. Upfirst sells calls and doesn't bill spam or calls under 15 seconds. Short calls favor Upfirst; long calls favor Rosie.
+- Entry plan: Rosie: $49/mo for 250 minutes | Upfirst: $24.95/mo for 30 calls ($1.50 per extra call)
+- Higher tiers: Rosie: $149/mo for 1,000 minutes | Upfirst: $59.95 (90 calls), $159.95 (300), $299 (600)
+- Annual discount: Rosie: 2 months free | Upfirst: 20% off
+- Spam calls: Rosie: Not confirmed on vendor page | Upfirst: AI-blocked and not billed; calls under 15 seconds not billed
+- Calendar booking: Rosie: Books appointments | Upfirst: Google, Outlook, Calendly, Acuity, Square, Clio
+- Languages: Rosie: Not confirmed on vendor page | Upfirst: 35+ languages
+- Jobber: Rosie: Via Zapier | Upfirst: Via Zapier
+- Trial: Rosie: Not confirmed | Upfirst: 14 days
+Decision rules:
+- Fewer than 30 real calls a month: Upfirst Starter at $24.95.
+- Long calls (5+ minutes each): Rosie. You pay for minutes, and 250 minutes covers a lot of calls.
+- Lots of spam or robocalls: Upfirst, since it doesn't bill blocked spam.
+- Several locations: Upfirst adds extra agents at $9.95/mo each.
+- Callers in many languages: Upfirst (35+ languages).
+Sources: https://heyrosie.com/ https://upfirst.ai/pricing https://upfirst.ai/blog/how-to-automate-phone-calls-with-ai-and-zapier https://zapier.com/apps/rosie/integrations/jobber
+
+## Smith.ai vs Rosie (2026)
+Page: https://mainstreetai.tools/compare/smith-ai-vs-rosie
+Smith.ai costs more, but it can put live receptionists behind the AI and it has native integrations with the big field-service apps. Rosie is the budget pick, and it reaches those apps through Zapier.
+- Entry price: Smith.ai: Free: 25 calls/mo ($3/call after) | Rosie: $49/mo for 250 minutes
+- Paid plan: Smith.ai: Pro from $150/mo for 75 calls | Rosie: $149/mo for 1,000 minutes
+- Live human backup: Smith.ai: Yes | Rosie: Transfers to your team
+- Jobber: Smith.ai: Books via your Jobber online booking link; Zapier for clients | Rosie: Via Zapier
+- Housecall Pro: Smith.ai: Native (API key) | Rosie: Via Zapier
+- ServiceTitan: Smith.ai: Native (creates/matches customers, logs notes) | Rosie: Via Zapier (needs The Works or Legacy)
+- Integrations included: Smith.ai: One free integration per plan | Rosie: Zapier on plan
+Decision rules:
+- You're on Housecall Pro or ServiceTitan and want calls logged on the record: Smith.ai, which has native integrations.
+- Fewer than 25 calls a month: Smith.ai's free plan.
+- Busy line, tight budget: Rosie. Per-call pricing at Smith.ai adds up fast.
+- Law office or intake-heavy calls: Smith.ai, with human receptionists behind the AI.
+Sources: https://smith.ai/pricing https://heyrosie.com/ https://smith.ai/integrates-with/jobber https://docs.smith.ai/article/004c54yyf1-how-to-connect-housecall-pro-to-smith-ai https://docs.smith.ai/article/in3lbuoc32-how-to-connect-service-titan-to-smith-ai https://help.zapier.com/hc/en-us/articles/38844073291661-How-to-get-started-with-ServiceTitan-on-Zapier

@@ -77,8 +77,8 @@ picks:[['wave','Free core bookkeeping and invoicing with no revenue cap. Pro is 
 ['invoice-simple','Fast invoices from your phone in about 15 minutes of setup. Not full accounting, and pricing isn\'t verified.'],
 ['servicem8','Job scheduling with a great iPhone app and pay-by-job-volume plans. Works best on Apple devices. Pricing isn\'t verified.'],
 ['dialzara','An AI receptionist from $29/mo with a 7-day free trial, so you stop missing calls while on a ladder.'],
-['upfirst','Call answering from $24.95/mo for 30 calls (third-party report). Small call allowance.']],
-faq:[['What is the cheapest setup for a one-person handyman business?','Wave\'s free plan for books and invoices, plus an entry AI receptionist like Upfirst (from $24.95/mo, third-party report) or Dialzara ($29/mo).'],
+['upfirst','Call answering from $24.95/mo for 30 calls. Small call allowance.']],
+faq:[['What is the cheapest setup for a one-person handyman business?','Wave\'s free plan for books and invoices, plus an entry AI receptionist like Upfirst (from $24.95/mo for 30 calls) or Dialzara ($29/mo).'],
 ['Do I need field service software as a solo operator?','Not always. ServiceM8 is listed for handymen and solo operators if you want scheduling and job tracking on your phone.'],
 ['How fast can I get set up?','Invoice Simple and Upfirst list about 15 minutes. Wave takes 1–2 hours.']],
 related:['ai-bookkeeping-for-contractors','best-ai-receptionist-for-plumbers']}];

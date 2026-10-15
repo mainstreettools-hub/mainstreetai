@@ -62,13 +62,26 @@ Full text of every listing: https://mainstreetai.tools/llms-full.txt
 
 ## Comparisons
 
+- [Jobber vs Housecall Pro (2026)](https://mainstreetai.tools/compare/jobber-vs-housecall-pro): Jobber vs Housecall Pro for a small trades business: published prices, user limits, QuickBooks, Zapier, AI call answering and estimate follow-up, with simple rules for picking one.
+- [Rosie vs Dialzara (2026)](https://mainstreetai.tools/compare/rosie-vs-dialzara): Rosie vs Dialzara AI receptionist: minutes per dollar, overage, transfers, Spanish, website chat and Jobber/Housecall Pro connections, with rules for picking one.
+- [Rosie vs Upfirst (2026)](https://mainstreetai.tools/compare/rosie-vs-upfirst): Rosie vs Upfirst AI answering service: per-minute vs per-call pricing, spam billing, languages, calendar booking and Jobber, with rules for picking one.
+- [Smith.ai vs Rosie (2026)](https://mainstreetai.tools/compare/smith-ai-vs-rosie): Smith.ai vs Rosie: human backup vs low-cost AI, per-call vs per-minute pricing, and native Jobber, Housecall Pro and ServiceTitan integrations.
 - [Top 10 AI Phone Receptionists Compared (2026)](https://mainstreetai.tools/compare/ai-phone-receptionists-compared): Side-by-side pricing, setup and best fit for every AI answering service in our directory.
 - [Best AI Tools for Plumbers (2026)](https://mainstreetai.tools/compare/best-ai-tools-for-plumbers): Answer emergency calls at 2am, dispatch faster and invoice from the truck.
 - [Best AI Tools for HVAC Companies (2026)](https://mainstreetai.tools/compare/best-ai-tools-for-hvac): Seasonal call spikes, maintenance agreements and fast quoting — the tools that help.
 - [Best AI Tools for Law Offices (2026)](https://mainstreetai.tools/compare/best-ai-tools-for-law-offices): Intake every caller, bill clients cleanly and answer website questions after hours.
 - [Best AI Tools for Clinics & Practices (2026)](https://mainstreetai.tools/compare/best-ai-tools-for-clinics): Booking, reminders and front-desk relief for clinics.
-- [Jobber vs Housecall Pro (2026)](https://mainstreetai.tools/compare/jobber-vs-housecall-pro): The two most popular field-service apps with published pricing, compared.
 - [QuickBooks vs Xero vs Wave (2026)](https://mainstreetai.tools/compare/quickbooks-vs-xero-vs-wave): Which bookkeeping software fits a small service business?
+
+## Solutions by field-service platform
+
+- [Missed-Call Text-Back for Jobber (2026)](https://mainstreetai.tools/solutions/missed-call-text-back-for-jobber): Ways to stop losing Jobber leads to voicemail: Jobber's own Receptionist with text-back, or an AI answering service that pushes callers into Jobber through Zapier.
+- [AI Receptionist That Books Jobs into Jobber (2026)](https://mainstreetai.tools/solutions/ai-receptionist-for-jobber): Which AI answering services actually put the job on your Jobber schedule, and which ones just create a client record. Checked against each vendor's docs.
+- [Automatic Quote Follow-Up for Jobber (2026)](https://mainstreetai.tools/solutions/quote-follow-up-for-jobber): How to chase unanswered Jobber quotes without doing it by hand, and how to get more quote requests in from the phone.
+- [AI Receptionist for Housecall Pro (2026)](https://mainstreetai.tools/solutions/ai-receptionist-for-housecall-pro): AI answering services that work with Housecall Pro: which have a native integration, which go through Zapier, and what the Zapier connection can and can't do.
+- [AI Estimate Follow-Up for Housecall Pro (2026)](https://mainstreetai.tools/solutions/ai-estimate-follow-up-for-housecall-pro): How to chase open Housecall Pro estimates automatically with Pipeline, and how to feed more estimate requests in from the phone.
+- [AI Receptionist for ServiceTitan (2026)](https://mainstreetai.tools/solutions/ai-receptionist-for-servicetitan): Answering services that work with ServiceTitan, what the integrations actually do, and the package you need for Zapier.
+- [Estimate Follow-Up Automation for ServiceTitan (2026)](https://mainstreetai.tools/solutions/ai-estimate-follow-up-for-servicetitan): How to trigger follow-ups on ServiceTitan estimates with Zapier, and what you need before you start.
 
 ## Guides
 

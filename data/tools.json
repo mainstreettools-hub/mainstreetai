@@ -153,8 +153,8 @@
     "name": "Upfirst",
     "url": "https://upfirst.ai",
     "summary": "Simple AI answering service for small businesses that answers, screens and takes messages.",
-    "pricing": "From $24.95/mo for 30 calls (third-party report, Sep 2026).",
-    "pricing_verified": false,
+    "pricing": "Starter $24.95/mo for 30 calls ($1.50 per extra call); Premium $59.95 (90 calls); Pro $159.95 (300 calls). 20% off annually; 14-day trial.",
+    "pricing_verified": true,
     "pricing_checked": "Oct 2026",
     "setup_effort": "easy",
     "setup_time": "15 minutes",
@@ -167,7 +167,8 @@
     ],
     "cons": [
       "Small call allowance"
-    ]
+    ],
+    "affiliate_url": ""
   },
   {
     "slug": "nextphone",
@@ -264,7 +265,8 @@
     ],
     "cons": [
       "Add-ons (e.g. AI receptionist) cost extra"
-    ]
+    ],
+    "affiliate_url": ""
   },
   {
     "slug": "housecall-pro",
@@ -288,7 +290,8 @@
     ],
     "cons": [
       "Price increases in 2026"
-    ]
+    ],
+    "affiliate_url": ""
   },
   {
     "slug": "servicetitan",
