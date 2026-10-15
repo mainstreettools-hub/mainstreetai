@@ -1,0 +1,1 @@
+{"name":"mainstreetai","private":true,"scripts":{"build":"node build.js","indexnow":"node indexnow.js"}}
