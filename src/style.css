@@ -54,3 +54,5 @@ th{background:#f6f4ee}
 .brief,.scta{background:radial-gradient(circle at 90% 0%,rgba(94,234,212,.18),transparent 45%),linear-gradient(135deg,#0b1730,#13284d);color:#fff;border:0;box-shadow:0 18px 40px rgba(11,23,48,.25)}
 .brief p,.scta p{color:#cbd5e1}.scta h2{color:#fff}
 .ft{margin-top:56px}
+.rk{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:16px}.rki{display:flex;gap:16px;align-items:flex-start;min-width:0}.rkb{flex:1;min-width:0;display:flex;flex-direction:column;gap:8px}.rkb h3{margin:0;font-size:21px}.rkb h3 a{color:#0f172a;text-decoration:none}.rn{flex:none;width:46px;height:46px;border-radius:12px;background:#0f172a;color:#fbbf24;font-weight:900;font-size:18px;display:flex;align-items:center;justify-content:center}.rkb .facts p,.faq .cc small{overflow-wrap:anywhere}
+@media(max-width:600px){.rki{flex-direction:column;gap:10px}}

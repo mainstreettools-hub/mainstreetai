@@ -70,6 +70,16 @@ Full text of every listing: https://mainstreetai.tools/llms-full.txt
 - [Jobber vs Housecall Pro (2026)](https://mainstreetai.tools/compare/jobber-vs-housecall-pro): The two most popular field-service apps with published pricing, compared.
 - [QuickBooks vs Xero vs Wave (2026)](https://mainstreetai.tools/compare/quickbooks-vs-xero-vs-wave): Which bookkeeping software fits a small service business?
 
+## Guides
+
+- [Best AI Receptionist for Plumbers (2026)](https://mainstreetai.tools/guides/best-ai-receptionist-for-plumbers): AI answering services that pick up emergency plumbing calls 24/7, ranked by price, minutes included and setup time. Pricing checked Oct 2026.
+- [Best AI Receptionist for HVAC Companies (2026)](https://mainstreetai.tools/guides/best-ai-receptionist-for-hvac): AI phone answering for HVAC shops that get slammed in heat waves and cold snaps. Compare pricing, minutes and setup. Checked Oct 2026.
+- [Best AI Receptionist for Law Firms (2026)](https://mainstreetai.tools/guides/best-ai-receptionist-for-law-firms): Answering services for small law firms that need every potential client screened and logged. AI and human-backed options with pricing.
+- [Best AI Receptionist for Dental & Medical Offices (2026)](https://mainstreetai.tools/guides/best-ai-receptionist-for-dental-offices): Front-desk call coverage for dental offices and clinics: AI and human answering services ranked by price and setup.
+- [Best Scheduling Software for Small HVAC Companies (2026)](https://mainstreetai.tools/guides/best-ai-scheduling-software-for-small-hvac-companies): Field service and dispatch software for 1–10 tech HVAC shops: Housecall Pro, Jobber, FieldEdge, FieldPulse and more, with real pricing.
+- [Best Bookkeeping & Invoicing Software for Contractors (2026)](https://mainstreetai.tools/guides/ai-bookkeeping-for-contractors): Bookkeeping and invoicing apps for contractors and trades: QuickBooks, Xero, Wave, FreshBooks and more, with October 2026 pricing.
+- [Best Apps for Handymen & Solo Operators (2026)](https://mainstreetai.tools/guides/best-invoicing-app-for-handymen): Cheap, fast tools for one-person service businesses: invoicing, scheduling and call answering that set up in an afternoon.
+
 ## Optional
 
 - [Sponsor / advertise](https://mainstreetai.tools/sponsor)
