@@ -1,6 +1,6 @@
 # MainStreetAI
 
-> A plain-English directory of 40 vetted AI tools for local service and small businesses (contractors, plumbers, HVAC, clinics, law offices, realtors, solo operators). Each listing gives published pricing (checked Oct 2026), setup effort, best-fit trades, pros and cons.
+> A directory of 40 vetted AI tools for local service and small businesses (contractors, plumbers, HVAC, clinics, law offices, realtors, solo operators). Each listing gives published pricing (checked Oct 2026), setup effort, best-fit trades, pros and cons.
 
 Full text of every listing: https://mainstreetai.tools/llms-full.txt
 
