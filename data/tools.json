@@ -242,6 +242,33 @@
     ]
   },
   {
+    "slug": "serviceagent",
+    "category": "phone-receptionists",
+    "name": "ServiceAgent",
+    "url": "https://serviceagent.ai",
+    "summary": "AI front office for home-service shops: answers calls, books jobs, invoices and runs CRM workflows on a credit-based plan.",
+    "pricing": "Launch free (pay-as-you-go AI). Core $49/mo for 2,000 credits (~$39/mo yearly). Growth $119/mo (6,000). Franchise $349/mo (20,000). AI voice uses 15 credits/min (~133 voice min on Core if credits go only to calls).",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "easy",
+    "setup_time": "minutes to claim a number; full CRM setup 1–2 days",
+    "best_trades": [
+      "HVAC",
+      "Plumbers",
+      "Electricians",
+      "Roofers"
+    ],
+    "pros": [
+      "Free Launch tier to start",
+      "Built for home-service trades",
+      "Calls, CRM, booking and invoicing in one"
+    ],
+    "cons": [
+      "Credits also fund SMS and ads, so voice minutes are a ceiling",
+      "Payment and ad fees stack on top of the plan"
+    ]
+  },
+  {
     "slug": "jobber",
     "category": "field-service-scheduling",
     "name": "Jobber",

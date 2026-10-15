@@ -112,6 +112,17 @@ Best for: Law offices, Clinics, Financial advisors
 Pros: Dedicated human team
 Cons: Minute-based, costly at volume
 
+## ServiceAgent
+Category: 24/7 AI Phone Receptionists
+URL: https://serviceagent.ai
+Page: https://mainstreetai.tools/tools/serviceagent
+Summary: AI front office for home-service shops: answers calls, books jobs, invoices and runs CRM workflows on a credit-based plan.
+Pricing: Launch free (pay-as-you-go AI). Core $49/mo for 2,000 credits (~$39/mo yearly). Growth $119/mo (6,000). Franchise $349/mo (20,000). AI voice uses 15 credits/min (~133 voice min on Core if credits go only to calls).
+Setup: easy, minutes to claim a number; full CRM setup 1–2 days
+Best for: HVAC, Plumbers, Electricians, Roofers
+Pros: Free Launch tier to start; Built for home-service trades; Calls, CRM, booking and invoicing in one
+Cons: Credits also fund SMS and ads, so voice minutes are a ceiling; Payment and ad fees stack on top of the plan
+
 ## Jobber
 Category: Field Service & Scheduling
 URL: https://www.getjobber.com
