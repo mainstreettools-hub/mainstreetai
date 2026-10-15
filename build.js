@@ -13,7 +13,7 @@ const CC={"phone-receptionists":"c1","field-service-scheduling":"c2","bookkeepin
 const nav=`<nav class="mainnav">${Object.entries(CATS).map(([k,v])=>`<a href="/category/${k}">${ICON[k]} ${esc(v.name.replace(/^24\/7 AI |^AI /,''))}</a>`).join('')}<a href="/compare">⚖️ Compare</a></nav>`;
 function page({p,title,desc,body,ld,nobrief}){const url=B+(p==='index.html'?'/':'/'+p.replace(/(\/index)?\.html$/,''));urls.push(url);
 const tick=C.TICKER.map(t=>`<span class="tp">★ ${esc(t)}</span>`).join('')+`<a class="tp gold" href="/sponsor">Book a sponsor spot ($299) →</a>`;
-w(p,`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+w(p,`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="google-site-verification" content="pu3lKZ8RQt08i8XTuMNe7BCjFbpPJ83HU2zqHoaVPhA"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${esc(title)}</title><meta name="description" content="${esc(desc)}"><link rel="canonical" href="${url}">
 <meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${url}"><meta property="og:type" content="website"><meta name="twitter:card" content="summary">
 <link rel="stylesheet" href="/style.css"><link rel="alternate" type="text/plain" href="/llms.txt" title="llms.txt">
