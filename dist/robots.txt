@@ -10,4 +10,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://mainstreetai-drab.vercel.app/sitemap.xml
+Sitemap: https://mainstreetai.tools/sitemap.xml
