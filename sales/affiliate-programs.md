@@ -1,5 +1,5 @@
 # Affiliate / referral programs for the 40 listed tools
-Researched Oct 15, 2026. Nothing signed up. Terms are from each vendor's own page or its network listing (PartnerStack, Impact, Rewardful, Tolt, Dub, Trackdesk) and can change; re-check before joining.
+Researched Oct 15, 2026. Several Tier-1 apps are in flight (see Live signup status below); others not started. Terms are from each vendor's own page or its network listing (PartnerStack, Impact, Rewardful, Tolt, Dub, Trackdesk) and can change; re-check before joining.
 
 **Tax/personal info:** every cash-paying program below needs payee details (name, address, bank/PayPal/Stripe/Wise) and, for US payees, a W-9 (SSN or EIN) before payout. Ryan has to do each signup himself. Using an EIN instead of an SSN is a good idea.
 
@@ -52,3 +52,14 @@ Workiz ($500 gift card, customers), FieldPulse ($100 + $500 gift cards, customer
 
 ## Recommendation
 Start with Jobber, Housecall Pro, My AI Front Desk, Upfirst, Rosie and Ruby. They match our top pages (receptionists + field-service) and are open to publishers. Then add Xero, QuickBooks and FreshBooks for the bookkeeping guides. Ryan has to do each signup himself (W-9/payout). Once a link is approved, put it in `affiliate_url` in data/tools.json and rebuild. The disclosure footer note shows up automatically.
+
+## Live signup status (box-updated 2026-10-15 ~08:00 ET from mainstreettools@gmail.com)
+Confirmed from unread welcome / application emails (do not treat OTPs as still valid):
+- Jobber (PartnerStack): application submitted, awaiting review
+- Housecall Pro (PartnerStack): application submitted, awaiting review
+- Rosie: affiliate account ready; dashboard https://affiliates.heyrosie.com/?group=default ; tools.json already has affiliate_url
+- Dub Partners: welcome received; still needs partner profile, network apply, then payouts (Ryan for bank/tax)
+- Lovable via Impact: account activity / updates digest present
+- Fiverr: account welcome for mainstreettools@gmail.com (ryangb94)
+Still empty affiliate_url in tools.json for Jobber, Housecall Pro, Upfirst (and others) until approval + link available.
+Tax/W-9 and payout setup still blocked on Ryan for any cash program.
