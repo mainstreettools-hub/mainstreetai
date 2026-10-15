@@ -96,5 +96,5 @@ Full text of every listing: https://mainstreetai.tools/llms-full.txt
 
 ## Optional
 
-- [Sponsor / advertise](https://mainstreetai.tools/sponsor): free founding listing for the first 10 vendors; Featured Spot founding rate $49 first month then $149/mo; Trade Guide sponsorship $79/mo founding (reg $199); Category sponsorship $149/mo founding (reg $349, 3-mo min); Category + Featured $199/mo founding (reg $449, 3-mo min); Fast-Track listing $49; newsletter banner opens at 500 subscribers. Founding ends Dec 31, 2026 or when each slot fills.
+- [Sponsor / advertise](https://mainstreetai.tools/sponsor): free founding listing for the first 10 vendors; Featured Spot $149/mo founding; Trade Guide sponsorship $79/mo founding (reg $199); Category sponsorship $149/mo founding (reg $349, 3-mo min); Category + Featured $199/mo founding (reg $449, 3-mo min); newsletter banner opens at 500 subscribers. Founding ends Dec 31, 2026 or when each slot fills.
 - [FixStack](https://getfixstack.com): fixes for common app errors
