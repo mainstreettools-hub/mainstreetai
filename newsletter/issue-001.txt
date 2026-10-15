@@ -1,0 +1,56 @@
+MAINSTREET AI BRIEF - ISSUE #1
+AI tools that actually help a local service business
+October 2026 - Prices checked against vendor sites
+
+Hey there,
+
+Thanks for signing up. I started MainStreetAI because most "best AI tools" lists are written for tech companies, not for the person running a plumbing outfit or a three-chair clinic. Every week I'll send one tool worth your time, a few quick picks, and one thing you can try before spending money.
+
+Short and useful. If it isn't, hit reply and tell me.
+
+---------------------------------------
+TOOL OF THE WEEK: JOBBER (Field Service & Scheduling)
+---------------------------------------
+Quoting, scheduling, dispatch, invoicing and getting paid, all in one app built for home-service crews. If you're still running jobs off a whiteboard and texts, this is the easiest place to start.
+
+Price: Core $29/mo billed annually ($49 month-to-month), Connect $99 ($139), Grow $149 ($199) for one user. Extra users $29/mo. Card fees 2.9% + 30c. (Checked on Jobber's site, Oct 2026.)
+Good: published pricing, easy for crews to learn, free trial.
+Watch for: add-ons like the AI receptionist cost extra. Setup takes about 1-3 days.
+
+Full listing: https://mainstreetai.tools/tools/jobber.html
+Jobber vs Housecall Pro: https://mainstreetai.tools/compare/jobber-vs-housecall-pro.html
+
+---------------------------------------
+3 QUICK PICKS
+---------------------------------------
+* Rosie (AI Phone Receptionist) - A cheap way to stop missing calls while you're on a job. From $49/mo for 250 minutes.
+  https://mainstreetai.tools/tools/rosie.html
+
+* Wave (AI Bookkeeping & Invoicing) - Free invoicing and books for solo operators who don't need much more. Starter $0; Pro $19/mo.
+  https://mainstreetai.tools/tools/wave.html
+
+* Tidio (Website Chat & Workflows) - Answers the same five website questions so you don't have to. Free plan; Lyro AI from $32.50/mo.
+  https://mainstreetai.tools/tools/tidio.html
+
+---------------------------------------
+TRY THIS BEFORE YOU BUY
+---------------------------------------
+Test an AI receptionist in 10 minutes. During the free trial, call it yourself from a different phone and play three real customers:
+
+1. Someone with an emergency ("water's coming through my ceiling"). Does it flag it as urgent or transfer you?
+2. Someone asking a price you don't quote over the phone. Does it make something up?
+3. Someone who wants Tuesday at 2. Does the booking actually land on your calendar?
+
+Then read the transcript or message it sent you. If you'd be embarrassed for a customer to hear any of it, keep looking.
+Compare AI receptionists: https://mainstreetai.tools/compare/ai-phone-receptionists-compared.html
+
+Browse all 40 tools at https://mainstreetai.tools. See you next week.
+
+Ryan Hovis
+Founder, MainStreetAI
+
+---
+Make an AI tool for local businesses? This spot is open. Sponsor the Brief: https://mainstreetai.tools/sponsor.html
+
+You're getting this because you signed up at mainstreetai.tools.
+Unsubscribe: {{{RESEND_UNSUBSCRIBE_URL}}}
