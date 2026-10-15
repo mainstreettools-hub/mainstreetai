@@ -82,4 +82,5 @@ Full text of every listing: https://mainstreetai.tools/llms-full.txt
 
 ## Optional
 
-- [Sponsor / advertise](https://mainstreetai.tools/sponsor)
+- [Sponsor / advertise](https://mainstreetai.tools/sponsor): free founding listing for the first 10 vendors; Featured Spot founding rate $49 first month then $149/mo (until Dec 31, 2026 or 10 spots); Fast-Track listing $49; newsletter banner opens at 500 subscribers.
+- [FixStack](https://getfixstack.com): fixes for common app errors

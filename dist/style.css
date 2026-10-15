@@ -56,3 +56,5 @@ th{background:#f6f4ee}
 .ft{margin-top:56px}
 .rk{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:16px}.rki{display:flex;gap:16px;align-items:flex-start;min-width:0}.rkb{flex:1;min-width:0;display:flex;flex-direction:column;gap:8px}.rkb h3{margin:0;font-size:21px}.rkb h3 a{color:#0f172a;text-decoration:none}.rn{flex:none;width:46px;height:46px;border-radius:12px;background:#0f172a;color:#fbbf24;font-weight:900;font-size:18px;display:flex;align-items:center;justify-content:center}.rkb .facts p,.faq .cc small{overflow-wrap:anywhere}
 @media(max-width:600px){.rki{flex-direction:column;gap:10px}}
+.tiers.t4{grid-template-columns:repeat(4,1fr)}.tier .tn{display:block;margin-top:8px;font-size:12.5px;line-height:1.45;color:#64748b}
+@media(max-width:1180px){.tiers.t4{grid-template-columns:1fr 1fr}}@media(max-width:640px){.tiers.t4{grid-template-columns:1fr}}
