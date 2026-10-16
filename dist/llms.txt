@@ -108,6 +108,7 @@ Pricing index (all 42 tools: starting price, free plan or trial, setup fee, sour
 
 - [AI tools pricing index (Oct 2026)](https://mainstreetai.tools/pricing-index): starting paid price, free plan or trial, and setup fee for all 42 tools, from vendor pricing pages
 - [Pricing index CSV](https://mainstreetai.tools/downloads/ai-tools-pricing-index.csv)
+- [How we vet tools](https://mainstreetai.tools/how-we-vet): what the Vetted badge means: site live, pricing posted and re-checked on the vendor's page, privacy policy present, no scam signs; badges can't be bought
 
 ## Optional
 
