@@ -1,6 +1,6 @@
 # MainStreetAI
 
-> A directory of 41 vetted AI tools for local service and small businesses (contractors, plumbers, HVAC, clinics, law offices, realtors, solo operators). Each listing gives published pricing (checked Oct 2026), setup effort, best-fit trades, pros and cons.
+> A directory of 42 vetted AI tools for local service and small businesses (contractors, plumbers, HVAC, clinics, law offices, realtors, solo operators). Each listing gives published pricing (checked Oct 2026), setup effort, best-fit trades, pros and cons.
 
 Full text of every listing: https://mainstreetai.tools/llms-full.txt
 
@@ -18,6 +18,7 @@ Full text of every listing: https://mainstreetai.tools/llms-full.txt
 - [Quo (formerly OpenPhone)](https://mainstreetai.tools/tools/quo-formerly-openphone): Business phone system with an AI agent that answers when your team can't.
 - [Abby Connect](https://mainstreetai.tools/tools/abby-connect): Human receptionist team with AI tools, assigned to your business for a personal feel.
 - [ServiceAgent](https://mainstreetai.tools/tools/serviceagent): AI front office for home-service shops: answers calls, books jobs, invoices and runs CRM workflows on a credit-based plan.
+- [OnCrew](https://mainstreetai.tools/tools/oncrew): AI receptionist built for HVAC, plumbing and electrical shops: answers 24/7, triages emergencies and emails job summaries with transcripts.
 
 ## Field Service & Scheduling
 

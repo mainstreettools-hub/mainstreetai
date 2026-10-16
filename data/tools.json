@@ -269,6 +269,33 @@
     ]
   },
   {
+    "slug": "oncrew",
+    "category": "phone-receptionists",
+    "name": "OnCrew",
+    "url": "https://oncrew.ai",
+    "summary": "AI receptionist built for HVAC, plumbing and electrical shops: answers 24/7, triages emergencies and emails job summaries with transcripts.",
+    "pricing": "Starter $49/mo for 100 calls ($0.99/call after). Pro $149/mo for 400 calls. Multi-Truck $349/mo for 1,000 calls. 14-day free trial (no card). Annual billing takes two months off on request.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 2026",
+    "setup_effort": "easy",
+    "setup_time": "10 minutes",
+    "best_trades": [
+      "HVAC",
+      "Plumbers",
+      "Electricians",
+      "Roofers"
+    ],
+    "pros": [
+      "Published per-call pricing aimed at contractors",
+      "14-day free trial with no credit card",
+      "Emergency triage and on-call alerts"
+    ],
+    "cons": [
+      "Overage at $0.99/call adds up in a storm month on a low plan",
+      "Calendar booking needs a connected workflow; otherwise you get emailed requests"
+    ]
+  },
+  {
     "slug": "jobber",
     "category": "field-service-scheduling",
     "name": "Jobber",

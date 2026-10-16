@@ -1,6 +1,6 @@
 # MainStreetAI
 Directory of tools that help local service shops book more jobs — phone, scheduling, books and chat.
-- Data: `data/tools.json` (41 listings) · Config (base URL, Stripe links, featured partners): `config.js`
+- Data: `data/tools.json` (42 listings) · Config (base URL, Stripe links, featured partners): `config.js`
 - Build: `node build.js` → `dist/` · Preview: `node serve.js 8080`
 - Newsletter: `api/subscribe.js` (Vercel function; set RESEND_API_KEY, RESEND_AUDIENCE_ID)
 - Deploy: Vercel reads `vercel.json` (build `node build.js`, output `dist`).

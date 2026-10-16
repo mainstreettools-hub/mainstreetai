@@ -123,6 +123,17 @@ Best for: HVAC, Plumbers, Electricians, Roofers
 Pros: Free Launch tier to start; Built for home-service trades; Calls, CRM, booking and invoicing in one
 Cons: Credits also fund SMS and ads, so voice minutes are a ceiling; Payment and ad fees stack on top of the plan
 
+## OnCrew
+Category: 24/7 Phone Receptionists
+URL: https://oncrew.ai
+Page: https://mainstreetai.tools/tools/oncrew
+Summary: AI receptionist built for HVAC, plumbing and electrical shops: answers 24/7, triages emergencies and emails job summaries with transcripts.
+Pricing: Starter $49/mo for 100 calls ($0.99/call after). Pro $149/mo for 400 calls. Multi-Truck $349/mo for 1,000 calls. 14-day free trial (no card). Annual billing takes two months off on request.
+Setup: easy, 10 minutes
+Best for: HVAC, Plumbers, Electricians, Roofers
+Pros: Published per-call pricing aimed at contractors; 14-day free trial with no credit card; Emergency triage and on-call alerts
+Cons: Overage at $0.99/call adds up in a storm month on a low plan; Calendar booking needs a connected workflow; otherwise you get emailed requests
+
 ## Jobber
 Category: Field Service & Scheduling
 URL: https://www.getjobber.com
