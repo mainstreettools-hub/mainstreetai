@@ -4,6 +4,8 @@
 
 Full text of every listing: https://mainstreetai.tools/llms-full.txt
 
+Pricing index (all 42 tools: starting price, free plan or trial, setup fee, source link; updated Oct 2026): https://mainstreetai.tools/pricing-index — CSV: https://mainstreetai.tools/downloads/ai-tools-pricing-index.csv
+
 ## 24/7 Phone Receptionists
 
 - [24/7 Phone Receptionists overview](https://mainstreetai.tools/category/phone-receptionists): Answer every call, day or night. Take the job details and book it — so you are not chasing voicemails in the morning.
@@ -101,6 +103,11 @@ Full text of every listing: https://mainstreetai.tools/llms-full.txt
 - [Best Tools for Commercial Kitchen Hood Cleaning (2026)](https://mainstreetai.tools/guides/best-tools-for-hood-cleaning): Scheduling, call answering and invoicing for hood-cleaning and kitchen exhaust crews.
 - [Best Tools for Med Spas & Aesthetic Clinics (2026)](https://mainstreetai.tools/guides/best-tools-for-med-spas): Front-desk coverage, online booking and patient messaging for med spas. Confirm healthcare terms with each vendor.
 - [Best Tools for Tree Service Companies (2026)](https://mainstreetai.tools/guides/best-tools-for-tree-service): Call answering, job scheduling and invoicing for tree removal and trimming crews.
+
+## Pricing
+
+- [AI tools pricing index (Oct 2026)](https://mainstreetai.tools/pricing-index): starting paid price, free plan or trial, and setup fee for all 42 tools, from vendor pricing pages
+- [Pricing index CSV](https://mainstreetai.tools/downloads/ai-tools-pricing-index.csv)
 
 ## Optional
 

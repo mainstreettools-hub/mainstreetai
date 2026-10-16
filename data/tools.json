@@ -7,7 +7,7 @@
     "summary": "An AI receptionist answers, qualifies and books your calls 24/7, with the option of live human receptionists behind it.",
     "pricing": "Free: 25 calls/mo ($3/call after). Pro from $150/mo for 75 calls. Enterprise from $500/mo.",
     "pricing_verified": true,
-    "pricing_checked": "Oct 2026",
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "easy",
     "setup_time": "1–2 hours",
     "best_trades": [
@@ -22,7 +22,13 @@
     ],
     "cons": [
       "Per-call pricing adds up on busy lines"
-    ]
+    ],
+    "index": {
+      "start": "$150/mo (Pro AI receptionist, 75 calls)",
+      "free": "Yes: free plan, 25 calls/mo",
+      "setup": "Not published",
+      "source": "https://smith.ai/pricing/ai-receptionist"
+    }
   },
   {
     "slug": "ruby",
@@ -32,7 +38,7 @@
     "summary": "Trained human virtual receptionists (with AI assist) answer your calls live, so every caller hears a real person.",
     "pricing": "From $250/mo for 50 minutes.",
     "pricing_verified": true,
-    "pricing_checked": "Oct 2026",
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "easy",
     "setup_time": "1 day",
     "best_trades": [
@@ -47,7 +53,13 @@
     "cons": [
       "Much pricier than pure AI",
       "Minute-based billing"
-    ]
+    ],
+    "index": {
+      "start": "$250/mo (50 minutes)",
+      "free": "No free plan listed",
+      "setup": "Not published",
+      "source": "https://www.ruby.com/pricing"
+    }
   },
   {
     "slug": "dialzara",
@@ -57,7 +69,7 @@
     "summary": "AI receptionist that answers calls, takes messages, transfers urgent calls and books appointments.",
     "pricing": "From $29/mo (60 minutes); higher tiers from $99/mo. 7-day free trial.",
     "pricing_verified": true,
-    "pricing_checked": "Oct 2026",
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "easy",
     "setup_time": "15–30 minutes",
     "best_trades": [
@@ -71,7 +83,13 @@
     ],
     "cons": [
       "Low minute cap on entry plan"
-    ]
+    ],
+    "index": {
+      "start": "$29/mo (60 minutes)",
+      "free": "7-day free trial",
+      "setup": "Not published",
+      "source": "https://dialzara.com/pricing"
+    }
   },
   {
     "slug": "my-ai-front-desk",
@@ -81,7 +99,7 @@
     "summary": "AI receptionist bundled with web chat, two-way texting and a simple CRM.",
     "pricing": "Business-in-a-Box $99/mo ($79/mo billed annually) incl. 200 voice minutes; overage about $0.25/min.",
     "pricing_verified": true,
-    "pricing_checked": "Oct 2026",
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "easy",
     "setup_time": "30–60 minutes",
     "best_trades": [
@@ -96,7 +114,13 @@
     ],
     "cons": [
       "Busy shops need custom plan"
-    ]
+    ],
+    "index": {
+      "start": "$99/mo ($79/mo billed annually)",
+      "free": "No free plan listed",
+      "setup": "Not published",
+      "source": "https://www.myaifrontdesk.com/pricing"
+    }
   },
   {
     "slug": "rosie",
@@ -104,9 +128,9 @@
     "name": "Rosie",
     "url": "https://heyrosie.com",
     "summary": "Low-cost AI answering service for home-service and local businesses that captures leads and texts you summaries.",
-    "pricing": "From $49/mo for 250 minutes; next tier $149/mo for 1,000 minutes.",
+    "pricing": "Professional $49/mo (250 minutes); Scale $149/mo (1,000 minutes); Growth $299/mo (2,000 minutes). 7-day free trial; annual billing gives 2 months free.",
     "pricing_verified": true,
-    "pricing_checked": "Oct 2026",
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "easy",
     "setup_time": "10–20 minutes",
     "best_trades": [
@@ -121,7 +145,13 @@
     "cons": [
       "Jumps to next plan rather than overage"
     ],
-    "affiliate_url": "https://heyrosie.com/?ref=ryannu"
+    "affiliate_url": "https://heyrosie.com/?ref=ryannu",
+    "index": {
+      "start": "$49/mo (250 minutes)",
+      "free": "7-day free trial",
+      "setup": "Not published",
+      "source": "https://heyrosie.com/pricing"
+    }
   },
   {
     "slug": "goodcall",
@@ -129,9 +159,9 @@
     "name": "Goodcall",
     "url": "https://www.goodcall.com",
     "summary": "AI phone agent with unlimited minutes, priced by how many unique callers you get.",
-    "pricing": "Starter $79/mo per agent ($66 billed annually): unlimited minutes, 100 unique callers, then $0.50 per extra caller.",
+    "pricing": "Starter $79/mo, Growth $129/mo, Scale $299/mo. You can start free with a demo agent before adding a number.",
     "pricing_verified": true,
-    "pricing_checked": "Oct 2026",
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "easy",
     "setup_time": "30 minutes",
     "best_trades": [
@@ -145,7 +175,13 @@
     ],
     "cons": [
       "Costs rise with many new callers"
-    ]
+    ],
+    "index": {
+      "start": "$79/mo",
+      "free": "Free demo agent before you add a number",
+      "setup": "Not published",
+      "source": "https://www.goodcall.com/pricing"
+    }
   },
   {
     "slug": "upfirst",
@@ -153,9 +189,9 @@
     "name": "Upfirst",
     "url": "https://upfirst.ai",
     "summary": "Simple AI answering service for small businesses that answers, screens and takes messages.",
-    "pricing": "Starter $24.95/mo for 30 calls ($1.50 per extra call); Premium $59.95 (90 calls); Pro $159.95 (300 calls). 20% off annually; 14-day trial.",
+    "pricing": "Starter $24.95/mo for 30 calls ($1.50 per extra call); Premium $59.95 (90 calls); Pro $159.95 (300 calls); Scale $299 (600 calls). 20% off annually; free trial.",
     "pricing_verified": true,
-    "pricing_checked": "Oct 2026",
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "easy",
     "setup_time": "15 minutes",
     "best_trades": [
@@ -168,7 +204,13 @@
     "cons": [
       "Small call allowance"
     ],
-    "affiliate_url": ""
+    "affiliate_url": "",
+    "index": {
+      "start": "$24.95/mo (30 calls)",
+      "free": "Free trial",
+      "setup": "Not published",
+      "source": "https://upfirst.ai/pricing"
+    }
   },
   {
     "slug": "nextphone",
@@ -176,9 +218,9 @@
     "name": "NextPhone",
     "url": "https://www.getnextphone.com",
     "summary": "AI receptionist with unlimited calls aimed at service businesses that never want to miss a job.",
-    "pricing": "From $199/mo with unlimited calls (third-party report, Sep 2026).",
-    "pricing_verified": false,
-    "pricing_checked": "Oct 2026",
+    "pricing": "Pro $199/mo, Growth $299/mo (they set it up for you), Scale $599/mo. Unlimited calls, no per-minute overage.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "easy",
     "setup_time": "1 hour",
     "best_trades": [
@@ -192,7 +234,13 @@
     ],
     "cons": [
       "Higher entry price"
-    ]
+    ],
+    "index": {
+      "start": "$199/mo",
+      "free": "No free plan listed",
+      "setup": "Not published",
+      "source": "https://www.getnextphone.com/pricing"
+    }
   },
   {
     "slug": "quo-formerly-openphone",
@@ -200,9 +248,9 @@
     "name": "Quo (formerly OpenPhone)",
     "url": "https://www.quo.com",
     "summary": "Business phone system with an AI agent that answers when your team can't.",
-    "pricing": "From $15/user/mo billed annually, with limited AI call credits (third-party report, Sep 2026).",
-    "pricing_verified": false,
-    "pricing_checked": "Oct 2026",
+    "pricing": "Starter $15/user/mo billed annually ($19 monthly); Business $23 ($33); Scale $35 ($47). AI call credits included on every plan, more sold in tiers.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "easy",
     "setup_time": "30 minutes",
     "best_trades": [
@@ -216,7 +264,13 @@
     ],
     "cons": [
       "AI calls billed via credits"
-    ]
+    ],
+    "index": {
+      "start": "$15/user/mo billed annually ($19 monthly)",
+      "free": "Free trial",
+      "setup": "Not published",
+      "source": "https://www.quo.com/pricing"
+    }
   },
   {
     "slug": "abby-connect",
@@ -224,9 +278,9 @@
     "name": "Abby Connect",
     "url": "https://www.abby.com",
     "summary": "Human receptionist team with AI tools, assigned to your business for a personal feel.",
-    "pricing": "From $165/mo for 50 minutes (third-party report, Sep 2026).",
-    "pricing_verified": false,
-    "pricing_checked": "Oct 2026",
+    "pricing": "Starter $165/mo for 50 minutes; Essential $329 (100 min); Professional $599 (200 min); Growth $1,380 (500 min). Free trial.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "easy",
     "setup_time": "1–2 days",
     "best_trades": [
@@ -239,7 +293,13 @@
     ],
     "cons": [
       "Minute-based, costly at volume"
-    ]
+    ],
+    "index": {
+      "start": "$165/mo (50 minutes)",
+      "free": "Free trial",
+      "setup": "Not published",
+      "source": "https://www.abby.com/pricing"
+    }
   },
   {
     "slug": "serviceagent",
@@ -249,7 +309,7 @@
     "summary": "AI front office for home-service shops: answers calls, books jobs, invoices and runs CRM workflows on a credit-based plan.",
     "pricing": "Launch free (pay-as-you-go AI). Core $49/mo for 2,000 credits (~$39/mo yearly). Growth $119/mo (6,000). Franchise $349/mo (20,000). AI voice uses 15 credits/min (~133 voice min on Core if credits go only to calls).",
     "pricing_verified": true,
-    "pricing_checked": "Oct 2026",
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "easy",
     "setup_time": "minutes to claim a number; full CRM setup 1–2 days",
     "best_trades": [
@@ -266,7 +326,13 @@
     "cons": [
       "Credits also fund SMS and ads, so voice minutes are a ceiling",
       "Payment and ad fees stack on top of the plan"
-    ]
+    ],
+    "index": {
+      "start": "$49/mo Core ($39/mo yearly)",
+      "free": "Yes: Launch plan $0 (pay as you go)",
+      "setup": "Not published",
+      "source": "https://serviceagent.ai/pricing"
+    }
   },
   {
     "slug": "oncrew",
@@ -276,7 +342,7 @@
     "summary": "AI receptionist built for HVAC, plumbing and electrical shops: answers 24/7, triages emergencies and emails job summaries with transcripts.",
     "pricing": "Starter $49/mo for 100 calls ($0.99/call after). Pro $149/mo for 400 calls. Multi-Truck $349/mo for 1,000 calls. 14-day free trial (no card). Annual billing takes two months off on request.",
     "pricing_verified": true,
-    "pricing_checked": "Oct 2026",
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "easy",
     "setup_time": "10 minutes",
     "best_trades": [
@@ -293,7 +359,13 @@
     "cons": [
       "Overage at $0.99/call adds up in a storm month on a low plan",
       "Calendar booking needs a connected workflow; otherwise you get emailed requests"
-    ]
+    ],
+    "index": {
+      "start": "$49/mo (100 calls)",
+      "free": "14-day free trial, no card",
+      "setup": "Not published",
+      "source": "https://oncrew.ai/pricing"
+    }
   },
   {
     "slug": "jobber",
@@ -303,7 +375,7 @@
     "summary": "All-in-one app for quoting, scheduling, dispatching, invoicing and getting paid for home-service jobs.",
     "pricing": "Core $29/mo billed annually ($49 monthly), Connect $99 ($139), Grow $149 ($199) for 1 user; extra users $29/mo; card fees 2.9% + 30¢.",
     "pricing_verified": true,
-    "pricing_checked": "Oct 2026",
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "medium",
     "setup_time": "1–3 days",
     "best_trades": [
@@ -320,7 +392,13 @@
     "cons": [
       "Add-ons (e.g. AI receptionist) cost extra"
     ],
-    "affiliate_url": ""
+    "affiliate_url": "",
+    "index": {
+      "start": "$29/mo billed annually ($49 monthly), 1 user",
+      "free": "Free trial",
+      "setup": "Not published",
+      "source": "https://www.getjobber.com/pricing"
+    }
   },
   {
     "slug": "housecall-pro",
@@ -330,7 +408,7 @@
     "summary": "Scheduling, dispatch, invoicing and marketing for home-service pros, with built-in AI tools.",
     "pricing": "Basic $59/mo annually ($79 monthly, 1 user); Essentials $149 ($189, 5 users); MAX from $299 ($329, 8 users).",
     "pricing_verified": true,
-    "pricing_checked": "Oct 2026",
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "medium",
     "setup_time": "2–5 days",
     "best_trades": [
@@ -345,7 +423,13 @@
     "cons": [
       "Price increases in 2026"
     ],
-    "affiliate_url": ""
+    "affiliate_url": "",
+    "index": {
+      "start": "$59/mo billed annually ($79 monthly), 1 user",
+      "free": "14-day free trial",
+      "setup": "Not published",
+      "source": "https://www.housecallpro.com/pricing"
+    }
   },
   {
     "slug": "servicetitan",
@@ -354,8 +438,8 @@
     "url": "https://www.servicetitan.com",
     "summary": "Enterprise-grade platform for larger trades shops: dispatch, pricebooks, memberships, reporting.",
     "pricing": "Contact for pricing (quote per technician).",
-    "pricing_verified": false,
-    "pricing_checked": "Oct 2026",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "hard",
     "setup_time": "4–12 weeks",
     "best_trades": [
@@ -369,7 +453,13 @@
     ],
     "cons": [
       "Expensive, long onboarding"
-    ]
+    ],
+    "index": {
+      "start": "Not published (quote per technician)",
+      "free": "No",
+      "setup": "Not published",
+      "source": "https://www.servicetitan.com/pricing"
+    }
   },
   {
     "slug": "workiz",
@@ -378,8 +468,8 @@
     "url": "https://www.workiz.com",
     "summary": "Field service software with built-in phone, AI answering and payments for small trade teams.",
     "pricing": "Contact for pricing (Standard/Pro/Ultimate all 'Request pricing'; 5 users included).",
-    "pricing_verified": false,
-    "pricing_checked": "Oct 2026",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "medium",
     "setup_time": "1–2 weeks",
     "best_trades": [
@@ -393,7 +483,13 @@
     ],
     "cons": [
       "No public pricing"
-    ]
+    ],
+    "index": {
+      "start": "Not published (request pricing)",
+      "free": "Free trial",
+      "setup": "Not published",
+      "source": "https://www.workiz.com/pricing"
+    }
   },
   {
     "slug": "fieldpulse",
@@ -402,8 +498,8 @@
     "url": "https://www.fieldpulse.com",
     "summary": "Scheduling, estimates, invoicing and job tracking for growing trade contractors.",
     "pricing": "Contact for pricing.",
-    "pricing_verified": false,
-    "pricing_checked": "Oct 2026",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "medium",
     "setup_time": "1–2 weeks",
     "best_trades": [
@@ -417,7 +513,13 @@
     ],
     "cons": [
       "No public pricing"
-    ]
+    ],
+    "index": {
+      "start": "Not published (custom quote, seat-based)",
+      "free": "No free plan listed",
+      "setup": "Not published",
+      "source": "https://www.fieldpulse.com/pricing"
+    }
   },
   {
     "slug": "service-fusion",
@@ -425,9 +527,9 @@
     "name": "Service Fusion",
     "url": "https://www.servicefusion.com",
     "summary": "Field service management with unlimited users, aimed at growing contractors.",
-    "pricing": "Contact for pricing (not verified Oct 2026).",
-    "pricing_verified": false,
-    "pricing_checked": "Oct 2026",
+    "pricing": "Starter $208/mo billed annually ($245 monthly); Plus $325 ($382); Pro $533 ($627). Unlimited users on every plan.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "medium",
     "setup_time": "1–3 weeks",
     "best_trades": [
@@ -440,7 +542,13 @@
     ],
     "cons": [
       "Dated interface for some"
-    ]
+    ],
+    "index": {
+      "start": "$208/mo billed annually ($245 monthly)",
+      "free": "No free plan listed (free demo)",
+      "setup": "Not published",
+      "source": "https://www.servicefusion.com/pricing"
+    }
   },
   {
     "slug": "fieldedge",
@@ -449,8 +557,8 @@
     "url": "https://fieldedge.com",
     "summary": "Dispatch and service management for HVAC, plumbing and electrical, with QuickBooks sync.",
     "pricing": "Contact for pricing (demo-led).",
-    "pricing_verified": false,
-    "pricing_checked": "Oct 2026",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "hard",
     "setup_time": "2–6 weeks",
     "best_trades": [
@@ -464,7 +572,13 @@
     ],
     "cons": [
       "Demo required to price"
-    ]
+    ],
+    "index": {
+      "start": "Not published (demo-led quote)",
+      "free": "No",
+      "setup": "Not published",
+      "source": "https://fieldedge.com/pricing"
+    }
   },
   {
     "slug": "servicem8",
@@ -472,9 +586,9 @@
     "name": "ServiceM8",
     "url": "https://www.servicem8.com",
     "summary": "iPhone-first job management app for small trade teams: quotes, scheduling, invoices.",
-    "pricing": "Free tier and job-based paid plans; vendor page not verified Oct 2026 — confirm on site.",
-    "pricing_verified": false,
-    "pricing_checked": "Oct 2026",
+    "pricing": "Free $0 (1 user, 30 jobs/mo); Starter $29/mo (50 jobs); Growing $79 (150 jobs); Premium $149 (500 jobs); Premium Plus $349 (1,500+ jobs). Unlimited users on paid plans. 14-day free trial.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "easy",
     "setup_time": "1 day",
     "best_trades": [
@@ -488,7 +602,13 @@
     ],
     "cons": [
       "Best on Apple devices"
-    ]
+    ],
+    "index": {
+      "start": "$29/mo (50 jobs)",
+      "free": "Yes: free plan (1 user, 30 jobs/mo); 14-day trial",
+      "setup": "Not published",
+      "source": "https://www.servicem8.com/pricing"
+    }
   },
   {
     "slug": "kickserv",
@@ -496,9 +616,9 @@
     "name": "Kickserv",
     "url": "https://www.kickserv.com",
     "summary": "Affordable job scheduling, estimates and invoicing for small service companies.",
-    "pricing": "Tiered monthly plans; vendor page not verified Oct 2026 — confirm on site.",
-    "pricing_verified": false,
-    "pricing_checked": "Oct 2026",
+    "pricing": "Start $60/mo (5 users); Run $119 (10 users); Scale $199 (20 users). 20% off with annual billing; 30-day free trial.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "easy",
     "setup_time": "1–2 days",
     "best_trades": [
@@ -512,7 +632,13 @@
     ],
     "cons": [
       "Fewer integrations"
-    ]
+    ],
+    "index": {
+      "start": "$60/mo (5 users)",
+      "free": "30-day free trial",
+      "setup": "Not published",
+      "source": "https://www.kickserv.com/pricing"
+    }
   },
   {
     "slug": "square-appointments",
@@ -520,9 +646,9 @@
     "name": "Square Appointments",
     "url": "https://squareup.com/us/en/appointments",
     "summary": "Online booking, reminders and payments for appointment-based businesses.",
-    "pricing": "Free plan for individuals; paid plans per location; vendor page not verified Oct 2026 — confirm on site.",
-    "pricing_verified": false,
-    "pricing_checked": "Oct 2026",
+    "pricing": "Free $0/mo per location; Plus $49/mo per location; Premium $149/mo per location. Card processing fees extra.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "easy",
     "setup_time": "1–2 hours",
     "best_trades": [
@@ -536,7 +662,13 @@
     ],
     "cons": [
       "Not built for dispatching crews"
-    ]
+    ],
+    "index": {
+      "start": "$49/mo per location (Plus)",
+      "free": "Yes: free plan",
+      "setup": "Not published",
+      "source": "https://squareup.com/us/en/appointments/pricing"
+    }
   },
   {
     "slug": "quickbooks-online",
@@ -544,9 +676,9 @@
     "name": "QuickBooks Online",
     "url": "https://quickbooks.intuit.com",
     "summary": "The most common small-business accounting software, with AI-assisted categorizing, invoicing and payroll add-ons.",
-    "pricing": "Simple Start $38/mo, Essentials $85, Plus $140, Advanced $340 (list prices; renewals rose Aug 2026 on higher tiers).",
+    "pricing": "Free plan $0 (1 user, 2 invoices/mo); Simple Start $38/mo, Essentials $85, Plus $140, Advanced $340 (list prices; intro discounts often offered). 30-day trial.",
     "pricing_verified": true,
-    "pricing_checked": "Oct 2026",
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "medium",
     "setup_time": "1–3 days",
     "best_trades": [
@@ -561,7 +693,13 @@
     "cons": [
       "Price increases",
       "User caps per tier"
-    ]
+    ],
+    "index": {
+      "start": "$38/mo (Simple Start)",
+      "free": "Yes: free plan (1 user, 2 invoices/mo); 30-day trial",
+      "setup": "Not published",
+      "source": "https://quickbooks.intuit.com/pricing/"
+    }
   },
   {
     "slug": "xero",
@@ -571,7 +709,7 @@
     "summary": "Cloud accounting with unlimited users, automatic bank reconciliation and invoicing.",
     "pricing": "Early $27/mo, Growing $59, Established $97 (US, from Oct 1 2026); intro discounts often offered.",
     "pricing_verified": true,
-    "pricing_checked": "Oct 2026",
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "medium",
     "setup_time": "1–2 days",
     "best_trades": [
@@ -585,7 +723,13 @@
     ],
     "cons": [
       "Early plan limits invoices to 20/mo"
-    ]
+    ],
+    "index": {
+      "start": "$27/mo (Early)",
+      "free": "Free trial",
+      "setup": "Not published",
+      "source": "https://www.xero.com/us/pricing-plans/"
+    }
   },
   {
     "slug": "freshbooks",
@@ -595,7 +739,7 @@
     "summary": "Invoicing-first accounting for service businesses that bill clients for time and projects.",
     "pricing": "Lite $23/mo (5 clients), Plus $43 (50 clients), Premium $70 (unlimited); team members $11/mo each.",
     "pricing_verified": true,
-    "pricing_checked": "Oct 2026",
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "easy",
     "setup_time": "2–4 hours",
     "best_trades": [
@@ -609,7 +753,13 @@
     ],
     "cons": [
       "Client caps on lower plans"
-    ]
+    ],
+    "index": {
+      "start": "$23/mo (Lite, 5 clients)",
+      "free": "Free trial",
+      "setup": "Not published",
+      "source": "https://www.freshbooks.com/pricing"
+    }
   },
   {
     "slug": "wave",
@@ -619,7 +769,7 @@
     "summary": "Free accounting and invoicing for very small businesses, with a low-cost Pro tier.",
     "pricing": "Starter $0; Pro $19/mo (or $190/yr). Payment processing fees extra.",
     "pricing_verified": true,
-    "pricing_checked": "Oct 2026",
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "easy",
     "setup_time": "1–2 hours",
     "best_trades": [
@@ -633,7 +783,13 @@
     ],
     "cons": [
       "Limited support on free plan"
-    ]
+    ],
+    "index": {
+      "start": "$19/mo (Pro) or $190/yr",
+      "free": "Yes: Starter plan $0",
+      "setup": "Not published",
+      "source": "https://www.waveapps.com/pricing"
+    }
   },
   {
     "slug": "zoho-books",
@@ -643,7 +799,7 @@
     "summary": "Full accounting with a free plan for small businesses and strong automation.",
     "pricing": "Free under $50K revenue; Standard $20/mo ($15/mo annually, 3 users); higher tiers available.",
     "pricing_verified": true,
-    "pricing_checked": "Oct 2026",
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "medium",
     "setup_time": "1–2 days",
     "best_trades": [
@@ -657,7 +813,13 @@
     ],
     "cons": [
       "Many tiers to choose from"
-    ]
+    ],
+    "index": {
+      "start": "$20/mo ($15/mo billed annually)",
+      "free": "Yes: free under $50K revenue",
+      "setup": "Not published",
+      "source": "https://www.zoho.com/us/books/pricing/"
+    }
   },
   {
     "slug": "digits",
@@ -665,9 +827,9 @@
     "name": "Digits",
     "url": "https://digits.com",
     "summary": "AI-native bookkeeping that auto-categorizes transactions and keeps books up to date.",
-    "pricing": "Contact / see site for pricing (vendor page not verified Oct 2026 — confirm on site).",
-    "pricing_verified": false,
-    "pricing_checked": "Oct 2026",
+    "pricing": "Essentials $65/mo, Core $100/mo, Pro $250/mo. 30-day free trial.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "easy",
     "setup_time": "1–2 hours",
     "best_trades": [
@@ -680,7 +842,13 @@
     ],
     "cons": [
       "Newer, smaller accountant network"
-    ]
+    ],
+    "index": {
+      "start": "$65/mo (Essentials)",
+      "free": "30-day free trial",
+      "setup": "Not published",
+      "source": "https://digits.com/pricing"
+    }
   },
   {
     "slug": "booke-ai",
@@ -688,9 +856,9 @@
     "name": "Booke AI",
     "url": "https://booke.ai",
     "summary": "AI assistant that cleans up and reconciles books inside QuickBooks or Xero.",
-    "pricing": "See site for pricing (vendor page not verified Oct 2026 — confirm on site).",
-    "pricing_verified": false,
-    "pricing_checked": "Oct 2026",
+    "pricing": "AI Bookkeeper $129 per business/mo; works inside QuickBooks and Xero. Accounting firm pricing on request.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "medium",
     "setup_time": "Half day",
     "best_trades": [
@@ -702,7 +870,13 @@
     ],
     "cons": [
       "Add-on, needs QBO or Xero"
-    ]
+    ],
+    "index": {
+      "start": "$129/mo per business",
+      "free": "No free plan listed",
+      "setup": "Not published",
+      "source": "https://booke.ai/pricing"
+    }
   },
   {
     "slug": "docyt",
@@ -710,9 +884,9 @@
     "name": "Docyt",
     "url": "https://docyt.com",
     "summary": "AI bookkeeping automation for multi-location businesses, with receipt capture and reconciliation.",
-    "pricing": "Contact for pricing.",
-    "pricing_verified": false,
-    "pricing_checked": "Oct 2026",
+    "pricing": "Accounting Suite from $299 per property/mo with unlimited users; catch-up accounting $200 per month caught up.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "medium",
     "setup_time": "1–2 weeks",
     "best_trades": [
@@ -724,7 +898,13 @@
     ],
     "cons": [
       "Overkill for solo shops"
-    ]
+    ],
+    "index": {
+      "start": "$299/mo per property",
+      "free": "No free plan listed",
+      "setup": "Not published",
+      "source": "https://docyt.com/pricing"
+    }
   },
   {
     "slug": "puzzle",
@@ -732,9 +912,9 @@
     "name": "Puzzle",
     "url": "https://puzzle.io",
     "summary": "AI accounting software that automates categorization and monthly close.",
-    "pricing": "Free and paid tiers (vendor page not verified Oct 2026 — confirm on site).",
-    "pricing_verified": false,
-    "pricing_checked": "Oct 2026",
+    "pricing": "Starter $30/mo, Core $72, Complete $120, Scale $360; 20% off yearly. Free trial. Optional migration $149.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "easy",
     "setup_time": "1–2 hours",
     "best_trades": [
@@ -746,7 +926,13 @@
     ],
     "cons": [
       "Fewer trade-specific features"
-    ]
+    ],
+    "index": {
+      "start": "$30/mo (Starter)",
+      "free": "Free trial",
+      "setup": "Optional migration $149",
+      "source": "https://puzzle.io/pricing"
+    }
   },
   {
     "slug": "invoice-simple",
@@ -754,9 +940,9 @@
     "name": "Invoice Simple",
     "url": "https://www.invoicesimple.com",
     "summary": "Phone-friendly app to send estimates and invoices and get paid fast.",
-    "pricing": "Paid plans after trial (vendor page not verified Oct 2026 — confirm on site).",
-    "pricing_verified": false,
-    "pricing_checked": "Oct 2026",
+    "pricing": "$6.99/mo (3 invoices/mo), $14.99/mo (10 invoices), $21.99/mo (unlimited). Annual: $69.99, $149.99, $219.99 a year.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "easy",
     "setup_time": "15 minutes",
     "best_trades": [
@@ -769,7 +955,13 @@
     ],
     "cons": [
       "Not full accounting"
-    ]
+    ],
+    "index": {
+      "start": "$6.99/mo (3 invoices/mo)",
+      "free": "Free trial",
+      "setup": "Not published",
+      "source": "https://www.invoicesimple.com/pricing"
+    }
   },
   {
     "slug": "tidio",
@@ -779,7 +971,7 @@
     "summary": "Live chat plus Lyro AI agent that answers common customer questions on your website.",
     "pricing": "Free plan (50 conversations); Starter $24.17/mo billed annually (100 conversations); Growth from $49.17; Lyro AI from $32.50/mo.",
     "pricing_verified": true,
-    "pricing_checked": "Oct 2026",
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "easy",
     "setup_time": "30–60 minutes",
     "best_trades": [
@@ -793,7 +985,13 @@
     ],
     "cons": [
       "AI quota sold separately"
-    ]
+    ],
+    "index": {
+      "start": "$24.17/mo billed annually (Starter)",
+      "free": "Yes: free plan; 7-day trial",
+      "setup": "Not published",
+      "source": "https://www.tidio.com/pricing"
+    }
   },
   {
     "slug": "intercom-fin-ai-agent",
@@ -803,7 +1001,7 @@
     "summary": "Support platform whose Fin AI agent resolves customer questions automatically.",
     "pricing": "Essential $29/seat/mo, Advanced $85, Expert $132, plus $0.99 per Fin outcome (min. ~50 outcomes for standalone). 14-day trial.",
     "pricing_verified": true,
-    "pricing_checked": "Oct 2026",
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "medium",
     "setup_time": "1–3 days",
     "best_trades": [
@@ -816,7 +1014,13 @@
     ],
     "cons": [
       "Costs can climb with volume"
-    ]
+    ],
+    "index": {
+      "start": "$29/seat/mo + $0.99 per Fin outcome",
+      "free": "14-day free trial",
+      "setup": "Not published",
+      "source": "https://www.intercom.com/pricing"
+    }
   },
   {
     "slug": "chatbase",
@@ -824,9 +1028,9 @@
     "name": "Chatbase",
     "url": "https://www.chatbase.co",
     "summary": "Train a chatbot on your website and documents in minutes and embed it on your site.",
-    "pricing": "Hobby $40/mo ($32 annually); Standard $150/mo ($120 annually); free tier available.",
+    "pricing": "Hobby $40/mo ($32 annually); Standard $150/mo ($120 annually); Pro $500/mo ($400 annually).",
     "pricing_verified": true,
-    "pricing_checked": "Oct 2026",
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "easy",
     "setup_time": "30 minutes",
     "best_trades": [
@@ -840,7 +1044,13 @@
     ],
     "cons": [
       "Credit-based billing can confuse"
-    ]
+    ],
+    "index": {
+      "start": "$40/mo ($32 billed yearly)",
+      "free": "Not published",
+      "setup": "Not published",
+      "source": "https://www.chatbase.co/pricing"
+    }
   },
   {
     "slug": "botpress",
@@ -848,9 +1058,9 @@
     "name": "Botpress",
     "url": "https://botpress.com",
     "summary": "Build custom AI chat agents with workflows and integrations; more flexible, more technical.",
-    "pricing": "Free tier; Plus from $150/mo billed annually (third-party report Oct 2026).",
-    "pricing_verified": false,
-    "pricing_checked": "Oct 2026",
+    "pricing": "Free plan (100 conversations/mo); Plus $150/mo billed annually (250 conversations); Team $750/mo billed annually (1,500 conversations).",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "hard",
     "setup_time": "1–2 weeks",
     "best_trades": [
@@ -862,7 +1072,13 @@
     ],
     "cons": [
       "Steeper learning curve"
-    ]
+    ],
+    "index": {
+      "start": "$150/mo billed annually (Plus)",
+      "free": "Yes: free plan, 100 conversations/mo",
+      "setup": "Not published",
+      "source": "https://botpress.com/pricing"
+    }
   },
   {
     "slug": "podium",
@@ -871,8 +1087,8 @@
     "url": "https://www.podium.com",
     "summary": "Text-based customer messaging, reviews and payments with an AI employee for local businesses.",
     "pricing": "Contact for pricing.",
-    "pricing_verified": false,
-    "pricing_checked": "Oct 2026",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "medium",
     "setup_time": "1 week",
     "best_trades": [
@@ -885,7 +1101,13 @@
     ],
     "cons": [
       "Contract-based, no public pricing"
-    ]
+    ],
+    "index": {
+      "start": "Not published (talk to sales)",
+      "free": "No free plan listed",
+      "setup": "Not published",
+      "source": "https://www.podium.com/pricing"
+    }
   },
   {
     "slug": "birdeye",
@@ -894,8 +1116,8 @@
     "url": "https://birdeye.com",
     "summary": "Reputation and messaging platform: reviews, web chat and AI replies across locations.",
     "pricing": "Contact for pricing.",
-    "pricing_verified": false,
-    "pricing_checked": "Oct 2026",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "medium",
     "setup_time": "1–2 weeks",
     "best_trades": [
@@ -907,7 +1129,13 @@
     ],
     "cons": [
       "Pricey for solo shops"
-    ]
+    ],
+    "index": {
+      "start": "Not published (priced by location count)",
+      "free": "No free plan listed",
+      "setup": "Not published",
+      "source": "https://birdeye.com/pricing/"
+    }
   },
   {
     "slug": "hubspot-free-crm-chat",
@@ -915,9 +1143,9 @@
     "name": "HubSpot (free CRM + chat)",
     "url": "https://www.hubspot.com",
     "summary": "Free CRM with website chat, forms and AI assistant; upgrade for automation.",
-    "pricing": "Free CRM tools; paid Starter tiers (vendor page not verified Oct 2026 — confirm on site).",
-    "pricing_verified": false,
-    "pricing_checked": "Oct 2026",
+    "pricing": "Free CRM tools; Starter $20/seat/mo (new-customer discounts sometimes offered).",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "medium",
     "setup_time": "1–2 days",
     "best_trades": [
@@ -930,7 +1158,13 @@
     ],
     "cons": [
       "Gets expensive at higher tiers"
-    ]
+    ],
+    "index": {
+      "start": "$20/seat/mo (Starter)",
+      "free": "Yes: free CRM tools",
+      "setup": "Not published",
+      "source": "https://www.hubspot.com/products/crm/starter"
+    }
   },
   {
     "slug": "zapier",
@@ -938,9 +1172,9 @@
     "name": "Zapier",
     "url": "https://zapier.com",
     "summary": "Connects your apps so leads, bookings and invoices flow automatically, with AI steps and agents.",
-    "pricing": "Free plan; paid plans by task volume (vendor page not verified Oct 2026 — confirm on site).",
-    "pricing_verified": false,
-    "pricing_checked": "Oct 2026",
+    "pricing": "Free plan $0; Professional from $19.99/mo; Team from $69/mo (price rises with task volume).",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "medium",
     "setup_time": "1–4 hours per workflow",
     "best_trades": [
@@ -952,7 +1186,13 @@
     ],
     "cons": [
       "Task-based costs grow"
-    ]
+    ],
+    "index": {
+      "start": "$19.99/mo (Professional)",
+      "free": "Yes: free plan",
+      "setup": "Not published",
+      "source": "https://zapier.com/pricing"
+    }
   },
   {
     "slug": "make",
@@ -960,9 +1200,9 @@
     "name": "Make",
     "url": "https://www.make.com",
     "summary": "Visual automation builder for multi-step workflows between your business tools.",
-    "pricing": "Free plan; paid plans by operations (vendor page not verified Oct 2026 — confirm on site).",
+    "pricing": "Free plan (1,000 credits/mo); paid plans billed by credits. We could not read current paid prices on make.com — check there.",
     "pricing_verified": false,
-    "pricing_checked": "Oct 2026",
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "medium",
     "setup_time": "2–6 hours per workflow",
     "best_trades": [
@@ -974,7 +1214,13 @@
     ],
     "cons": [
       "Visual builder takes learning"
-    ]
+    ],
+    "index": {
+      "start": "Not published",
+      "free": "Yes: free plan, 1,000 credits/mo",
+      "setup": "Not published",
+      "source": "https://www.make.com/en/pricing"
+    }
   },
   {
     "slug": "crisp",
@@ -982,9 +1228,9 @@
     "name": "Crisp",
     "url": "https://crisp.chat",
     "summary": "Shared inbox with website chat, AI answers and a knowledge base.",
-    "pricing": "Free plan; paid workspace plans (vendor page not verified Oct 2026 — confirm on site).",
-    "pricing_verified": false,
-    "pricing_checked": "Oct 2026",
+    "pricing": "Free $0; Mini $45/mo per workspace (4 seats); Essentials $95 (10 seats); Plus $295 (20+ seats). Free trial on paid plans.",
+    "pricing_verified": true,
+    "pricing_checked": "Oct 16, 2026",
     "setup_effort": "easy",
     "setup_time": "1 hour",
     "best_trades": [
@@ -996,6 +1242,12 @@
     ],
     "cons": [
       "AI features on higher plans"
-    ]
+    ],
+    "index": {
+      "start": "$45/mo per workspace (Mini)",
+      "free": "Yes: free plan; trial on paid plans",
+      "setup": "Not published",
+      "source": "https://crisp.chat/pricing"
+    }
   }
 ]

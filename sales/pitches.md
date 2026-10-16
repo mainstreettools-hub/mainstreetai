@@ -404,3 +404,16 @@ Mumijo, MainStreetAI, https://mainstreetai.tools
 Hi {first name}, I'll stop here. (Listed vendors: your free listing stays up either way.) If you'd ever like Featured placement, a Newsletter Banner in the MainStreet AI Brief, or a listing update, just reply here or email mainstreettools@gmail.com. Thanks!
 Mumijo
 ```
+
+## Ad-library batch — Oct 15, 2026 ~12:50pm ET
+Sent from mainstreettools@gmail.com (standing send permission). Opt-out in each. No traffic claims. AccuLynx skipped (support@ only).
+
+| Company | To | Subject | Status |
+|---|---|---|---|
+| Jobber | partnerships@getjobber.com | Founding category sponsor for field service on MainStreetAI? | Sent |
+| ServiceTitan | stpartnerships@servicetitan.com | MainStreetAI category sponsorship for home-service software buyers | Sent |
+| Workiz | info@workiz.com | Workiz + MainStreetAI category sponsorship (founding $149) | Sent |
+| Smith.ai | partners@smith.ai | Category sponsor for AI phone receptionist on MainStreetAI? | Auto-review approval interrupted — resend if still needed |
+| AccuLynx | — | — | Skipped (support@ only) |
+
+Prospect list: sales/ad-library-prospects.md

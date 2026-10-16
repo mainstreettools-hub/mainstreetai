@@ -51,7 +51,7 @@ Category: 24/7 Phone Receptionists
 URL: https://heyrosie.com
 Page: https://mainstreetai.tools/tools/rosie
 Summary: Low-cost AI answering service for home-service and local businesses that captures leads and texts you summaries.
-Pricing: From $49/mo for 250 minutes; next tier $149/mo for 1,000 minutes.
+Pricing: Professional $49/mo (250 minutes); Scale $149/mo (1,000 minutes); Growth $299/mo (2,000 minutes). 7-day free trial; annual billing gives 2 months free.
 Setup: easy, 10–20 minutes
 Best for: Contractors, Landscapers, Solo operators
 Pros: Generous minutes for price; Built for home services
@@ -62,7 +62,7 @@ Category: 24/7 Phone Receptionists
 URL: https://www.goodcall.com
 Page: https://mainstreetai.tools/tools/goodcall
 Summary: AI phone agent with unlimited minutes, priced by how many unique callers you get.
-Pricing: Starter $79/mo per agent ($66 billed annually): unlimited minutes, 100 unique callers, then $0.50 per extra caller.
+Pricing: Starter $79/mo, Growth $129/mo, Scale $299/mo. You can start free with a demo agent before adding a number.
 Setup: easy, 30 minutes
 Best for: Restaurants, Auto shops, Repeat-customer businesses
 Pros: Unlimited minutes; Good for long calls
@@ -73,7 +73,7 @@ Category: 24/7 Phone Receptionists
 URL: https://upfirst.ai
 Page: https://mainstreetai.tools/tools/upfirst
 Summary: Simple AI answering service for small businesses that answers, screens and takes messages.
-Pricing: Starter $24.95/mo for 30 calls ($1.50 per extra call); Premium $59.95 (90 calls); Pro $159.95 (300 calls). 20% off annually; 14-day trial.
+Pricing: Starter $24.95/mo for 30 calls ($1.50 per extra call); Premium $59.95 (90 calls); Pro $159.95 (300 calls); Scale $299 (600 calls). 20% off annually; free trial.
 Setup: easy, 15 minutes
 Best for: Solo operators, Handymen
 Pros: Cheap to start
@@ -84,7 +84,7 @@ Category: 24/7 Phone Receptionists
 URL: https://www.getnextphone.com
 Page: https://mainstreetai.tools/tools/nextphone
 Summary: AI receptionist with unlimited calls aimed at service businesses that never want to miss a job.
-Pricing: From $199/mo with unlimited calls (third-party report, Sep 2026). (not verified on vendor page)
+Pricing: Pro $199/mo, Growth $299/mo (they set it up for you), Scale $599/mo. Unlimited calls, no per-minute overage.
 Setup: easy, 1 hour
 Best for: HVAC, Roofers, Plumbers
 Pros: Unlimited calls; Predictable bill
@@ -95,7 +95,7 @@ Category: 24/7 Phone Receptionists
 URL: https://www.quo.com
 Page: https://mainstreetai.tools/tools/quo-formerly-openphone
 Summary: Business phone system with an AI agent that answers when your team can't.
-Pricing: From $15/user/mo billed annually, with limited AI call credits (third-party report, Sep 2026). (not verified on vendor page)
+Pricing: Starter $15/user/mo billed annually ($19 monthly); Business $23 ($33); Scale $35 ($47). AI call credits included on every plan, more sold in tiers.
 Setup: easy, 30 minutes
 Best for: Realtors, Small teams, Solo operators
 Pros: Full business phone line; Shared team inbox
@@ -106,7 +106,7 @@ Category: 24/7 Phone Receptionists
 URL: https://www.abby.com
 Page: https://mainstreetai.tools/tools/abby-connect
 Summary: Human receptionist team with AI tools, assigned to your business for a personal feel.
-Pricing: From $165/mo for 50 minutes (third-party report, Sep 2026). (not verified on vendor page)
+Pricing: Starter $165/mo for 50 minutes; Essential $329 (100 min); Professional $599 (200 min); Growth $1,380 (500 min). Free trial.
 Setup: easy, 1–2 days
 Best for: Law offices, Clinics, Financial advisors
 Pros: Dedicated human team
@@ -161,7 +161,7 @@ Category: Field Service & Scheduling
 URL: https://www.servicetitan.com
 Page: https://mainstreetai.tools/tools/servicetitan
 Summary: Enterprise-grade platform for larger trades shops: dispatch, pricebooks, memberships, reporting.
-Pricing: Contact for pricing (quote per technician). (not verified on vendor page)
+Pricing: Contact for pricing (quote per technician).
 Setup: hard, 4–12 weeks
 Best for: HVAC, Plumbing, Electrical (10+ techs)
 Pros: Very deep features; Great reporting
@@ -172,7 +172,7 @@ Category: Field Service & Scheduling
 URL: https://www.workiz.com
 Page: https://mainstreetai.tools/tools/workiz
 Summary: Field service software with built-in phone, AI answering and payments for small trade teams.
-Pricing: Contact for pricing (Standard/Pro/Ultimate all 'Request pricing'; 5 users included). (not verified on vendor page)
+Pricing: Contact for pricing (Standard/Pro/Ultimate all 'Request pricing'; 5 users included).
 Setup: medium, 1–2 weeks
 Best for: Locksmiths, Garage door, Appliance repair
 Pros: Built-in phone system; AI answering add-on
@@ -183,7 +183,7 @@ Category: Field Service & Scheduling
 URL: https://www.fieldpulse.com
 Page: https://mainstreetai.tools/tools/fieldpulse
 Summary: Scheduling, estimates, invoicing and job tracking for growing trade contractors.
-Pricing: Contact for pricing. (not verified on vendor page)
+Pricing: Contact for pricing.
 Setup: medium, 1–2 weeks
 Best for: Electricians, HVAC, Plumbers
 Pros: Flexible forms; Good support
@@ -194,7 +194,7 @@ Category: Field Service & Scheduling
 URL: https://www.servicefusion.com
 Page: https://mainstreetai.tools/tools/service-fusion
 Summary: Field service management with unlimited users, aimed at growing contractors.
-Pricing: Contact for pricing (not verified Oct 2026). (not verified on vendor page)
+Pricing: Starter $208/mo billed annually ($245 monthly); Plus $325 ($382); Pro $533 ($627). Unlimited users on every plan.
 Setup: medium, 1–3 weeks
 Best for: HVAC, Plumbing, Pest control
 Pros: Unlimited users on plans
@@ -205,7 +205,7 @@ Category: Field Service & Scheduling
 URL: https://fieldedge.com
 Page: https://mainstreetai.tools/tools/fieldedge
 Summary: Dispatch and service management for HVAC, plumbing and electrical, with QuickBooks sync.
-Pricing: Contact for pricing (demo-led). (not verified on vendor page)
+Pricing: Contact for pricing (demo-led).
 Setup: hard, 2–6 weeks
 Best for: HVAC, Plumbers, Electricians
 Pros: Deep QuickBooks sync; Service agreements
@@ -216,7 +216,7 @@ Category: Field Service & Scheduling
 URL: https://www.servicem8.com
 Page: https://mainstreetai.tools/tools/servicem8
 Summary: iPhone-first job management app for small trade teams: quotes, scheduling, invoices.
-Pricing: Free tier and job-based paid plans; vendor page not verified Oct 2026 — confirm on site. (not verified on vendor page)
+Pricing: Free $0 (1 user, 30 jobs/mo); Starter $29/mo (50 jobs); Growing $79 (150 jobs); Premium $149 (500 jobs); Premium Plus $349 (1,500+ jobs). Unlimited users on paid plans. 14-day free trial.
 Setup: easy, 1 day
 Best for: Electricians, Handymen, Solo operators
 Pros: Great iPhone app; Pay by job volume
@@ -227,7 +227,7 @@ Category: Field Service & Scheduling
 URL: https://www.kickserv.com
 Page: https://mainstreetai.tools/tools/kickserv
 Summary: Affordable job scheduling, estimates and invoicing for small service companies.
-Pricing: Tiered monthly plans; vendor page not verified Oct 2026 — confirm on site. (not verified on vendor page)
+Pricing: Start $60/mo (5 users); Run $119 (10 users); Scale $199 (20 users). 20% off with annual billing; 30-day free trial.
 Setup: easy, 1–2 days
 Best for: Carpet cleaners, Pest control, Small crews
 Pros: Affordable; Simple
@@ -238,7 +238,7 @@ Category: Field Service & Scheduling
 URL: https://squareup.com/us/en/appointments
 Page: https://mainstreetai.tools/tools/square-appointments
 Summary: Online booking, reminders and payments for appointment-based businesses.
-Pricing: Free plan for individuals; paid plans per location; vendor page not verified Oct 2026 — confirm on site. (not verified on vendor page)
+Pricing: Free $0/mo per location; Plus $49/mo per location; Premium $149/mo per location. Card processing fees extra.
 Setup: easy, 1–2 hours
 Best for: Clinics, Salons, Solo practitioners
 Pros: Free to start; Built-in payments
@@ -249,7 +249,7 @@ Category: Bookkeeping & Invoicing
 URL: https://quickbooks.intuit.com
 Page: https://mainstreetai.tools/tools/quickbooks-online
 Summary: The most common small-business accounting software, with AI-assisted categorizing, invoicing and payroll add-ons.
-Pricing: Simple Start $38/mo, Essentials $85, Plus $140, Advanced $340 (list prices; renewals rose Aug 2026 on higher tiers).
+Pricing: Free plan $0 (1 user, 2 invoices/mo); Simple Start $38/mo, Essentials $85, Plus $140, Advanced $340 (list prices; intro discounts often offered). 30-day trial.
 Setup: medium, 1–3 days
 Best for: Contractors, Law offices, Most small businesses
 Pros: Every accountant knows it; Huge app ecosystem
@@ -304,7 +304,7 @@ Category: Bookkeeping & Invoicing
 URL: https://digits.com
 Page: https://mainstreetai.tools/tools/digits
 Summary: AI-native bookkeeping that auto-categorizes transactions and keeps books up to date.
-Pricing: Contact / see site for pricing (vendor page not verified Oct 2026 — confirm on site). (not verified on vendor page)
+Pricing: Essentials $65/mo, Core $100/mo, Pro $250/mo. 30-day free trial.
 Setup: easy, 1–2 hours
 Best for: Startups, Solo operators
 Pros: Highly automated; Real-time dashboards
@@ -315,7 +315,7 @@ Category: Bookkeeping & Invoicing
 URL: https://booke.ai
 Page: https://mainstreetai.tools/tools/booke-ai
 Summary: AI assistant that cleans up and reconciles books inside QuickBooks or Xero.
-Pricing: See site for pricing (vendor page not verified Oct 2026 — confirm on site). (not verified on vendor page)
+Pricing: AI Bookkeeper $129 per business/mo; works inside QuickBooks and Xero. Accounting firm pricing on request.
 Setup: medium, Half day
 Best for: Bookkeepers, Firms with QBO/Xero
 Pros: Speeds reconciliation
@@ -326,7 +326,7 @@ Category: Bookkeeping & Invoicing
 URL: https://docyt.com
 Page: https://mainstreetai.tools/tools/docyt
 Summary: AI bookkeeping automation for multi-location businesses, with receipt capture and reconciliation.
-Pricing: Contact for pricing. (not verified on vendor page)
+Pricing: Accounting Suite from $299 per property/mo with unlimited users; catch-up accounting $200 per month caught up.
 Setup: medium, 1–2 weeks
 Best for: Multi-location clinics, Franchises
 Pros: Multi-entity support
@@ -337,7 +337,7 @@ Category: Bookkeeping & Invoicing
 URL: https://puzzle.io
 Page: https://mainstreetai.tools/tools/puzzle
 Summary: AI accounting software that automates categorization and monthly close.
-Pricing: Free and paid tiers (vendor page not verified Oct 2026 — confirm on site). (not verified on vendor page)
+Pricing: Starter $30/mo, Core $72, Complete $120, Scale $360; 20% off yearly. Free trial. Optional migration $149.
 Setup: easy, 1–2 hours
 Best for: Solo operators, Small teams
 Pros: Modern, automated
@@ -348,7 +348,7 @@ Category: Bookkeeping & Invoicing
 URL: https://www.invoicesimple.com
 Page: https://mainstreetai.tools/tools/invoice-simple
 Summary: Phone-friendly app to send estimates and invoices and get paid fast.
-Pricing: Paid plans after trial (vendor page not verified Oct 2026 — confirm on site). (not verified on vendor page)
+Pricing: $6.99/mo (3 invoices/mo), $14.99/mo (10 invoices), $21.99/mo (unlimited). Annual: $69.99, $149.99, $219.99 a year.
 Setup: easy, 15 minutes
 Best for: Handymen, Cleaners, Solo operators
 Pros: Fast invoices from phone
@@ -381,7 +381,7 @@ Category: Website Chat & Workflows
 URL: https://www.chatbase.co
 Page: https://mainstreetai.tools/tools/chatbase
 Summary: Train a chatbot on your website and documents in minutes and embed it on your site.
-Pricing: Hobby $40/mo ($32 annually); Standard $150/mo ($120 annually); free tier available.
+Pricing: Hobby $40/mo ($32 annually); Standard $150/mo ($120 annually); Pro $500/mo ($400 annually).
 Setup: easy, 30 minutes
 Best for: Law offices, Clinics, Realtors
 Pros: Very fast setup; Trains on your own content
@@ -392,7 +392,7 @@ Category: Website Chat & Workflows
 URL: https://botpress.com
 Page: https://mainstreetai.tools/tools/botpress
 Summary: Build custom AI chat agents with workflows and integrations; more flexible, more technical.
-Pricing: Free tier; Plus from $150/mo billed annually (third-party report Oct 2026). (not verified on vendor page)
+Pricing: Free plan (100 conversations/mo); Plus $150/mo billed annually (250 conversations); Team $750/mo billed annually (1,500 conversations).
 Setup: hard, 1–2 weeks
 Best for: Agencies, Tech-savvy owners
 Pros: Very customizable
@@ -403,7 +403,7 @@ Category: Website Chat & Workflows
 URL: https://www.podium.com
 Page: https://mainstreetai.tools/tools/podium
 Summary: Text-based customer messaging, reviews and payments with an AI employee for local businesses.
-Pricing: Contact for pricing. (not verified on vendor page)
+Pricing: Contact for pricing.
 Setup: medium, 1 week
 Best for: HVAC, Auto shops, Dental and med clinics
 Pros: Reviews + texting in one
@@ -414,7 +414,7 @@ Category: Website Chat & Workflows
 URL: https://birdeye.com
 Page: https://mainstreetai.tools/tools/birdeye
 Summary: Reputation and messaging platform: reviews, web chat and AI replies across locations.
-Pricing: Contact for pricing. (not verified on vendor page)
+Pricing: Contact for pricing.
 Setup: medium, 1–2 weeks
 Best for: Multi-location clinics, Home services
 Pros: Strong reviews tools
@@ -425,7 +425,7 @@ Category: Website Chat & Workflows
 URL: https://www.hubspot.com
 Page: https://mainstreetai.tools/tools/hubspot-free-crm-chat
 Summary: Free CRM with website chat, forms and AI assistant; upgrade for automation.
-Pricing: Free CRM tools; paid Starter tiers (vendor page not verified Oct 2026 — confirm on site). (not verified on vendor page)
+Pricing: Free CRM tools; Starter $20/seat/mo (new-customer discounts sometimes offered).
 Setup: medium, 1–2 days
 Best for: Realtors, Law offices, Agencies
 Pros: Generous free plan
@@ -436,7 +436,7 @@ Category: Website Chat & Workflows
 URL: https://zapier.com
 Page: https://mainstreetai.tools/tools/zapier
 Summary: Connects your apps so leads, bookings and invoices flow automatically, with AI steps and agents.
-Pricing: Free plan; paid plans by task volume (vendor page not verified Oct 2026 — confirm on site). (not verified on vendor page)
+Pricing: Free plan $0; Professional from $19.99/mo; Team from $69/mo (price rises with task volume).
 Setup: medium, 1–4 hours per workflow
 Best for: Any business, Solo operators
 Pros: Connects 7,000+ apps
@@ -447,7 +447,7 @@ Category: Website Chat & Workflows
 URL: https://www.make.com
 Page: https://mainstreetai.tools/tools/make
 Summary: Visual automation builder for multi-step workflows between your business tools.
-Pricing: Free plan; paid plans by operations (vendor page not verified Oct 2026 — confirm on site). (not verified on vendor page)
+Pricing: Free plan (1,000 credits/mo); paid plans billed by credits. We could not read current paid prices on make.com — check there. (not verified on vendor page)
 Setup: medium, 2–6 hours per workflow
 Best for: Tech-savvy owners, Agencies
 Pros: Cheaper at volume than Zapier
@@ -458,7 +458,7 @@ Category: Website Chat & Workflows
 URL: https://crisp.chat
 Page: https://mainstreetai.tools/tools/crisp
 Summary: Shared inbox with website chat, AI answers and a knowledge base.
-Pricing: Free plan; paid workspace plans (vendor page not verified Oct 2026 — confirm on site). (not verified on vendor page)
+Pricing: Free $0; Mini $45/mo per workspace (4 seats); Essentials $95 (10 seats); Plus $295 (20+ seats). Free trial on paid plans.
 Setup: easy, 1 hour
 Best for: Small teams, Solo operators
 Pros: Flat per-workspace pricing
