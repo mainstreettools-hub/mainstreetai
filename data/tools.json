@@ -398,6 +398,13 @@
       "free": "Free trial",
       "setup": "Not published",
       "source": "https://www.getjobber.com/pricing"
+    },
+    "promo": {
+      "starts": "2026-10-19",
+      "ends": "2026-10-30",
+      "label": "Jobber's offer, ends Oct 30",
+      "long": "Sign up through our link and get 30% off your first year on an annual plan, or 40% off your first 3 months if you pay monthly on an annual contract. No code needed. Can't be combined with other offers; terms on Jobber's site.",
+      "short": "30% off the first year on an annual plan, or 40% off the first 3 months paid monthly on an annual contract. Terms on Jobber's site."
     }
   },
   {
