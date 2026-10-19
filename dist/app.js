@@ -7,3 +7,4 @@ fetch('/api/subscribe',{method:'POST',headers:{'Content-Type':'application/json'
 var quiz=document.getElementById('leak-quiz');
 if(quiz){var out=document.getElementById('leak-score');function score(){var boxes=quiz.querySelectorAll('input[type=checkbox]');var total=boxes.length,bad=0;boxes.forEach(function(b){if(!b.checked)bad++});if(!out)return;var tip=bad<=3?'Solid — keep an eye on follow-up speed.':bad<=8?'Fix phone and follow-up this week before you buy more ads.':'Leaky bucket — fix tap-to-call, offer, and missed-call reply first.';out.textContent='Unchecked: '+bad+' of '+total+'. '+tip;}quiz.addEventListener('change',score);score();}
 })();
+(function(){var n=Date.now();document.querySelectorAll('[data-promo-end]').forEach(function(e){var t=Date.parse(e.getAttribute('data-promo-end'));if(t&&n>t)e.remove()})})();

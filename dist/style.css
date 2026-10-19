@@ -78,3 +78,7 @@ th{background:#f6f4ee}
 .leak-quiz .tc h3{color:#0b1730}
 .tablewrap.pi{background:#fffaf0}.tablewrap.pi th{background:#fdf0d5;color:#7c4a03}.tablewrap.pi tr:nth-child(even) td{background:#fff5e4}.tablewrap.pi td:first-child a{color:#9a3412}
 .vb{display:inline-block;margin:6px 0 4px;padding:3px 10px;border-radius:999px;background:#fdf0d5;color:#7c4a03;border:1px solid #f3d29b;font-size:12px;font-weight:700;text-decoration:none}.vb:hover{background:#fbe3b4}
+.promo{background:#ecfdf5;border:1px solid #6ee7b7;border-radius:12px;padding:12px 16px;margin-top:16px;overflow-wrap:anywhere;line-height:1.5}
+.promo .btn-tl{display:inline-block;margin-top:8px}
+.promo-line{background:#ecfdf5;border:1px solid #6ee7b7;border-radius:10px;padding:8px 12px;margin:10px 0;font-size:14px;overflow-wrap:anywhere}
+.promo-line a{font-weight:700}
