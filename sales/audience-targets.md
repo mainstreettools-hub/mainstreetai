@@ -1,4 +1,9 @@
-# Audience targets (research only, nothing submitted or emailed)
+# Audience targets
+
+## Status (updated Oct 23, 2026)
+- Prepared, awaiting Grok Bot approval (see sales/directory-submissions-oct23.md): A1 Best of AI, A2 Future Tools, A4 Rundown Supertools, B1 Contracting Business.
+- Not started: A3, A5, A10, A11, A14; A9 waits for Nov 5; badge/backlink ones A6, A7, A8, A12, A13 need Ryan's OK; B2-B10.
+
 Researched Oct 14, 2026. Terms change often, so check each submit page before using it. One caveat: MainStreetAI is a directory, not a tool, so some directories may decline it. Pitch it as "a resource for small businesses comparing AI tools."
 
 ## A. Free AI tool directories (14)
