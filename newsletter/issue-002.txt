@@ -1,0 +1,58 @@
+MAINSTREET AI BRIEF - ISSUE #2
+Get your cell number off the side of the truck
+October 2026 - Prices checked against vendor sites
+
+Hey there,
+
+A lot of small shops still run the whole business off the owner's personal cell. It works until you hire someone, go on vacation, or miss a call in the middle of a job and never find out who it was.
+
+This week's pick fixes that without a big phone bill. Plus three tools you can start on a free plan, and one thing to write down before you let any AI talk to your customers.
+
+---------------------------------------
+TOOL OF THE WEEK: QUO (FORMERLY OPENPHONE) (Business Phone & AI Answering)
+---------------------------------------
+A business phone line that runs on the phone you already carry, with a shared inbox so your team sees every call and text, and an AI agent that picks up when nobody can. Good for solo operators and small teams who want one number customers can always reach.
+
+Price: Starter $15/user/mo billed annually ($19 month-to-month), Business $23 ($33), Scale $35 ($47). AI call credits included on every plan, with more sold in tiers. (Checked on Quo's site, Oct 2026.)
+Good: a full business phone line, a shared team inbox, free trial. Setup takes about 30 minutes.
+Watch for: AI calls are billed through credits, so check how many your plan includes before you lean on the AI agent.
+
+Full listing: https://mainstreetai.tools/tools/quo-formerly-openphone.html
+Compare AI receptionists: https://mainstreetai.tools/compare/ai-phone-receptionists-compared.html
+
+---------------------------------------
+3 QUICK PICKS YOU CAN START FREE
+---------------------------------------
+* ServiceM8 (Field Service & Scheduling) - Quotes, scheduling and invoices from an iPhone, priced by how many jobs you run. Best on Apple devices. Free for 1 user and 30 jobs/mo; Starter $29/mo for 50 jobs.
+  https://mainstreetai.tools/tools/servicem8.html
+
+* Zoho Books (AI Bookkeeping & Invoicing) - Full accounting with solid automation, and free if you're under $50K in revenue. Free under $50K revenue; Standard $20/mo ($15/mo billed annually, 3 users).
+  https://mainstreetai.tools/tools/zoho-books.html
+
+* Crisp (Website Chat & Workflows) - Website chat and a shared inbox at a flat price per workspace, not per person. AI answers are on the higher plans. Free $0; Mini $45/mo per workspace (4 seats); Essentials $95 (10 seats).
+  https://mainstreetai.tools/tools/crisp.html
+
+---------------------------------------
+DO THIS FIRST
+---------------------------------------
+Write your answer sheet before you set up any AI. A phone agent or chat bot can only repeat what you give it. Spend 15 minutes on one page that covers:
+
+1. Your hours and the towns or zip codes you serve.
+2. What you charge for a service call or estimate, or the exact words to use if you don't quote over the phone.
+3. What counts as an emergency, and who gets called when one comes in.
+4. How someone books, and what you need from them (address, photos, best callback time).
+
+Paste it into whatever tool you try. If a question isn't on the sheet, the AI shouldn't be guessing at it.
+Check if your website is leaking jobs: https://mainstreetai.tools/leaking-jobs.html
+
+Browse all 42 tools at https://mainstreetai.tools. Got a tool you want me to look at? Hit reply. See you next week.
+
+Ryan Hovis
+Founder, MainStreetAI
+
+---
+Make an AI tool for local businesses? This spot is open. Sponsor the Brief: https://mainstreetai.tools/sponsor.html
+
+You're getting this because you signed up at mainstreetai.tools.
+MainStreetAI · 1545 Monument Avenue, Gastonia NC 28052
+Unsubscribe: {{{RESEND_UNSUBSCRIBE_URL}}}

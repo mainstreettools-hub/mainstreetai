@@ -1,0 +1,59 @@
+MAINSTREET AI BRIEF - ISSUE #3
+Let customers book without calling you
+October 2026 - Prices checked against vendor sites
+
+Hey there,
+
+Plenty of customers would rather book online than leave a voicemail and wait for a callback. If the only way to get on your schedule is to reach you by phone, some of them just book with whoever lets them pick a time.
+
+This week's pick gives you a booking page for $0. Plus three more tools you can start on a free plan, and five settings to get right before you share your booking link.
+
+---------------------------------------
+TOOL OF THE WEEK: SQUARE APPOINTMENTS (Online Booking & Payments)
+---------------------------------------
+Online booking, reminders and payments for appointment-based businesses. Customers pick a time from your booking page, get reminders before they show up, and can pay through Square. Good for clinics, salons and solo practitioners who spend too much time trading texts to set up a time.
+
+Price: Free $0/mo per location; Plus $49/mo per location; Premium $149/mo per location. Card processing fees extra. (Checked on Square's site, Oct 2026.)
+Good: free to start, payments built in. Setup takes about 1-2 hours.
+Watch for: it isn't built for dispatching crews. If you send trucks to job sites, a field-service app fits better.
+
+Full listing: https://mainstreetai.tools/tools/square-appointments
+Run a clinic? See the tools we'd look at first: https://mainstreetai.tools/compare/best-ai-tools-for-clinics
+
+---------------------------------------
+3 QUICK PICKS YOU CAN START FREE
+---------------------------------------
+* HubSpot (free CRM + chat) (Website Chat & Workflows) - A free CRM with website chat, forms and an AI assistant, so every lead lands in one place instead of five inboxes. Free CRM tools; Starter $20/seat/mo when you want automation.
+  https://mainstreetai.tools/tools/hubspot-free-crm-chat
+
+* Zapier (Website Chat & Workflows) - Connects your apps so a new booking or web form can create the customer, the job and the invoice without retyping. Free plan $0; Professional from $19.99/mo; Team from $69/mo. Price rises with task volume.
+  https://mainstreetai.tools/tools/zapier
+
+* QuickBooks Online (AI Bookkeeping & Invoicing) - The accounting software almost every accountant already knows, now with AI-assisted categorizing. Free plan $0 (1 user, 2 invoices/mo); Simple Start $38/mo list price. 30-day trial.
+  https://mainstreetai.tools/tools/quickbooks-online
+
+---------------------------------------
+DO THIS FIRST
+---------------------------------------
+Set these five things before you share a booking link. Online booking only saves time if the calendar matches how you really work. Before you send anyone the link:
+
+1. Block your real hours, including lunch and the time you need to drive between stops.
+2. Set how long each service actually takes, not how long you wish it took.
+3. Decide how far ahead people can book, and how late they can cancel.
+4. Turn on reminders so no-shows get a nudge the day before.
+5. Book a fake appointment yourself from your phone to see what a customer sees.
+
+Then put the link on your website, your Google Business Profile and your voicemail greeting.
+Check if your website is leaking jobs: https://mainstreetai.tools/leaking-jobs
+
+Browse all 42 tools at https://mainstreetai.tools. Got a tool you want me to look at? Hit reply. See you next week.
+
+Ryan Hovis
+Founder, MainStreetAI
+
+---
+Make an AI tool for local businesses? This spot is open. Sponsor the Brief: https://mainstreetai.tools/sponsor
+
+You're getting this because you signed up at mainstreetai.tools.
+MainStreetAI · 1545 Monument Avenue, Gastonia NC 28052
+Unsubscribe: {{{RESEND_UNSUBSCRIBE_URL}}}
