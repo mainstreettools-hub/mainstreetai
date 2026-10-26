@@ -1,4 +1,4 @@
-# Directory submissions and trade pitches, batch 1 (prepared Oct 23, 2026; NOT sent)
+# Directory submissions and trade pitches, batch 1 (prepared Oct 23, 2026; partially sent Oct 24, 2026)
 
 All go out only after Grok Bot approves. Submit-page URLs checked live (HTTP 200) on Oct 23.
 
@@ -49,3 +49,9 @@ Ryan Hovis, Founder, MainStreetAI
 mainstreettools@gmail.com | https://mainstreetai.tools
 
 If this isn't a fit, no reply needed, and I won't follow up more than once.
+
+## Status (Oct 24, 2026)
+- Contracting Business email: SENT from mainstreettools@gmail.com to nkrawcke@endeavorb2b.com; Gmail messageId 1a16df5a48c740de.
+- The Rundown Supertools: SENT as email to support@therundown.ai (page has no form); Gmail messageId 1a16df6a44a0f1d6.
+- Best of AI: handed to Grok Bot for Google SSO + form submit (Ryan not involved).
+- Future Tools: skipped (already submitted Oct 19).

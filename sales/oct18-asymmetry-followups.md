@@ -11,6 +11,8 @@ How "primary" is decided: on each compare page the first-named tool (`a` in data
 
 ## 1. Dialzara (follow-up #1 to the Oct 14 pitch)
 
+SENT Oct 19, 2026 ~8:36am ET from mainstreettools@gmail.com (Gmail msg 1a1542901c345de4). Edit before send: dropped "and in the phone receptionist category" because the live category page lists Smith.ai first (Dialzara is 3rd, Rosie 5th). This was follow-up #1; one more (breakup) allowed max.
+
 TO: contact@dialzara.com (verified, dialzara.com/contact; pitched Oct 14, no bounce)
 Subject: Rosie vs Dialzara comparison is live
 
