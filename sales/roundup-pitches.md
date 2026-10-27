@@ -105,3 +105,21 @@ Checked inbox + Spam (~14 min after send).
 To: hello@wrenchstack.com
 Subject: Resource suggestion for your AI tools page: MainStreetAI
 Status: sent; bounce/reply check pending
+
+## WrenchStack follow-up draft (NOT sent; for next Grok Bot batch)
+Prepared Oct 26, 2026. Ryan sent hello@wrenchstack.com on Oct 19 ~10:09 AM ET.
+To: hello@wrenchstack.com
+From: mainstreettools@gmail.com
+Subject: Re: MainStreetAI — free resource for local service AI tools (follow-up)
+Body:
+Hi,
+
+Following up once on Ryan's note from last week about listing MainStreetAI (https://mainstreetai.tools) as a free resource for shops comparing AI receptionists, scheduling, and invoicing tools.
+
+We've since added trade guides for landscapers, pest control, painting contractors, and more, plus a free pricing CSV at https://mainstreetai.tools/downloads/ai-tools-pricing-index.csv.
+
+If it's not a fit, no reply needed, and I won't email again about this.
+
+Thanks,
+Ryan Hovis, Founder, MainStreetAI
+mainstreettools@gmail.com | https://mainstreetai.tools

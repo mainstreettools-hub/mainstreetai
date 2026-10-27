@@ -68,3 +68,19 @@ If it's not useful, no reply needed, and this is my last email on it.
 Thanks,
 Ryan Hovis, Founder, MainStreetAI
 mainstreettools@gmail.com | https://mainstreetai.tools
+
+## Send log (Oct 26, 2026 ~11:00 AM ET, Grok Bot approved Batch 3)
+- PM (Batch 2 re-approve) → bellolih@bnpmedia.com: SENT messageId 1a178b9453c655b3
+- EC&M → eparson@endeavorb2b.com: SENT messageId 1a178b9439ebec88
+- AI Stack Guides follow-up (reply 1a1546227d8c9363): SENT messageId 1a178b9442272425
+- SoftwareSuggest follow-up (reply 1a154623292a69e0): SENT messageId 1a178b94bc6ad383
+- Directories: submitting now
+
+- AI Tools Directory: SUBMITTED Oct 26 ~11:00 AM ET via https://aitoolsdirectory.com/submit-tool — Paperform "Submission Successful"; free/manual review; no payment.
+
+- AI Tool Net: SKIPPED Oct 26 — only "Submit Pay $9.9" / PayPro Global; also says no directory listings.
+
+- AITopTools: SKIPPED Oct 26 — only Instant Listing $59 or Distribution $249 via Stripe at https://aitoptools.com/claim-your-tool/ (draft created for mainstreetai.tools but not published).
+- TopAI.tools: escalating to Grok Bot for Google SSO (same path as Best of AI).
+
+- TopAI.tools: SUBMITTED free Oct 26 by Grok Bot via https://topai.tools/tool-submit — "Success! … publish within 48 hours"; skipped Fast Track $47 / Featured $229.

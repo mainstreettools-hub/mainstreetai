@@ -36,4 +36,4 @@ If it isn't a fit, no reply needed, and I won't follow up more than once.
 ## Send log (Oct 26, 2026, America/New_York)
 - ACHR News → mariataylor@achrnews.com: SENT, Gmail messageId 1a17867c3fd92fa3
 - CONTRACTOR → sspaulding@endeavorB2B.com: SENT, Gmail messageId 1a17867cb8b9e572
-- PM → bellolih@bnpmedia.com: pending Auto-review approval card (direct send blocked once)
+- PM → bellolih@bnpmedia.com: NOT SENT — Auto-review blocked; approval card expired Oct 26 ~9:30 AM ET; re-escalated to Grok Bot with Batch 3
