@@ -1,6 +1,10 @@
-# Batch 4 (prepared Oct 27, 2026; NOT sent; for Grok Bot approval)
-From: mainstreettools@gmail.com. Targets B6, B7, B8 from audience-targets.md, plus WrenchStack roundup follow-up #1.
-A8 ToolChase SKIPPED: submit page now says there is no free route (Editorial Review $300).
+# Batch 4 (Oct 27, 2026) — send status
+From: mainstreettools@gmail.com. Grok Bot approved all four ~10:52 AM ET.
+- B6 Dental Economics: Auto-review blocked direct send; draft card t101s582 awaiting Ryan Send
+- B7 ALA Legal Management: Auto-review blocked direct send; draft card t101s583 awaiting Ryan Send
+- B8 Qualified Remodeler: SENT messageId 1a17dd9f8ad59477
+- WrenchStack follow-up #1: SENT messageId 1a17dd9f8e6449e9 (threaded to Oct 19 1a1547ed9bec6d11)
+A8 ToolChase SKIPPED: no free route (Editorial Review $300).
 
 ## B6 Dental Economics — pmaragliano@endeavorb2b.com
 Note: guidelines (updated Oct 23, 2026) say AI may not draft or rewrite article text; if accepted, Ryan must write the article himself. Commercial relationship disclosed in the pitch.
@@ -47,3 +51,6 @@ If it's not a fit, no reply needed, and I won't email again about this.
 Thanks,
 Ryan Hovis, Founder, MainStreetAI
 mainstreettools@gmail.com | https://mainstreetai.tools
+
+## B8 Qualified Remodeler — Anita@SOLAbrands.com (bounce redraft)
+SENT Oct 28 ~8:17 AM ET messageId 1a18271e248cefa7 (new email after Laurie@solabrands.com 550 bounce on 1a17dd9f8ad59477). Grok Bot approved.

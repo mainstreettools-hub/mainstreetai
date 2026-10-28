@@ -1,10 +1,11 @@
 # Audience targets
 
-## Status (updated Oct 27, 2026)
+## Status (updated Oct 28, 2026)
+- Oct 28 Batch 5 (in sales/directory-trade-oct28.md, awaiting Grok Bot approval): A6 Dang.ai and A7 ToolPilot.ai free-lane submissions PREPARED (footer text backlinks deployed); B9 HPAC PREPARED; B10 Dental Practice SKIPPED (wants full manuscripts from academic authors). B8 Qualified Remodeler resent to Anita@SOLAbrands.com Oct 28 after bounce.
 - Oct 27 Batch 4 (in sales/trade-pitches-oct27.md, awaiting Grok Bot approval): B6 Dental Economics, B7 ALA Legal Management, B8 Qualified Remodeler PREPARED; A8 ToolChase SKIPPED (no free route now, $300 review); WrenchStack follow-up #1 PREPARED.
 - Done: A1 Best of AI (via Grok Bot), A2 Future Tools (Oct 19), A4 Rundown (emailed Oct 24), B1 Contracting Business (sent Oct 24), B2 ACHR News and B4 CONTRACTOR (sent Oct 26); B3 PM send was pending an approval card Oct 26.
 - Oct 26 Batch 3: A3 AI Tools Directory SUBMITTED; A10 AI Tool Net SKIPPED (paid $9.9); A11 AITopTools SKIPPED (paid $59+); A5 TopAI.tools SUBMITTED free; B5 EC&M SENT; roundup follow-ups to AI Stack Guides + SoftwareSuggest SENT; B3 PM SENT.
-- Not started: A14 Product Hunt (needs Ryan's Product Hunt login); A9 waits for Nov 5; badge/backlink A6, A7, A12, A13 now OK only if $0 with a real public listing (keep footer to a few reputable badges); B9-B10.
+- Not started: A14 Product Hunt (needs Ryan's Product Hunt login); A9 waits for Nov 5; A12 Wayfindio and A13 AI Toolz Dir (next run; $0 + real listing only).
 
 Researched Oct 14, 2026. Terms change often, so check each submit page before using it. One caveat: MainStreetAI is a directory, not a tool, so some directories may decline it. Pitch it as "a resource for small businesses comparing AI tools."
 
