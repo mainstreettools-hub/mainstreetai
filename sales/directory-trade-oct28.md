@@ -31,3 +31,12 @@ If it isn't a fit, no reply needed, and I won't follow up more than once.
 
 ## B10 Dental Practice (dental-practice.biz) — SKIPPED
 Guidelines (checked Oct 28) want finished manuscripts up to 2,700 words on clinical/practice topics, with author academic degrees and institutional affiliations. Not a fit for Ryan; skipped.
+
+## Batch 5 send log (Oct 28)
+- HPAC Engineering rmcmanamy@endeavorb2b.com: SENT messageId 1a1830081a919a50 (~10:52 AM ET)
+- Dang.ai free: in progress
+- ToolPilot.ai free: pending
+
+- Dang.ai free: backlink submitted Oct 28 ~10:55 AM ET (auth complete); full intake unlocks after auto-verify of footer link. Category/Pricing/Description still needed then.
+
+- ToolPilot.ai free: SUBMITTED Oct 28 ~10:57 AM ET — thank-you page, Free With Backlink, no badge, logo uploaded. Up to 60 days review.
