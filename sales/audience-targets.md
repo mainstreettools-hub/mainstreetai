@@ -1,6 +1,7 @@
 # Audience targets
 
-## Status (updated Oct 29, 2026)
+## Status (updated Oct 30, 2026)
+- Oct 30 Batch 7 (sales/traffic-batch-oct30.md, awaiting Grok Bot approval): new C1 Leadsakolytos, C2 Local SEO Guy, C3 Finderify pitches PREPARED; 2 Reddit answer drafts (r/handyman, r/smallbusiness). Dang.ai rejected free listing Oct 29 (paid only) — closed.
 - Oct 29 Batch 6 (sales/directory-batch-oct29.md, awaiting Grok Bot approval): A6 Dang.ai intake completion PREPARED; A13 AI Toolz Dir free PREPARED (footer text link + /logo.jpg deployed); A12 Wayfindio SKIPPED (badge + gambling-heavy intake). Remaining: A9 RightAIChoice Nov 5; A14 Product Hunt (Ryan login). Section B trade list fully pitched or skipped.
 - Oct 28 Batch 5 (in sales/directory-trade-oct28.md, awaiting Grok Bot approval): A6 Dang.ai and A7 ToolPilot.ai free-lane submissions PREPARED (footer text backlinks deployed); B9 HPAC PREPARED; B10 Dental Practice SKIPPED (wants full manuscripts from academic authors). B8 Qualified Remodeler resent to Anita@SOLAbrands.com Oct 28 after bounce.
 - Oct 27 Batch 4 (in sales/trade-pitches-oct27.md, awaiting Grok Bot approval): B6 Dental Economics, B7 ALA Legal Management, B8 Qualified Remodeler PREPARED; A8 ToolChase SKIPPED (no free route now, $300 review); WrenchStack follow-up #1 PREPARED.
@@ -46,3 +47,12 @@ Suggested first wave: 1, 2, 4, 9 (on Nov 5), 14. Badge and backlink ones (6, 7, 
 | 10 | Dental Practice (weaker fit, India-based) | Dentists | info@dental-practice.biz | Manuscripts | https://www.dental-practice.biz/author-guidelines |
 
 Best angle: offer a non-promotional article such as "A 10-minute test call before you buy an AI receptionist," taken from our checklist. Most of these outlets reject sales pitches. Every pitch email goes to Ryan as a draft first.
+
+## C. Contractor-marketing blogs taking free guest posts (added Oct 30, 2026)
+| # | Outlet | Contact | What they take | Status | Source |
+|---|---|---|---|---|---|
+| 1 | Leadsakolytos | content@leadsakolytos.com | Free editorial posts for trades; tool comparisons, vendor vetting; 1,500+ words; 2 dofollow links; no unedited AI | Pitch PREPARED Oct 30 | https://leadsakolytos.com/write-for-us/ |
+| 2 | Local SEO Guy | ari@localseoguy.digital | 2-3 headline pitch; 1,200+ words; 1 non-affiliate dofollow link | Pitch PREPARED Oct 30 | https://www.localseoguy.digital/write-for-us |
+| 3 | Finderify | hello@finderify.com | Contractor business growth, "tools and tech"; topic ideas + samples | Pitch PREPARED Oct 30 | https://finderify.com/write-for-us/ |
+| 4 | The SEO Contractor | info@seoforcontractors.agency | SEO-only topics, 1,500+ words, writing samples | Not started (weaker fit) | https://seoforcontractors.agency/write-for-us/ |
+| 5 | Lilach Bullock (renovation) | contact form | Renovation business posts incl. "software and AI to schedule jobs"; wants first-hand experience | Not started (weaker fit) | https://www.lilachbullock.com/write-for-us-home-renovation/ |
