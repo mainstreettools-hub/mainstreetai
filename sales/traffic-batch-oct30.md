@@ -74,7 +74,7 @@ Disclosure, I run a free comparison site and put current prices for these in one
 Thread: https://www.reddit.com/r/smallbusiness/comments/1ulegrs/home_service_owners_are_you_guys_actually_using/
 (Check the thread isn't archived before posting.)
 Post as Ryan:
-The older-customer worry is real, but in my experience it's mostly about setup, not the tech. The ones that annoy people are the ones that won't let you reach a person, or that take a message and nobody calls back.
+The older-customer worry is real, but from what I've seen comparing these tools it's mostly about setup, not the tech. The ones that annoy people are the ones that won't let you reach a person, or that take a message and nobody calls back.
 
 What seems to work for trades shops:
 - Have it say up front it's an assistant, and always offer "press 0 or say 'person'" to get transferred.

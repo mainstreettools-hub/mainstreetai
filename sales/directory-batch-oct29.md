@@ -26,3 +26,7 @@ Free lane needs a Wayfindio image badge in the footer plus a Google sign-in, and
 
 ## Roundup follow-ups — none due
 AI Stack Guides and SoftwareSuggest follow-up #1 sent Oct 26 (final #2 not before Nov 2). WrenchStack follow-up #1 sent Oct 27 (final #2 not before Nov 3).
+
+## Results (Oct 29 ~10:52am ET)
+- A) Dang.ai: SUBMITTED, Free package, dashboard status Pending Review. Short desc (75-char cap): "Free AI tool comparisons for local service businesses". Category Business; keyword "AI tools for local businesses"; logo + new OG image sales/mainstreetai-og-1200x630.jpg. $0.
+- B) AI Toolz Dir: SUBMITTED via free path ("Submitted! We'll review your tool and email you when it's live."). Category Agents. Footer link verified live. $0.
