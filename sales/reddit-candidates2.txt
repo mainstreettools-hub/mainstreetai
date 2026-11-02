@@ -1,0 +1,29 @@
+# Reddit candidates 2026-11-02 10:53 | subs=sweatystartup,lawncare,handyman,Entrepreneur | q=software OR app OR CRM OR answering service OR quoting OR estimates OR receptionist | last 72h | 7 kept
+
+- [0.7h] r/handyman | Bill.com experiences-- trying to avoid the $40 monthly surcharge
+  https://www.reddit.com/r/handyman/comments/1xlzpud/billcom_experiences_trying_to_avoid_the_40/
+  I'm a handyman general contractor. I've gotten a number of commercial and non profit clients that have asked me to set up a bill.com account to receive payment for services. I did that and received a couple transfers to my bank. After the 60 day free trial, they seem to push me to a $40 a month serv
+
+- [2.0h] r/handyman | Built a simple mobile margin calculator so I stop misquoting job-site obstacles and material swings. Would love feedback from guys in the field. ​Full disclosure: I built this simple web tool myself.
+  https://www.reddit.com/r/handyman/comments/1xlxqnp/built_a_simple_mobile_margin_calculator_so_i_stop/
+  Most job estimate apps are either bloated $50/mo CRMs or basic spreadsheets that don't account for on-site complexity like custom cuts, pitch, or difficulty multipliers. ​I built this as a lightweight web utility you can open on your phone in the truck. Save your hard costs first, then, You punch in
+
+- [2.6h] r/sweatystartup | Beach Chair/Cabana Rentals Business
+  https://www.reddit.com/r/sweatystartup/comments/1xlwwci/beach_chaircabana_rentals_business/
+  Anyone doing this on the beach? I've noticed two types: 1.) They store their equipment right onsite and pay to be there, take payment right on the beach, usually have one guy working. 2.) Mobile services doing delivery and pickup to a broader area of beaches, take payment offsite on website. Anyone 
+
+- [24.1h] r/lawncare | TTF / KBG Late Season issue
+  https://www.reddit.com/r/lawncare/comments/1xl6ed5/ttf_kbg_late_season_issue/
+  Can anyone tell me what to do about my lawn becoming stressed and getting what appears to be a late season fungal disease right before winter dormancy arrives? I am in zone 7A. For context, the lawn was seeded brand new this spring with Jonathan Green Ultra Black Beauty. I have an irrigation system 
+
+- [35.7h] r/handyman | Bowers Plumbing
+  https://www.reddit.com/r/handyman/comments/1xktrnf/bowers_plumbing/
+  Alright Reddit, I need some help again! 😂 I own Bowers Home Services, a family-owned plumbing, electrical, and HVAC company here in Washington. We’ve been experimenting with AI to create educational videos about plumbing, whole-home water filtration, reverse osmosis, and water quality. And man, maki
+
+- [45.5h] r/handyman | Recommendation for handywo/man services.
+  https://www.reddit.com/r/handyman/comments/1xkhfkg/recommendation_for_handywoman_services/
+  
+
+- [53.2h] r/handyman | When a customer calls you back out to a house months later, how do you track what what was done on the previous call?
+  https://www.reddit.com/r/handyman/comments/1xk6zil/when_a_customer_calls_you_back_out_to_a_house/
+  Do you keep past equipment history saved under the customer contact, or search back through old invoices? I am trying to figure out how other people pull up previous service details without having to search through the phone photo roll.

@@ -1,0 +1,9 @@
+Couple thoughts since you asked for feedback.
+
+The multiplier idea is the right one. From what handymen tend to say, the money usually leaks out through the stuff that never makes it onto the quote, not the materials line. Think the second trip to the supply house, the hour of hauling debris, parking in the city, working around a homeowner who's home all day. If there's a quick "site hassle" toggle that adds a fixed chunk of time, that'd probably get used way more than a percentage slider.
+
+Second, let me save a few job templates. Most handymen do the same 10 jobs over and over (door install, faucet swap, drywall patch, TV mount). Picking "drywall patch, medium, 2 coats" and only tweaking the oddball stuff is what makes it faster than a notes app.
+
+Third, show the actual hourly after materials and drive time, not just the margin percent. A decent-looking margin percent can still turn out to be a lousy hourly once the driving is counted.
+
+And make sure it works one-handed with gloves on and with bad signal in a basement. If it needs a login every time, it won't get opened in the truck.

@@ -1,0 +1,9 @@
+You probably don't need the paid plan just to get paid. When a commercial client "pays through Bill.com," they're the ones on the subscription. On your end, a lot of the time all you need is to be set up as a vendor with your bank info.
+
+A few things worth trying before paying $40/mo:
+
+1. Ask their AP person if they can just pay you by ACH from Bill.com to your bank account. They usually only need your routing and account number on a vendor form along with your W-9. You don't have to log in to anything for that to land.
+2. If Bill.com keeps nudging you, look closely at what you're actually being asked to upgrade for. Often it's sending invoices or extras from your side, not receiving money. Downgrade or cancel the trial and see if the next transfer from the client still comes through.
+3. For the clients who insist you invoice through a platform, send a normal PDF invoice from whatever you already use and put "ACH preferred" with your bank details on it. Most nonprofits' bookkeepers are happy with that.
+
+Worst case, if one big client truly requires it, bake the $40 into their rate instead of eating it across every job.

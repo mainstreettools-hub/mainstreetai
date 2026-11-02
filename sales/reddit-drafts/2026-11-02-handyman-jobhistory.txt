@@ -1,0 +1,11 @@
+The thing that finally worked for a lot of guys is boring: attach everything to the customer's address, not the date.
+
+Whatever you use (a field service app, a Google Drive folder per address, even a notes app), the rule is the same:
+
+- One record per property. Name it by street address, since that's what you'll remember when they call.
+- Right before you leave a job, take 3 photos: the model/serial sticker, the finished work, and anything you noticed but didn't fix. Drop them in that record right there in the driveway, not later.
+- Add one line of notes: what you did, part numbers, paint color or brand, and "watch for X next time."
+
+Then when they call back months later, you search the address and it's all there in 10 seconds instead of scrolling through 4,000 photos of drywall.
+
+If you're already sending invoices from something like QuickBooks or a field service app, check if it lets you attach photos and notes to the job. Most do, and then the invoice becomes your history without any extra step.

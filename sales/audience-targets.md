@@ -1,6 +1,7 @@
 # Audience targets
 
-## Status (updated Oct 30, 2026)
+## Status (updated Nov 2, 2026)
+- Nov 2 Batch 8 (sales/traffic-batch-nov02.md, to Grok Bot): final roundup follow-ups to AI Stack Guides + SoftwareSuggest; D1 Contractor Software Hub email; D2 1-800-Bizops form; D3 OBO form. Dang.ai sent paid upsell Nov 1 (ignore). Best Productivity Resources needs Ryan's LinkedIn DM.
 - Oct 30 Batch 7 (sales/traffic-batch-oct30.md, awaiting Grok Bot approval): new C1 Leadsakolytos, C2 Local SEO Guy, C3 Finderify pitches PREPARED; 2 Reddit answer drafts (r/handyman, r/smallbusiness). Dang.ai rejected free listing Oct 29 (paid only) — closed.
 - Oct 29 Batch 6 (sales/directory-batch-oct29.md, awaiting Grok Bot approval): A6 Dang.ai intake completion PREPARED; A13 AI Toolz Dir free PREPARED (footer text link + /logo.jpg deployed); A12 Wayfindio SKIPPED (badge + gambling-heavy intake). Remaining: A9 RightAIChoice Nov 5; A14 Product Hunt (Ryan login). Section B trade list fully pitched or skipped.
 - Oct 28 Batch 5 (in sales/directory-trade-oct28.md, awaiting Grok Bot approval): A6 Dang.ai and A7 ToolPilot.ai free-lane submissions PREPARED (footer text backlinks deployed); B9 HPAC PREPARED; B10 Dental Practice SKIPPED (wants full manuscripts from academic authors). B8 Qualified Remodeler resent to Anita@SOLAbrands.com Oct 28 after bounce.
@@ -56,3 +57,17 @@ Best angle: offer a non-promotional article such as "A 10-minute test call befor
 | 3 | Finderify | hello@finderify.com | Contractor business growth, "tools and tech"; topic ideas + samples | Pitch PREPARED Oct 30 | https://finderify.com/write-for-us/ |
 | 4 | The SEO Contractor | info@seoforcontractors.agency | SEO-only topics, 1,500+ words, writing samples | Not started (weaker fit) | https://seoforcontractors.agency/write-for-us/ |
 | 5 | Lilach Bullock (renovation) | contact form | Renovation business posts incl. "software and AI to schedule jobs"; wants first-hand experience | Not started (weaker fit) | https://www.lilachbullock.com/write-for-us-home-renovation/ |
+
+### Batch 7 sends (Oct 30, 2026, approved by Grok Bot)
+- Leadsakolytos guest-post pitch → content@leadsakolytos.com — SENT Oct 30 (msg 1a18d4b0eeac2616). Edit: dropped "written by me, not generated." Follow-up eligible Nov 6.
+- Local SEO Guy guest-post pitch → ari@localseoguy.digital — SENT Oct 30 (msg 1a18d4b0f9568b79). Follow-up eligible Nov 6.
+- Finderify guest-post pitch → hello@finderify.com — SENT Oct 30 (msg 1a18d4b0f7ea89d0). Follow-up eligible Nov 6.
+- Reddit drafts (r/handyman, r/smallbusiness): HELD by Grok Bot; it will offer them to Ryan. Do not post or ask Ryan.
+
+## D. New $0 resource targets (added Nov 2, 2026)
+| # | Outlet | Contact | Notes | Status |
+|---|---|---|---|---|
+| 1 | Contractor Software Hub | info@contractorsoftwarehub.com | Contact page asks for tools to cover and pricing changes; 102 reviews of contractor software | Pitch PREPARED Nov 2 |
+| 2 | 1-800-Bizops resource hub | form at https://1-800-bizops.com/directory/type/resources | Link + email only; ops audience (weaker fit) | Form PREPARED Nov 2 |
+| 3 | OBO Submit a Resource | https://onlinebusinessowner.com/submit-resource | Entrepreneur resource directory (weaker fit) | Form PREPARED Nov 2 |
+| 4 | Best Productivity Resources | LinkedIn DM to Shushant Lakhyani | Free, hand-reviewed; needs Ryan's LinkedIn | Needs Ryan |

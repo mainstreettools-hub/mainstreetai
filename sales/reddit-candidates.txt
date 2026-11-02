@@ -1,0 +1,5 @@
+# Reddit candidates 2026-11-02 10:46 | subs=smallbusiness,handyman,HVAC,Plumbing,Electricians,sweatystartup,lawncare,Entrepreneur | q=missed calls OR scheduling software OR invoicing app OR AI tools | last 72h | 1 kept
+
+- [1.9h] r/handyman | Built a simple mobile margin calculator so I stop misquoting job-site obstacles and material swings. Would love feedback from guys in the field. ​Full disclosure: I built this simple web tool myself.
+  https://www.reddit.com/r/handyman/comments/1xlxqnp/built_a_simple_mobile_margin_calculator_so_i_stop/
+  Most job estimate apps are either bloated $50/mo CRMs or basic spreadsheets that don't account for on-site complexity like custom cuts, pitch, or difficulty multipliers. ​I built this as a lightweight web utility you can open on your phone in the truck. Save your hard costs first, then, You punch in
