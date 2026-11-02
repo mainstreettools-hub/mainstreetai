@@ -1,0 +1,59 @@
+MAINSTREET AI BRIEF - ISSUE #4
+What happens when you miss the call?
+November 2026 - Prices checked against vendor sites
+
+Hey there,
+
+When you're under a sink or up on a roof, the phone keeps ringing. Some of those callers leave a message and wait. Others hang up and call the next name on the list.
+
+This week's pick answers calls and books jobs for home-service shops, and you can start it on a $0 plan. Plus three more tools you can start free, and a quick test to find out what your callers hear right now.
+
+---------------------------------------
+TOOL OF THE WEEK: SERVICEAGENT (AI Phone Receptionist)
+---------------------------------------
+An AI front office built for home-service shops. It answers calls, books jobs, sends invoices and runs your customer follow-ups, all from one account that runs on credits. Good for HVAC, plumbing, electrical and roofing shops that can't get to the phone while they're on a job.
+
+Price: Launch plan is free (pay as you go for AI). Core $49/mo for 2,000 credits (about $39/mo billed yearly). Growth $119/mo, Franchise $349/mo. AI voice uses 15 credits a minute, so Core covers about 133 minutes if every credit goes to calls. (Checked on ServiceAgent's site, Oct 2026.)
+Good: free to start, made for the trades, and calls, booking and invoicing live in one place. Claiming a number takes minutes; full setup takes 1-2 days.
+Watch for: texts and ads use the same credits as calls, so your voice minutes are a ceiling, not a promise. Payment and ad fees come on top of the plan.
+
+Full listing: https://mainstreetai.tools/tools/serviceagent
+Run a plumbing shop? See the tools we'd look at first: https://mainstreetai.tools/compare/best-ai-tools-for-plumbers
+
+---------------------------------------
+3 QUICK PICKS YOU CAN START FREE
+---------------------------------------
+* Wave (AI Bookkeeping & Invoicing) - Free invoicing and basic books for very small shops, with no revenue cap on the free plan. Starter $0; Pro $19/mo (or $190/yr). Payment processing fees extra. Support is limited on the free plan.
+  https://mainstreetai.tools/tools/wave
+
+* Make (Website Chat & Workflows) - A visual builder that connects your business apps into multi-step workflows. Cheaper than Zapier at volume, but the builder takes some learning. Free plan (1,000 credits/mo); paid plans are billed by credits, so check make.com for current prices.
+  https://mainstreetai.tools/tools/make
+
+* Botpress (Website Chat & Workflows) - Build your own AI chat agent for your website, with workflows and integrations. Very flexible, but it takes some tech comfort and 1-2 weeks to set up. Free plan (100 conversations/mo); Plus $150/mo billed annually.
+  https://mainstreetai.tools/tools/botpress
+
+---------------------------------------
+DO THIS FIRST
+---------------------------------------
+Call your own business tonight. It takes 10 minutes and tells you exactly what a new customer hears when you can't pick up. From a phone that isn't saved in your contacts:
+
+1. Call during a busy hour and let it ring out. Count the rings before anything answers.
+2. Listen to your voicemail greeting. Does it say your business name, and does it tell people when you'll call back?
+3. Leave a message, then time how long it takes before anyone returns it.
+4. Call again after hours and see if anything different happens.
+5. Text the same number and see if anyone answers.
+
+If any of that made you wince, that's where an answering service or an AI receptionist earns its keep.
+Check if your website is leaking jobs: https://mainstreetai.tools/leaking-jobs
+
+Browse all 42 tools at https://mainstreetai.tools. Got a tool you want me to look at? Hit reply. See you next week.
+
+Ryan Hovis
+Founder, MainStreetAI
+
+---
+Make an AI tool for local businesses? This spot is open. Sponsor the Brief: https://mainstreetai.tools/sponsor
+
+You're getting this because you signed up at mainstreetai.tools.
+MainStreetAI · 1545 Monument Avenue, Gastonia NC 28052
+Unsubscribe: {{{RESEND_UNSUBSCRIBE_URL}}}
