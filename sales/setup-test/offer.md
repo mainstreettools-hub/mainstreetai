@@ -29,7 +29,7 @@ After a job, your customer gets a short, friendly thank-you email with a link to
 
 - **The 2 weeks: $0.** No card from you to me. I use tools that have a free trial or a free plan.
 - **If you keep it after Day 14:**
-  - **$299 one time** for the setup, due on Day 14. If it's easier, you can split it: $150 now and $149 the next month.
+  - **$299 one time** for the setup, due on Day 14.
   - **$49 a month starts after Day 14.**
   - The $49 a month pays me to keep it running. That covers updating your hours and answers, checking it each month, fixing problems, and a short monthly report. Cancel any time.
   - **The tool's own bill, if there is one, is paid by you to that company, not to me.** Here's what that looks like today:
