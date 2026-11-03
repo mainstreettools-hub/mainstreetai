@@ -1,0 +1,10 @@
+Two reminders, then a person, is the sweet spot in most setups I've seen. First nudge about 3 days after the ask, second about a week later, and after that it goes to whoever owns the client with the full history attached. A third automated email almost never gets a different result, it just makes the client feel chased by a robot.
+
+The "already sent through another channel" problem is the hard one. A few things that help:
+
+- Before every send, check every place it could show up, not just the inbox you asked them to use. Shared drive folder, the portal, texts, the main office inbox. People reply to whatever email of yours they find first.
+- Give each request a short reference in the subject line ("Q3 statement - ref 1042") so forwarded or replied files are easy to match.
+- Let anyone on the team mark it received with one click, and have the chaser respect that. Half the misses are a client handing paperwork to the tech on site or emailing a staff member directly.
+- If you can't tell for sure, the second reminder should ask instead of demand: "Did this already come through somewhere? If so, just reply 'sent' and I'll find it." That one line saves a lot of annoyed replies.
+
+Also agree on partial being not done. Listing what's in vs what's still missing in the reminder gets a much faster reply than repeating the original ask.

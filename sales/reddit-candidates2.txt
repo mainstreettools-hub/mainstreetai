@@ -1,29 +1,33 @@
-# Reddit candidates 2026-11-02 10:53 | subs=sweatystartup,lawncare,handyman,Entrepreneur | q=software OR app OR CRM OR answering service OR quoting OR estimates OR receptionist | last 72h | 7 kept
+# Reddit candidates 2026-11-03 10:51 | subs=sweatystartup,handyman,Electricians,HVAC | q=quotes OR estimates OR booking OR calls OR paperwork OR office | last 72h | 8 kept
 
-- [0.7h] r/handyman | Bill.com experiences-- trying to avoid the $40 monthly surcharge
-  https://www.reddit.com/r/handyman/comments/1xlzpud/billcom_experiences_trying_to_avoid_the_40/
-  I'm a handyman general contractor. I've gotten a number of commercial and non profit clients that have asked me to set up a bill.com account to receive payment for services. I did that and received a couple transfers to my bank. After the 60 day free trial, they seem to push me to a $40 a month serv
+- [0.3h] r/handyman | Help with Toolbelt for my Husband
+  https://www.reddit.com/r/handyman/comments/1xmw688/help_with_toolbelt_for_my_husband/
+  My husband mentioned that he could do with a tool belt. He has been amazing doing renovations to fit my decorating whims in our house from putting up chandeliers to replacing carpet with LVP throughout our house. It’s also our tenth anniversary this year and as one of his presents, I’d like to give 
 
-- [2.0h] r/handyman | Built a simple mobile margin calculator so I stop misquoting job-site obstacles and material swings. Would love feedback from guys in the field. ​Full disclosure: I built this simple web tool myself.
-  https://www.reddit.com/r/handyman/comments/1xlxqnp/built_a_simple_mobile_margin_calculator_so_i_stop/
-  Most job estimate apps are either bloated $50/mo CRMs or basic spreadsheets that don't account for on-site complexity like custom cuts, pitch, or difficulty multipliers. ​I built this as a lightweight web utility you can open on your phone in the truck. Save your hard costs first, then, You punch in
+- [10.7h] r/handyman | Anyone else sick of paying monthly subscriptions for Joist? Looking for a decent alternative
+  https://www.reddit.com/r/handyman/comments/1xmk9md/anyone_else_sick_of_paying_monthly_subscriptions/
+  Man, I'm getting so tired of shelling out cash every month just to use basic apps like Joist for estimates and invoices. As a solo guy, those USD subscription fees really start adding up and eating into what I actually make. I just need something simple that works offline when I'm out on a job with 
 
-- [2.6h] r/sweatystartup | Beach Chair/Cabana Rentals Business
-  https://www.reddit.com/r/sweatystartup/comments/1xlwwci/beach_chaircabana_rentals_business/
-  Anyone doing this on the beach? I've noticed two types: 1.) They store their equipment right onsite and pay to be there, take payment right on the beach, usually have one guy working. 2.) Mobile services doing delivery and pickup to a broader area of beaches, take payment offsite on website. Anyone 
+- [18.1h] r/Electricians | Electricians issues
+  https://www.reddit.com/r/electricians/comments/1xmahpn/electricians_issues/
+  I am 76 when I was about 40 i worked in the housing area, new ceiling fans, lights extra powerpoints etc and repairs. I was on a ladder putting up a fan and the lady of the house nice looking put her hand up my shorts and grabbed me, nearly fell off the ladder. I yelped a bit and dropped the fan on 
 
-- [24.1h] r/lawncare | TTF / KBG Late Season issue
-  https://www.reddit.com/r/lawncare/comments/1xl6ed5/ttf_kbg_late_season_issue/
-  Can anyone tell me what to do about my lawn becoming stressed and getting what appears to be a late season fungal disease right before winter dormancy arrives? I am in zone 7A. For context, the lawn was seeded brand new this spring with Jonathan Green Ultra Black Beauty. I have an irrigation system 
-
-- [35.7h] r/handyman | Bowers Plumbing
-  https://www.reddit.com/r/handyman/comments/1xktrnf/bowers_plumbing/
-  Alright Reddit, I need some help again! 😂 I own Bowers Home Services, a family-owned plumbing, electrical, and HVAC company here in Washington. We’ve been experimenting with AI to create educational videos about plumbing, whole-home water filtration, reverse osmosis, and water quality. And man, maki
-
-- [45.5h] r/handyman | Recommendation for handywo/man services.
-  https://www.reddit.com/r/handyman/comments/1xkhfkg/recommendation_for_handywoman_services/
+- [19.1h] r/handyman | Leaky Windows, Who do I call?
+  https://www.reddit.com/r/handyman/comments/1xm8y7q/leaky_windows_who_do_i_call/
   
 
-- [53.2h] r/handyman | When a customer calls you back out to a house months later, how do you track what what was done on the previous call?
-  https://www.reddit.com/r/handyman/comments/1xk6zil/when_a_customer_calls_you_back_out_to_a_house/
-  Do you keep past equipment history saved under the customer contact, or search back through old invoices? I am trying to figure out how other people pull up previous service details without having to search through the phone photo roll.
+- [19.8h] r/handyman | Need help with removing plastic shards from office chair
+  https://www.reddit.com/r/handyman/comments/1xm7vjr/need_help_with_removing_plastic_shards_from/
+  
+
+- [22.7h] r/Electricians | Drop ceiling LED panels
+  https://www.reddit.com/r/electricians/comments/1xm2wav/drop_ceiling_led_panels/
+  I just had a service call in a department store with all new LED 2x4 panels and not even one was tied to the structure out of 100s. Am I missing some code rule here? I had an inspector make me tie LED waffle lights which are too lightweight to fall even if the ceiling collapsed :)
+
+- [41.6h] r/Electricians | georgia contractors test
+  https://www.reddit.com/r/electricians/comments/1xlg4sj/georgia_contractors_test/
+  does anyone have any suggestions for a prep course and/or books for the class 2 georgia electrical contractors test? it’s hard to find anything that’s trust worthy that’s worth our money. i can’t find anything from the georgia website about how to prepare to sit for the test. Thanks!
+
+- [41.6h] r/Electricians | Can anyone share the NAIT 3rd and 4th period weekly time management table?
+  https://www.reddit.com/r/electricians/comments/1xlg303/can_anyone_share_the_nait_3rd_and_4th_period/
+  I've bought the books and would like to get a time management table so I can study using the same model in advance. It doesn't have to be the latest version. Thanks

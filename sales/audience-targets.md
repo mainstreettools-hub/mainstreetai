@@ -1,6 +1,7 @@
 # Audience targets
 
-## Status (updated Nov 2, 2026)
+## Status (updated Nov 3, 2026)
+- Nov 3 Batch 9 (sales/traffic-batch-nov03.md, to Grok Bot): E1 907 Heating and Plumbing email + E2 Read This Online form PREPARED. E3 Plumbers Elite needs Ryan's LinkedIn URL (form requires it). Skipped: C5 Lilach Bullock (wants first-hand renovation-firm experience), There Is An AI Tool / FutureStack (AI-tool-only, likely reject like Dang.ai). Batch 8 still unsent as of Nov 3.
 - Nov 2 Batch 8 (sales/traffic-batch-nov02.md, to Grok Bot): final roundup follow-ups to AI Stack Guides + SoftwareSuggest; D1 Contractor Software Hub email; D2 1-800-Bizops form; D3 OBO form. Dang.ai sent paid upsell Nov 1 (ignore). Best Productivity Resources needs Ryan's LinkedIn DM.
 - Oct 30 Batch 7 (sales/traffic-batch-oct30.md, awaiting Grok Bot approval): new C1 Leadsakolytos, C2 Local SEO Guy, C3 Finderify pitches PREPARED; 2 Reddit answer drafts (r/handyman, r/smallbusiness). Dang.ai rejected free listing Oct 29 (paid only) — closed.
 - Oct 29 Batch 6 (sales/directory-batch-oct29.md, awaiting Grok Bot approval): A6 Dang.ai intake completion PREPARED; A13 AI Toolz Dir free PREPARED (footer text link + /logo.jpg deployed); A12 Wayfindio SKIPPED (badge + gambling-heavy intake). Remaining: A9 RightAIChoice Nov 5; A14 Product Hunt (Ryan login). Section B trade list fully pitched or skipped.
@@ -71,3 +72,11 @@ Best angle: offer a non-promotional article such as "A 10-minute test call befor
 | 2 | 1-800-Bizops resource hub | form at https://1-800-bizops.com/directory/type/resources | Link + email only; ops audience (weaker fit) | Form PREPARED Nov 2 |
 | 3 | OBO Submit a Resource | https://onlinebusinessowner.com/submit-resource | Entrepreneur resource directory (weaker fit) | Form PREPARED Nov 2 |
 | 4 | Best Productivity Resources | LinkedIn DM to Shushant Lakhyani | Free, hand-reviewed; needs Ryan's LinkedIn | Needs Ryan |
+
+## E. New $0 targets (added Nov 3, 2026)
+| # | Outlet | Contact | Notes | Status |
+|---|---|---|---|---|
+| 1 | 907 Heating and Plumbing | info@907heatingplumbing.com | Pitch 2-3 headlines + outline; homeowner/trade audience; https://907heatingplumbing.com/write-for-us-plumbing/ | Pitch PREPARED Nov 3 |
+| 2 | Read This Online | contact form https://readthisonline.com/contact-us/ | Service Business Growth guest posts, 1 backlink | Form PREPARED Nov 3 |
+| 3 | Plumbers Elite | form at https://plumberselite.com/write-for-us/ | Plumbing-business blog, 1 backlink; form requires LinkedIn profile + 2 bylined article links | Needs Ryan's LinkedIn |
+| 4 | SaaSHub | https://www.saashub.com/submit | Free listing + free multi-directory submitter; needs account | Not started (needs signup) |

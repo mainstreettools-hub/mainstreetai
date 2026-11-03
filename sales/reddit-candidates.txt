@@ -1,5 +1,33 @@
-# Reddit candidates 2026-11-02 10:46 | subs=smallbusiness,handyman,HVAC,Plumbing,Electricians,sweatystartup,lawncare,Entrepreneur | q=missed calls OR scheduling software OR invoicing app OR AI tools | last 72h | 1 kept
+# Reddit candidates 2026-11-03 10:44 | subs=smallbusiness,handyman,HVAC,Plumbing,Electricians,sweatystartup,lawncare,Entrepreneur | q=missed calls OR scheduling OR invoicing OR software OR app OR CRM | last 72h | 8 kept
 
-- [1.9h] r/handyman | Built a simple mobile margin calculator so I stop misquoting job-site obstacles and material swings. Would love feedback from guys in the field. ​Full disclosure: I built this simple web tool myself.
-  https://www.reddit.com/r/handyman/comments/1xlxqnp/built_a_simple_mobile_margin_calculator_so_i_stop/
-  Most job estimate apps are either bloated $50/mo CRMs or basic spreadsheets that don't account for on-site complexity like custom cuts, pitch, or difficulty multipliers. ​I built this as a lightweight web utility you can open on your phone in the truck. Save your hard costs first, then, You punch in
+- [3.4h] r/smallbusiness | I added a dialer to my open-source LinkedIn/email outreach tool (opening-hours queue, scripts, call logging)
+  https://www.reddit.com/r/smallbusiness/comments/1xmrjrn/i_added_a_dialer_to_my_opensource_linkedinemail/
+  I’m the author of Linki, an open-source outreach tool I built because I wanted one place to run my own outbound. You import a lead list from Sales Navigator, clean it, and run multichannel campaigns (LinkedIn + email) where an AI agent personalizes each message per lead. It also has a unified inbox 
+
+- [7.5h] r/smallbusiness | What rules stop an automated document chaser from turning into spam?
+  https://www.reddit.com/r/smallbusiness/comments/1xmnb8z/what_rules_stop_an_automated_document_chaser_from/
+  Chasing missing documents is one of the most common back-office jobs people try to automate. Missing invoices, signed contracts, onboarding forms, bank statements before month-end. The first version is always easy: a scheduled email that says "please send X". The trouble starts in week two. The rule
+
+- [12.4h] r/lawncare | Is mulching on driveway a no go?
+  https://www.reddit.com/r/lawncare/comments/1xmi51v/is_mulching_on_driveway_a_no_go/
+  Mulch mow to bag at highest height on clean driveway? Neighbor thought I was nuts for not mulching (even with bagging) over grass. Am I missing something Edit: I forgot to mention that I’m mulching and bagging to lay on garden beds and other areas as free mulch. That’s my reasoning for bagging. And 
+
+- [14.2h] r/Plumbing | Need help identifying this old flapper
+  https://www.reddit.com/r/Plumbing/comments/1xmfu8e/need_help_identifying_this_old_flapper/
+  I'm not sure of the toilet model but it has a builtin overflow area and a raised area for the flush valve. I'm having trouble identifying or finding a replacement for the flapper, which is screwed into from the top by a plastic lever arm - which then reaches down to the bottom of the tank where it c
+
+- [16.9h] r/smallbusiness | Feeling a little stuck with our skincare brand after a year of hard work. Would love some advice!
+  https://www.reddit.com/r/smallbusiness/comments/1xmc5e2/feeling_a_little_stuck_with_our_skincare_brand/
+  Hi everyone! I’ve been helping build an independent skincare brand for almost a year now, and honestly, it’s been a little discouraging lately. We’ve been trying to stay consistent with Instagram and Facebook, posting regularly, writing blogs, working on SEO and experimenting with ads. We’ve put a l
+
+- [18.1h] r/smallbusiness | First Time Business Owner: Are these healthy margins for my first 250-unit production run?
+  https://www.reddit.com/r/smallbusiness/comments/1xmaabn/first_time_business_owner_are_these_healthy/
+  I'm launching a small men's skincare brand out of my apartment in California. I'm initially testing the Skin Balm product with 50 units, but I'm planning a first official production run of 250 units if there's demand. I've been working through the numbers and would love some feedback from people who
+
+- [20.1h] r/smallbusiness | I built an employee attendance and time-tracking tool for small businesses — looking for honest feedback
+  https://www.reddit.com/r/smallbusiness/comments/1xm78q1/i_built_an_employee_attendance_and_timetracking/
+  I built an employee attendance and time-tracking tool for small businesses — looking for honest feedback Hey everyone! I've been working on a SaaS product called Attendeaze . The idea came from a simple problem: small businesses often need a straightforward way to manage employee attendance, check-i
+
+- [20.3h] r/smallbusiness | Corporate pricing specialist starting a side business. Does my plan make sense?
+  https://www.reddit.com/r/smallbusiness/comments/1xm6u0x/corporate_pricing_specialist_starting_a_side/
+  I've spent 3 years in pricing at two Fortune 500 companies (US/Canada and Mexico/Central America). One thing I noticed: most mid-size brands don't have a pricing culture. They set prices once, rarely revisit them, and miss easy wins: products that could take a price increase, promos that lose money,
