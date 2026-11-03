@@ -31,6 +31,8 @@ Our emails follow all of this: same message to every customer, one reminder, the
 
 ---
 
+**Setups happen in person** at the shop, on the owner's computer.
+
 ## Before the visit: collect from the owner (about 15 minutes)
 
 1. Does the business have a **verified Google Business Profile**? Who can log in to it? (You need this for the review link.)
@@ -128,7 +130,7 @@ function sendReviewEmails() {
 | Day 7 | Count asks sent and new reviews. Remind the owner to keep adding rows. Most problems are "we forgot to add customers." |
 | Day 10 | Help the owner reply to any new reviews (good or bad). Google suggests replying. |
 | Day 12 | Make the Day-14 one-page report. |
-| Day 14 | Day-14 talk (see script.md). Keep it running, or turn off the trigger and you're done. |
+| Day 14 | Day-14 talk (see script.md). $299 is due today (or $150 now + $149 next month if they ask). $49/mo starts after today. Keep it running, or turn off the trigger and you're done. |
 
 ## How to measure it (for Day 14)
 

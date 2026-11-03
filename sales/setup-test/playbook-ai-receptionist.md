@@ -19,6 +19,10 @@ Not used: OnCrew (14-day trial listed in our own tools.json on Nov 2), because i
 
 ---
 
+**Setups happen in person** at the shop, on a weekday (so Upfirst support is open if needed).
+
+**Tell busy shops up front:** Upfirst Starter covers 30 calls a month. Past that it's $1.50 per extra call, or $59.95/mo for 90 calls. If the owner says they get lots of calls, say this before the trial, not on Day 14.
+
 ## Before the visit: collect from the owner (about 20 minutes)
 
 Send these questions ahead, or ask them in person. Write the answers in a shared doc.
@@ -92,7 +96,7 @@ Send these questions ahead, or ask them in person. Write the answers in a shared
 | Day 7 | Pull the numbers so far (below). Check how close the trial is to 100 calls. |
 | Day 10 | Fix anything still off. Ask the owner if they want booking added. |
 | Day 12 | Make the Day-14 one-page report. |
-| Day 14 | Day-14 talk (see script.md). Then keep it on (owner picks a plan with **their** card) or turn it off and undo forwarding the same day. |
+| Day 14 | Day-14 talk (see script.md). Use the 14-day call count to show which Upfirst plan they'd likely need. $299 is due today (or $150 now + $149 next month if they ask). $49/mo starts after today. Then keep it on (owner picks a plan with **their** card) or turn it off and undo forwarding the same day. |
 
 **Watch the trial limit:** the trial ends at 14 days **or** 100 calls. A busy shop, or a lot of spam, could use 100 calls before Day 14. (Upfirst says spam, calls under 15 seconds, and calls where nobody speaks don't count.) If it's close by Day 7, tell the owner.
 

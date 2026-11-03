@@ -20,7 +20,7 @@ After a job, your customer gets a short, friendly thank-you email with a link to
 
 ## What you get
 
-- I set it up for you. It takes about an hour, and I need about 20 minutes of your time to answer some questions.
+- I set it up for you, in person, at your shop. It takes about an hour, and I need about 20 minutes of your time to answer some questions.
 - I test it with you before it goes live.
 - I check on it during the 2 weeks and fix anything that sounds off.
 - On Day 14, I show you what it did: calls caught, or reviews asked for and received.
@@ -29,10 +29,12 @@ After a job, your customer gets a short, friendly thank-you email with a link to
 
 - **The 2 weeks: $0.** No card from you to me. I use tools that have a free trial or a free plan.
 - **If you keep it after Day 14:**
-  - **$299 one time** for the setup.
-  - **$49 a month** for me to keep it running. That covers updating your hours and answers, checking it each month, fixing problems, and a short monthly report. Cancel any time.
+  - **$299 one time** for the setup, due on Day 14. If it's easier, you can split it: $150 now and $149 the next month.
+  - **$49 a month starts after Day 14.**
+  - The $49 a month pays me to keep it running. That covers updating your hours and answers, checking it each month, fixing problems, and a short monthly report. Cancel any time.
   - **The tool's own bill, if there is one, is paid by you to that company, not to me.** Here's what that looks like today:
-    - Phone answerer (Upfirst): starts at $24.95 a month for 30 calls. More calls cost more. (Checked Nov 3, 2026 at https://upfirst.ai/pricing)
+    - Phone answerer (Upfirst): starts at $24.95 a month for 30 calls. (Checked Nov 3, 2026 at https://upfirst.ai/pricing)
+    - **Busy shop?** If your phone is busy, know this up front: Upfirst's starter plan covers 30 calls a month. Past that, each extra call is $1.50, or you can move to their $59.95 plan for 90 calls. That bill goes up with your calls.
     - Review requests (Google review link + your Google Sheet and Gmail): $0 a month.
 
 **Why $49 a month?** It keeps your all-in cost near $75 a month for the phone answerer (and $49 for reviews), which is about what a small shop can carry without thinking twice, and it pays for real monthly upkeep instead of "set it and forget it."

@@ -17,7 +17,9 @@ I'm testing something with a few local businesses I know. I'll set up one tool f
 - something that answers the calls you miss and texts you who called and what they need, or
 - something that asks every customer for a Google review after the job, with one reminder.
 
-I do the setup. I need about 20 minutes of your time. After 2 weeks I'll show you exactly what it did. If you like it, it's $299 to keep the setup and $49 a month for me to keep it running, plus the tool's own bill if it has one. If you don't like it, I turn it off and you owe nothing.
+I come by and do the setup in person. I need about 20 minutes of your time. After 2 weeks I'll show you exactly what it did. If you like it, it's $299 to keep the setup and $49 a month for me to keep it running, plus the tool's own bill if it has one. If you don't like it, I turn it off and you owe nothing.
+
+[If they're busy and lean toward the phone option:] One thing to know up front. The phone tool's starter plan covers 30 calls a month. Past that, it's $1.50 per extra call, or $59.95 a month for 90 calls. So if your phone is busy, that bill goes up.
 
 Which one sounds more useful to you, the calls or the reviews?"
 
@@ -35,7 +37,7 @@ Which one sounds more useful to you, the calls or the reviews?"
 ## 2. Text or phone version
 
 **Text:**
-"Hey [Name], it's Ryan. I'm testing a free 2-week setup with a few local businesses I know. I'll set up one thing for you at no cost: either something that answers the calls you miss and texts you the details, or something that asks your customers for Google reviews automatically. No card, nothing to sign, and I turn it off if you don't like it. Want to hear more? Happy to swing by."
+"Hey [Name], it's Ryan. I'm testing a free 2-week setup with a few local businesses I know. I'll set up one thing for you at no cost: either something that answers the calls you miss and texts you the details, or something that asks your customers for Google reviews automatically. No card, nothing to sign, and I turn it off if you don't like it. Want to hear more? Happy to swing by and set it up in person."
 
 **Phone (short):**
 "Hey [Name], it's Ryan Hovis. Got 2 minutes? I'm trying something with a few local businesses I know. Free for 2 weeks, I set up one tool for you. Either it catches the calls you miss, or it asks your customers for reviews. After 2 weeks I show you what it did, and you decide. If you don't want it, I turn it off. Would that help you?"
@@ -64,13 +66,13 @@ What did you think? Anything you didn't like?
 [Listen. Write it down.]
 
 So here are your choices:
-1. **Keep it.** $299 one time for the setup, and $49 a month for me to keep it updated, check it, and send you a short report each month. [Phone only: Upfirst bills you directly, starting at $24.95 a month for 30 calls.] You can cancel any time.
+1. **Keep it.** $299 one time for the setup, due today. If it's easier, split it: $150 now and $149 next month. Then $49 a month for me to keep it updated, check it, and send you a short report each month. [Phone only: Upfirst bills you directly, starting at $24.95 a month for 30 calls. Past 30 calls it's $1.50 each, or $59.95 a month for 90 calls. With your [X] calls in 2 weeks, that's about [plan] for you.] You can cancel any time.
 2. **Stop.** I turn it off today, put your phone back the way it was, and you owe nothing.
 
 Which one?"
 
 **If they want it but the price is a stretch:**
-"What part matters most to you? We can keep it simple." (Don't drop the price on the spot. Write it down and talk to Timothy and Grok Bot about it later.)
+"We can split the $299 over two months, $150 now and $149 next month." If it's still too much: "What part matters most to you? We can keep it simple." (Don't drop the price on the spot. Write it down and talk to Timothy and Grok Bot about it later.)
 
 **If they say no:**
 "No problem at all, thanks for trying it. I'll turn it off today. Mind if I ask what would have made it worth it?"
