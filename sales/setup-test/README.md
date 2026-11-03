@@ -1,3 +1,5 @@
+> **SHELVED Nov 3, 2026:** Ryan dropped this test (no affiliation, no recurring income). No Stripe links, no outreach. Focus is traffic.
+
 # Local Setup Service Test (prep only, for Grok Bot review)
 
 Free 2-week setup of ONE tool for a local business Ryan knows. Then $299 one time + a monthly fee if they keep it. Nobody has been contacted. Nothing has been signed up for.
