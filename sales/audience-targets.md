@@ -1,6 +1,7 @@
 # Audience targets
 
-## Status (updated Nov 3, 2026)
+## Status (updated Nov 5, 2026)
+- Nov 5 Batch 10 (sales/traffic-batch-nov05.md, to Grok Bot): F1 Launching Next free form PREPARED; F2 PitchWall free launch PREPARED (may need account); F3 StartupBase needs Ryan's Google/LinkedIn/X login. A9 RightAIChoice full until Dec 5, 2026 (optional reopen reminder). Skipped: Honest HVAC Marketing, HVAC is Life, Lilach Bullock plumbing/HVAC pages (all require first-hand trade/client experience). E1 907 pitch DELAYED in Gmail (retrying until ~Nov 6 1:17 PM ET). Leadsakolytos guest post LIVE (EN + ES); must be shared on our channels by ~Nov 10.
 - Nov 3 Batch 9 (sales/traffic-batch-nov03.md, to Grok Bot): E1 907 Heating and Plumbing email + E2 Read This Online form PREPARED. E3 Plumbers Elite needs Ryan's LinkedIn URL (form requires it). Skipped: C5 Lilach Bullock (wants first-hand renovation-firm experience), There Is An AI Tool / FutureStack (AI-tool-only, likely reject like Dang.ai). Batch 8 still unsent as of Nov 3.
 - Nov 2 Batch 8 (sales/traffic-batch-nov02.md, to Grok Bot): final roundup follow-ups to AI Stack Guides + SoftwareSuggest; D1 Contractor Software Hub email; D2 1-800-Bizops form; D3 OBO form. Dang.ai sent paid upsell Nov 1 (ignore). Best Productivity Resources needs Ryan's LinkedIn DM.
 - Oct 30 Batch 7 (sales/traffic-batch-oct30.md, awaiting Grok Bot approval): new C1 Leadsakolytos, C2 Local SEO Guy, C3 Finderify pitches PREPARED; 2 Reddit answer drafts (r/handyman, r/smallbusiness). Dang.ai rejected free listing Oct 29 (paid only) — closed.
@@ -72,6 +73,13 @@ Best angle: offer a non-promotional article such as "A 10-minute test call befor
 | 2 | 1-800-Bizops resource hub | form at https://1-800-bizops.com/directory/type/resources | Link + email only; ops audience (weaker fit) | Form PREPARED Nov 2 |
 | 3 | OBO Submit a Resource | https://onlinebusinessowner.com/submit-resource | Entrepreneur resource directory (weaker fit) | Form PREPARED Nov 2 |
 | 4 | Best Productivity Resources | LinkedIn DM to Shushant Lakhyani | Free, hand-reviewed; needs Ryan's LinkedIn | Needs Ryan |
+
+## F. New $0 targets (added Nov 5, 2026)
+| # | Target | Route | Notes | Status |
+|---|---|---|---|---|
+| 1 | Launching Next | https://www.launchingnext.com/submit/ | Free form, no account; $99 upgrade optional (skip) | Form PREPARED Nov 5 |
+| 2 | PitchWall | https://pitchwall.co/submit | Free launch, ~30-day wait, dofollow | PREPARED Nov 5 (may need account) |
+| 3 | StartupBase | startupbase.io | Needs Google/LinkedIn/X login | Needs Ryan |
 
 ## E. New $0 targets (added Nov 3, 2026)
 | # | Outlet | Contact | Notes | Status |

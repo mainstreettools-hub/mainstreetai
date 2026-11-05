@@ -22,3 +22,8 @@ Bing's quota is 100 URLs a day per site (seen Nov 3, 2026). Check this list befo
 ## Status at the time of submission
 - Bing Site Scan "mainstreetai-nov3" was queued Nov 3. Results arrive by email to mainstreettools@gmail.com and at https://www.bing.com/webmasters/sitescan?siteUrl=https://mainstreetai.tools/
 - GSC (last updated 10/22/26): 68 pages indexed, 24 not indexed (21 "Discovered - currently not indexed", 2 "Crawled - currently not indexed", 1 alternate page with a canonical tag).
+
+## 2026-11-05, getfixstack.com — queued for Bing URL submission (IndexNow already pinged)
+- https://getfixstack.com/errors/supabase-cli-inbucket-no-longer-supported/
+- https://getfixstack.com/errors/supabase-cli-hosted-mutation-consent-required/
+- https://getfixstack.com/errors/supabase-cli-db-push-no-remote-silent-local/
