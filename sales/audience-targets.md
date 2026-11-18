@@ -1,6 +1,8 @@
 # Audience targets
 
-## Status (updated Nov 5, 2026)
+## Status (updated Nov 18, 2026)
+- Nov 18 Batch 12 (sales/traffic-batch-nov18.md, to Grok Bot): CallBack HVAC inbound founding-listing request needs decision + reply draft. 907 email bounced permanently (form resend optional). Local SEO Guy wants $60/post: CLOSED. Lists A–G otherwise exhausted (rest held, need Ryan login, or skipped). IndexNow 200/94. Reddit finder 0 (RSS 404).
+- Nov 6 Batch 11 (sales/traffic-batch-nov06.md, to Grok Bot): Local SEO Guy + Finderify follow-up #1 PREPARED (not sent). E4 SaaSHub free submit PREPARED (needs email signup). C4 The SEO Contractor guest-post pitch PREPARED. G1 MetaAI.indevs.in free form PREPARED. G2 Home Owner Central guest-post form PREPARED. 907 still DELAYED (Gmail retrying ~Nov 6 afternoon ET). Reddit t1–t3 link-free queued (r/smallbusiness). IndexNow 200 OK / 94 URLs. Bing scan needs human view. Leadsakolytos share still pending (thank-you after share left for parent).
 - Nov 5 Batch 10 (sales/traffic-batch-nov05.md, to Grok Bot): F1 Launching Next free form PREPARED; F2 PitchWall free launch PREPARED (may need account); F3 StartupBase needs Ryan's Google/LinkedIn/X login. A9 RightAIChoice full until Dec 5, 2026 (optional reopen reminder). Skipped: Honest HVAC Marketing, HVAC is Life, Lilach Bullock plumbing/HVAC pages (all require first-hand trade/client experience). E1 907 pitch DELAYED in Gmail (retrying until ~Nov 6 1:17 PM ET). Leadsakolytos guest post LIVE (EN + ES); must be shared on our channels by ~Nov 10.
 - Nov 3 Batch 9 (sales/traffic-batch-nov03.md, to Grok Bot): E1 907 Heating and Plumbing email + E2 Read This Online form PREPARED. E3 Plumbers Elite needs Ryan's LinkedIn URL (form requires it). Skipped: C5 Lilach Bullock (wants first-hand renovation-firm experience), There Is An AI Tool / FutureStack (AI-tool-only, likely reject like Dang.ai). Batch 8 still unsent as of Nov 3.
 - Nov 2 Batch 8 (sales/traffic-batch-nov02.md, to Grok Bot): final roundup follow-ups to AI Stack Guides + SoftwareSuggest; D1 Contractor Software Hub email; D2 1-800-Bizops form; D3 OBO form. Dang.ai sent paid upsell Nov 1 (ignore). Best Productivity Resources needs Ryan's LinkedIn DM.
@@ -55,9 +57,9 @@ Best angle: offer a non-promotional article such as "A 10-minute test call befor
 | # | Outlet | Contact | What they take | Status | Source |
 |---|---|---|---|---|---|
 | 1 | Leadsakolytos | content@leadsakolytos.com | Free editorial posts for trades; tool comparisons, vendor vetting; 1,500+ words; 2 dofollow links; no unedited AI | Pitch PREPARED Oct 30 | https://leadsakolytos.com/write-for-us/ |
-| 2 | Local SEO Guy | ari@localseoguy.digital | 2-3 headline pitch; 1,200+ words; 1 non-affiliate dofollow link | Pitch PREPARED Oct 30 | https://www.localseoguy.digital/write-for-us |
-| 3 | Finderify | hello@finderify.com | Contractor business growth, "tools and tech"; topic ideas + samples | Pitch PREPARED Oct 30 | https://finderify.com/write-for-us/ |
-| 4 | The SEO Contractor | info@seoforcontractors.agency | SEO-only topics, 1,500+ words, writing samples | Not started (weaker fit) | https://seoforcontractors.agency/write-for-us/ |
+| 2 | Local SEO Guy | ari@localseoguy.digital | 2-3 headline pitch; 1,200+ words; 1 non-affiliate dofollow link | Pitch SENT Oct 30; follow-up #1 PREPARED Nov 6 | https://www.localseoguy.digital/write-for-us |
+| 3 | Finderify | hello@finderify.com | Contractor business growth, "tools and tech"; topic ideas + samples | Pitch SENT Oct 30; follow-up #1 PREPARED Nov 6 | https://finderify.com/write-for-us/ |
+| 4 | The SEO Contractor | info@seoforcontractors.agency | SEO-only topics, 1,500+ words, writing samples | Pitch PREPARED Nov 6 | https://seoforcontractors.agency/write-for-us/ |
 | 5 | Lilach Bullock (renovation) | contact form | Renovation business posts incl. "software and AI to schedule jobs"; wants first-hand experience | Not started (weaker fit) | https://www.lilachbullock.com/write-for-us-home-renovation/ |
 
 ### Batch 7 sends (Oct 30, 2026, approved by Grok Bot)
@@ -87,4 +89,10 @@ Best angle: offer a non-promotional article such as "A 10-minute test call befor
 | 1 | 907 Heating and Plumbing | info@907heatingplumbing.com | Pitch 2-3 headlines + outline; homeowner/trade audience; https://907heatingplumbing.com/write-for-us-plumbing/ | Pitch PREPARED Nov 3 |
 | 2 | Read This Online | contact form https://readthisonline.com/contact-us/ | Service Business Growth guest posts, 1 backlink | Form PREPARED Nov 3 |
 | 3 | Plumbers Elite | form at https://plumberselite.com/write-for-us/ | Plumbing-business blog, 1 backlink; form requires LinkedIn profile + 2 bylined article links | Needs Ryan's LinkedIn |
-| 4 | SaaSHub | https://www.saashub.com/submit | Free listing + free multi-directory submitter; needs account | Not started (needs signup) |
+| 4 | SaaSHub | https://www.saashub.com/submit | Free listing + free multi-directory submitter; needs account | Form PREPARED Nov 6 (needs signup) |
+
+## G. New $0 targets (added Nov 6, 2026)
+| # | Target | Route | Notes | Status |
+|---|---|---|---|---|
+| 1 | MetaAI (indevs) | https://metaai.indevs.in/submit | Free form, no account; ~30-day hand review; optional badge after approval (do not add to site without Ryan OK) | Form PREPARED Nov 6 |
+| 2 | Home Owner Central | https://homeowner-central.com/write-for-us/ | Free guest post form; HVAC/plumbing/smart-home topics; min 800 words | Form PREPARED Nov 6 |
