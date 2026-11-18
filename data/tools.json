@@ -1256,5 +1256,41 @@
       "setup": "Not published",
       "source": "https://crisp.chat/pricing"
     }
+  },
+  {
+    "slug": "callback-hvac",
+    "category": "phone-receptionists",
+    "name": "CallBack HVAC",
+    "url": "https://callbackhvac.com",
+    "summary": "A missed-call text-back tool for HVAC shops, not an AI receptionist and not a full field-service system. On a supported unanswered call the caller can press 1 to request one service text, and your team follows up from a dashboard.",
+    "pricing": "$149/mo per HVAC company after a 14-day free trial (no credit card, cancel anytime). Phone-provider costs (number, registration, texts, calls) are billed separately by your provider, including during the trial.",
+    "pricing_verified": true,
+    "pricing_checked": "Nov 18, 2026",
+    "vetted_checked": "Nov 18, 2026",
+    "setup_effort": "medium",
+    "setup_time": "10–15 days if you need a new Twilio texting campaign reviewed (Twilio's current estimate, as cited on CallBack's pricing page)",
+    "best_trades": [
+      "HVAC"
+    ],
+    "pros": [
+      "One published price, $149/mo, with a 14-day trial and no credit card",
+      "Keeps your own provider number and data; month-to-month, cancel anytime",
+      "Consent-gated texts with STOP support, plus a lead dashboard with call outcomes and CSV export",
+      "Honest about its limits: the vendor says it does not replace a CRM, dispatch platform or live answering service"
+    ],
+    "cons": [
+      "Not an AI receptionist: it does not answer or book calls, and your team still owns every callback",
+      "Phone-provider costs are extra, and the trial clock keeps running during setup and carrier review",
+      "Twilio is the standard setup; Telnyx and Plivo need to be confirmed with the vendor first",
+      "Each account covers one HVAC business and one provider number",
+      "Its AI call-handling pilots are separate, separately approved add-ons, not part of the $149 plan"
+    ],
+    "founding_slot": 1,
+    "index": {
+      "start": "$149/mo per HVAC company (phone-provider costs separate)",
+      "free": "Yes: 14-day free trial, no card",
+      "setup": "Not published",
+      "source": "https://callbackhvac.com/pricing"
+    }
   }
 ]

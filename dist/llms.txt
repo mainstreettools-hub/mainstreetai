@@ -1,10 +1,10 @@
 # MainStreetAI
 
-> A directory of 42 vetted AI tools for local service and small businesses (contractors, plumbers, HVAC, clinics, law offices, realtors, solo operators). Each listing gives published pricing (checked Oct 2026), setup effort, best-fit trades, pros and cons.
+> A directory of 43 vetted AI tools for local service and small businesses (contractors, plumbers, HVAC, clinics, law offices, realtors, solo operators). Each listing gives published pricing (checked Oct 2026), setup effort, best-fit trades, pros and cons.
 
 Full text of every listing: https://mainstreetai.tools/llms-full.txt
 
-Pricing index (all 42 tools: starting price, free plan or trial, setup fee, source link; updated Oct 2026): https://mainstreetai.tools/pricing-index — CSV: https://mainstreetai.tools/downloads/ai-tools-pricing-index.csv
+Pricing index (all 43 tools: starting price, free plan or trial, setup fee, source link; updated Oct 2026): https://mainstreetai.tools/pricing-index — CSV: https://mainstreetai.tools/downloads/ai-tools-pricing-index.csv
 
 ## 24/7 Phone Receptionists
 
@@ -21,6 +21,7 @@ Pricing index (all 42 tools: starting price, free plan or trial, setup fee, sour
 - [Abby Connect](https://mainstreetai.tools/tools/abby-connect): Human receptionist team with AI tools, assigned to your business for a personal feel.
 - [ServiceAgent](https://mainstreetai.tools/tools/serviceagent): AI front office for home-service shops: answers calls, books jobs, invoices and runs CRM workflows on a credit-based plan.
 - [OnCrew](https://mainstreetai.tools/tools/oncrew): AI receptionist built for HVAC, plumbing and electrical shops: answers 24/7, triages emergencies and emails job summaries with transcripts.
+- [CallBack HVAC](https://mainstreetai.tools/tools/callback-hvac): A missed-call text-back tool for HVAC shops, not an AI receptionist and not a full field-service system. On a supported unanswered call the caller can press 1 to request one service text, and your team follows up from a dashboard.
 
 ## Field Service & Scheduling
 
@@ -113,7 +114,7 @@ Pricing index (all 42 tools: starting price, free plan or trial, setup fee, sour
 
 ## Pricing
 
-- [AI tools pricing index (Oct 2026)](https://mainstreetai.tools/pricing-index): starting paid price, free plan or trial, and setup fee for all 42 tools, from vendor pricing pages
+- [AI tools pricing index (Oct 2026)](https://mainstreetai.tools/pricing-index): starting paid price, free plan or trial, and setup fee for all 43 tools, from vendor pricing pages
 - [Pricing index CSV](https://mainstreetai.tools/downloads/ai-tools-pricing-index.csv)
 - [How we vet tools](https://mainstreetai.tools/how-we-vet): what the Vetted badge means: site live, pricing posted and re-checked on the vendor's page, privacy policy present, no scam signs; badges can't be bought
 
