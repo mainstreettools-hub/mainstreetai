@@ -1292,5 +1292,46 @@
       "setup": "Not published",
       "source": "https://callbackhvac.com/pricing"
     }
+  },
+  {
+    "slug": "get-more-jobs-ai",
+    "category": "phone-receptionists",
+    "name": "Get.More.Jobs AI",
+    "url": "https://getmorejobsai.online",
+    "summary": "A home-service AI lead-conversion system, not a general-purpose receptionist. The vendor says it answers calls and website chat 24/7, qualifies the lead, books into your calendar, texts missed calls in under 60 seconds, and follows up unsold estimates. We have not run it in a live shop; this review is from the public site and pricing, checked Nov 23, 2026.",
+    "pricing": "Founding rate $247/mo for the first 3 months, then $497/mo. Setup is waived ($500 value) for the first 5 founding members in each market, in exchange for a testimonial and permission to share results. One plan, no per-minute billing, month-to-month, cancel anytime. 30-day money-back guarantee covers the first month. Standard SMS and email usage is billed at cost, estimated up front. The $247 rate is an introductory founding price, not the ongoing rate.",
+    "pricing_verified": true,
+    "pricing_checked": "Nov 23, 2026",
+    "vetted_checked": "Nov 23, 2026",
+    "setup_effort": "easy",
+    "setup_time": "48 hours after approval (done-for-you and async; no call required)",
+    "best_trades": [
+      "Garage door",
+      "HVAC",
+      "Plumbers",
+      "Roofers",
+      "Pest control"
+    ],
+    "pros": [
+      "One published plan with no per-minute meters, plus a 30-day money-back guarantee on the first month and cancel-anytime billing",
+      "Built for home-service trades, including garage door: answers calls and website chat, qualifies, books the calendar, texts missed calls in under 60 seconds, and follows up unsold estimates",
+      "Done-for-you setup; vendor says live within 48 hours of approval, with no sales call required",
+      "Includes a branded CRM, automatic review requests, and a day-14 report of calls answered and jobs booked",
+      "Free Lead Leak Report to run your own numbers, with no card required"
+    ],
+    "cons": [
+      "The $247/mo founding rate lasts only 3 months, then the price becomes $497/mo — more than many per-minute or unlimited receptionist plans on this site",
+      "The waived setup and founding rate are limited to the first 5 members in each market and require a testimonial plus permission to share results",
+      "Standard SMS and email usage is billed at cost on top of the monthly fee",
+      "Calendar booking depends on supported integrations being configured; call forwarding to keep your existing number depends on your carrier and is confirmed during onboarding",
+      "We have not tested booking or missed-call text-back first-hand; the public terms and privacy pages are still marked as templates to be reviewed before ad launch"
+    ],
+    "founding_slot": 2,
+    "index": {
+      "start": "$247/mo for 3 months, then $497/mo (founding offer)",
+      "free": "No published product trial; free Lead Leak Report (no card)",
+      "setup": "Free ($500 value) for the first 5 founding members in each market",
+      "source": "https://getmorejobsai.online/"
+    }
   }
 ]
