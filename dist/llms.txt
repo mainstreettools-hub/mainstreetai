@@ -112,6 +112,7 @@ Pricing index (all 44 tools: starting price, free plan or trial, setup fee, sour
 - [Best Tools for Painting Contractors (2026)](https://mainstreetai.tools/guides/best-tools-for-painting-contractors): Estimates, scheduling, call answering and bookkeeping for painting contractors, with published prices checked Oct 2026.
 - [Best Tools for Pool Service Companies (2026)](https://mainstreetai.tools/guides/best-tools-for-pool-service): AI receptionist and scheduling software for pool service companies, with published prices checked Oct 2026.
 - [Best AI Receptionist for Garage Door Companies (2026)](https://mainstreetai.tools/guides/best-ai-receptionist-for-garage-door-companies): AI answering services that pick up stuck-door and broken-spring calls after hours, ranked by price, minutes included and setup time. Pricing checked Oct 2026.
+- [Where AI Assistants Find Local Businesses (2026)](https://mainstreetai.tools/guides/where-ai-assistants-find-local-businesses): AI Syndicate's November 2026 AI Local Report asked 12 assistants 147,600 questions. Here is which sites they cite — and where a local shop should get listed first.
 
 ## Pricing
 
