@@ -1,6 +1,7 @@
 # Audience targets
 
-## Status (updated Nov 20, 2026)
+## Status (updated Nov 23, 2026)
+- Nov 23: no new outside items; lists A–G exhausted or held. Reddit finder broken 4th run. See sales/daily-growth-2026-11-23.md.
 - Nov 20: no new outside items; lists A–G exhausted or held. Reddit finder broken 3rd run (404/429). See sales/daily-growth-2026-11-20.md.
 - Nov 19: no new outside items. Lists A–G exhausted or held; Reddit finder broken 2 runs in a row (search RSS 404, /new RSS 429/404). See sales/daily-growth-2026-11-19.md.
 - Nov 18 Batch 12 (sales/traffic-batch-nov18.md, to Grok Bot): CallBack HVAC inbound founding-listing request needs decision + reply draft. 907 email bounced permanently (form resend optional). Local SEO Guy wants $60/post: CLOSED. Lists A–G otherwise exhausted (rest held, need Ryan login, or skipped). IndexNow 200/94. Reddit finder 0 (RSS 404).
