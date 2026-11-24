@@ -1,6 +1,7 @@
 # Audience targets
 
-## Status (updated Nov 23, 2026)
+## Status (updated Nov 24, 2026)
+- Nov 24: no new outside items; lists A–G exhausted or held. Nima (Get.More.Jobs AI) offered demo + trial; reply draft to Grok Bot. Reddit finder broken 5th run. See sales/daily-growth-2026-11-24.md.
 - Nov 23: no new outside items; lists A–G exhausted or held. Reddit finder broken 4th run. See sales/daily-growth-2026-11-23.md.
 - Nov 20: no new outside items; lists A–G exhausted or held. Reddit finder broken 3rd run (404/429). See sales/daily-growth-2026-11-20.md.
 - Nov 19: no new outside items. Lists A–G exhausted or held; Reddit finder broken 2 runs in a row (search RSS 404, /new RSS 429/404). See sales/daily-growth-2026-11-19.md.
