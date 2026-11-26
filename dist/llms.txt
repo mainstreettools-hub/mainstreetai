@@ -1,10 +1,10 @@
 # MainStreetAI
 
-> A directory of 44 vetted AI tools for local service and small businesses (contractors, plumbers, HVAC, clinics, law offices, realtors, solo operators). Each listing gives published pricing (checked Oct 2026), setup effort, best-fit trades, pros and cons.
+> A directory of 45 vetted AI tools for local service and small businesses (contractors, plumbers, HVAC, clinics, law offices, realtors, solo operators). Each listing gives published pricing (checked Oct 2026), setup effort, best-fit trades, pros and cons.
 
 Full text of every listing: https://mainstreetai.tools/llms-full.txt
 
-Pricing index (all 44 tools: starting price, free plan or trial, setup fee, source link; updated Oct 2026): https://mainstreetai.tools/pricing-index — CSV: https://mainstreetai.tools/downloads/ai-tools-pricing-index.csv
+Pricing index (all 45 tools: starting price, free plan or trial, setup fee, source link; updated Oct 2026): https://mainstreetai.tools/pricing-index — CSV: https://mainstreetai.tools/downloads/ai-tools-pricing-index.csv
 
 ## 24/7 Phone Receptionists
 
@@ -23,6 +23,7 @@ Pricing index (all 44 tools: starting price, free plan or trial, setup fee, sour
 - [OnCrew](https://mainstreetai.tools/tools/oncrew): AI receptionist built for HVAC, plumbing and electrical shops: answers 24/7, triages emergencies and emails job summaries with transcripts.
 - [CallBack HVAC](https://mainstreetai.tools/tools/callback-hvac): A missed-call text-back tool for HVAC shops, not an AI receptionist and not a full field-service system. On a supported unanswered call the caller can press 1 to request one service text, and your team follows up from a dashboard.
 - [Get.More.Jobs AI](https://mainstreetai.tools/tools/get-more-jobs-ai): A home-service AI lead-conversion system, not a general-purpose receptionist. The vendor says it answers calls and website chat 24/7, qualifies the lead, books into your calendar, texts missed calls in under 60 seconds, and follows up unsold estimates. We have not run it in a live shop; this review is from the public site and pricing, checked Nov 23, 2026.
+- [Nimble Chat Pro](https://mainstreetai.tools/tools/nimble-chat-pro): An AI receptionist for local businesses, with website chat on every plan. Business and Pro add in-chat calendar booking (the owner approves the appointment). Pro adds a 24/7 AI phone that the vendor says is live in a limited form. Nimble installs the chat on the website you already have. We have not run it in a live shop; this review is from the public site and pricing pages, checked Nov 26, 2026.
 
 ## Field Service & Scheduling
 
@@ -116,7 +117,7 @@ Pricing index (all 44 tools: starting price, free plan or trial, setup fee, sour
 
 ## Pricing
 
-- [AI tools pricing index (Oct 2026)](https://mainstreetai.tools/pricing-index): starting paid price, free plan or trial, and setup fee for all 44 tools, from vendor pricing pages
+- [AI tools pricing index (Oct 2026)](https://mainstreetai.tools/pricing-index): starting paid price, free plan or trial, and setup fee for all 45 tools, from vendor pricing pages
 - [Pricing index CSV](https://mainstreetai.tools/downloads/ai-tools-pricing-index.csv)
 - [How we vet tools](https://mainstreetai.tools/how-we-vet): what the Vetted badge means: site live, pricing posted and re-checked on the vendor's page, privacy policy present, no scam signs; badges can't be bought
 

@@ -1333,5 +1333,46 @@
       "setup": "Free ($500 value) for the first 5 founding members in each market",
       "source": "https://getmorejobsai.online/"
     }
+  },
+  {
+    "slug": "nimble-chat-pro",
+    "category": "phone-receptionists",
+    "name": "Nimble Chat Pro",
+    "url": "https://www.nimblechatpro.com/",
+    "summary": "An AI receptionist for local businesses, with website chat on every plan. Business and Pro add in-chat calendar booking (the owner approves the appointment). Pro adds a 24/7 AI phone that the vendor says is live in a limited form. Nimble installs the chat on the website you already have. We have not run it in a live shop; this review is from the public site and pricing pages, checked Nov 26, 2026.",
+    "pricing": "Starter $49/mo, Business $99/mo, or Pro $149/mo, per location (one business per plan). The top tier (Pro) is free for 30 days, with no card needed to start. The $499 done-for-you setup and the first month are charged after the trial, only if you pick a plan and stay. The setup installs chat on your existing website, loads your business information and FAQs, and verifies it is live. AI email is not live yet. The site says you can cancel any time.",
+    "pricing_verified": true,
+    "pricing_checked": "Nov 26, 2026",
+    "vetted_checked": "Nov 26, 2026",
+    "setup_effort": "easy",
+    "setup_time": "Not published; Nimble installs the chat on your existing website",
+    "best_trades": [
+      "Home services",
+      "Insurance agencies",
+      "Barbershops & salons",
+      "Auto repair",
+      "Pet grooming"
+    ],
+    "pros": [
+      "Three published prices: Starter $49/mo, Business $99/mo, and Pro $149/mo, per location",
+      "Top tier (Pro) is free for 30 days with no card needed to start; the $499 setup and first month are charged after the trial only if you pick a plan and stay",
+      "Done-for-you setup: Nimble installs the chat on your existing website, loads your business information and FAQs, and verifies it live — you never add code",
+      "Starter includes website chat that answers from your business information, lead capture, human handoff, and callback requests",
+      "Business and Pro add in-chat calendar booking, where visitors request a time and the owner approves"
+    ],
+    "cons": [
+      "The Pro 24/7 AI phone is live only in a limited form, and AI email is not live yet",
+      "If you stay after the trial, you pay a $499 done-for-you setup fee plus the first month of the plan you pick",
+      "Prices are per location; each location needs its own plan",
+      "Rescheduling in chat is still to come",
+      "We have not tested the chat, booking, or phone first-hand"
+    ],
+    "founding_slot": 3,
+    "index": {
+      "start": "$49/mo per location (Starter); Business $99/mo; Pro $149/mo",
+      "free": "Yes: top tier (Pro) free for 30 days, no card to start",
+      "setup": "$499 done-for-you, charged after the trial only if you pick a plan and stay",
+      "source": "https://www.nimblechatpro.com/pricing"
+    }
   }
 ]
